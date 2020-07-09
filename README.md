@@ -9,6 +9,6 @@
 
 📷&nbsp;&nbsp;[instagram.com/nickytonline](https://instagram.com/nickytonline)
 
-My name is Nick Taylor. I am a Senior Software Developer at [DEV](https://dev.to) working on all things DEV. I am a big fan of TypeScript, JavaScript, React and Node. Once upon a time, I was into C#/ASP.NET. Aside from programming, I enjoy hitting the gym, snowboarding in the winter and a long long time ago, rugby. I am also not a big fan of spiders.
+My name is Nick Taylor. I am a Senior Software Developer at [DEV](https://dev.to) working on all things DEV. I am a big fan of TypeScript, JavaScript, React and Node. Once upon a time, I was into C#/ASP.NET. Aside from programming, I enjoy hitting the gym, snowboarding, and a long long time ago, rugby. I am also not a big fan of spiders.
 
 More about me at [iamdeveloper.com](https://iamdeveloper.com).
