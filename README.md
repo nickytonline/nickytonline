@@ -5,9 +5,9 @@
 
 💻&nbsp;&nbsp;Senior Software Developer [@thepracticaldev](https://github.com/thepracticaldev)
 
-🗒️&nbsp;&nbsp;Curator of [@vscodetips](https://twitter.com/vscodetips) on Twitter
-
 🎙️&nbsp;&nbsp;Live Coding at [doingdevfordev.com](https://doingdevfordev.com)
+
+🗒️&nbsp;&nbsp;Curator of [@vscodetips](https://twitter.com/vscodetips) on Twitter
 
 📷&nbsp;&nbsp;[instagram.com/nickytonline](https://instagram.com/nickytonline)
 
