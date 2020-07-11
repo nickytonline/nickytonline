@@ -1,3 +1,5 @@
+# <em>HI!</em> I'm Nick. 👋🏻
+
 ![A picture of a stuff toy panda laying on a dumpster. This is my GitHub extended profile image.](https://res.cloudinary.com/nickytonline/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_860,c_fit,co_rgb:ffffff,g_south_west,x_30,y_280,l_text:roboto_64_bold:Not%20a%20real%20panda/w_860,c_fit,co_rgb:ffffff/social)
 
 
@@ -11,6 +13,6 @@
 
 <hr />
 
-My name is Nick Taylor. 👋🏻 I am a Senior Software Developer at [DEV](https://dev.to) working on all things DEV. I am a <em>big</em> fan of TypeScript, JavaScript, (P)React and Node. Once upon a time, I was into C#/ASP.NET. Aside from programming, I enjoy hitting the gym, snowboarding, and a long long time ago, rugby. I am also not a big fan of spiders.
+My name is Nick Taylor. I am a Senior Software Developer at [DEV](https://dev.to) working on all things DEV. I am a <em>big</em> fan of TypeScript, JavaScript, (P)React and Node. Once upon a time, I was into C#/ASP.NET. Aside from programming, I enjoy hitting the gym, snowboarding, and a long long time ago, rugby. I am also not a big fan of spiders.
 
 More about me at [iamdeveloper.com](https://iamdeveloper.com).
