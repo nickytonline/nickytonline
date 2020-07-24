@@ -7,6 +7,8 @@
 
 🎙️&nbsp;&nbsp;Live Coding at [doingdevfordev.com](https://doingdevfordev.com)
 
+🐦&nbsp;&nbsp;[@nickytonline](https://twitter.com/nickytonline) on Twitter
+
 🗒️&nbsp;&nbsp;Curator of [@vscodetips](https://twitter.com/vscodetips) on Twitter
 
 📷&nbsp;&nbsp;[instagram.com/nickytonline](https://instagram.com/nickytonline)
