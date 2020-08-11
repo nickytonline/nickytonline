@@ -5,7 +5,7 @@
 
 💻&nbsp;&nbsp;Senior Software Developer [@forem](https://github.com/forem)/[@thepracticaldev](https://github.com/thepracticaldev)
 
-🎙️&nbsp;&nbsp;Live Coding at [doingdevfordev.com](https://doingdevfordev.com)
+🎙️&nbsp;&nbsp;Live Coding at [livecoding.ca](https://livecoding.ca)
 
 🐦&nbsp;&nbsp;[@nickytonline](https://twitter.com/nickytonline) on Twitter
 
