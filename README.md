@@ -5,6 +5,8 @@
 
 💻&nbsp;&nbsp;Lead Software Engineer [@forem](https://github.com/forem)/[@thepracticaldev](https://github.com/thepracticaldev)
 
+🎙&nbsp;&nbsp;Co-host of @thepracticaldev Twitch stream [twitch.tv/thepracticaldev](https://twitch.tv/thepracticaldev)
+
 🎙️&nbsp;&nbsp;Live Coding at [livecoding.ca](https://livecoding.ca)
 
 🐦&nbsp;&nbsp;[@nickytonline](https://twitter.com/nickytonline) on Twitter
