@@ -24,7 +24,7 @@ More about me at [iamdeveloper.com](https://iamdeveloper.com).
 # Latest Content
 <!-- BLOG-POST-LIST:START -->
 - [Jamstack and Serverless with Jason Lengstorf](https://www.iamdeveloper.com/posts/jamstack-and-serverless-with-jason-lengstorf-3jdl/)
+- [Walkthrough Wednesday with Jerome Hardaway](https://www.youtube.com/watch?v=9I2WHfz6spI)
 - [Learn Rust Part 1](https://www.youtube.com/watch?v=eSVxhbbfT34)
-- [Pairing with Community Manager Christina Gorton](https://www.iamdeveloper.com/posts/pairing-with-community-manager-christina-gorton-4537/)
-- [Learning Rust](https://www.iamdeveloper.com/posts/learning-rust-1h2n/)
+- [Pair Programming with Jhey](https://www.youtube.com/watch?v=DDJB8KSh-Sw)
 <!-- BLOG-POST-LIST:END -->
