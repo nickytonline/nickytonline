@@ -23,8 +23,8 @@ More about me at [iamdeveloper.com](https://iamdeveloper.com).
 
 # Latest Content
 <!-- BLOG-POST-LIST:START -->
+- [Jamstack and Serverless with Jason Lengstorf](https://www.iamdeveloper.com/posts/jamstack-and-serverless-with-jason-lengstorf-3jdl/)
 - [Learn Rust Part 1](https://www.youtube.com/watch?v=eSVxhbbfT34)
-- [Nick talks about his stream setup](https://www.youtube.com/watch?v=H7HGYV2dT-w)
-- [Talking Elm with Kirk Shillingford](https://www.youtube.com/watch?v=ajhPfPwEA_E)
-- [Pairing with Taniyah Jackson on a Forem/DEV issue](https://www.youtube.com/watch?v=YUA7k3MQx5g)
+- [Pairing with Community Manager Christina Gorton](https://www.iamdeveloper.com/posts/pairing-with-community-manager-christina-gorton-4537/)
+- [Learning Rust](https://www.iamdeveloper.com/posts/learning-rust-1h2n/)
 <!-- BLOG-POST-LIST:END -->
