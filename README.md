@@ -5,7 +5,7 @@
 
 💻&nbsp;&nbsp;Lead Software Engineer [@forem](https://github.com/forem)
 
-🎙&nbsp;&nbsp;Co-host of the DEV Twitch stream [twitch.tv/thepracticaldev](https://twitch.tv/thepracticaldev)
+🎙&nbsp;&nbsp;Co-host of the [DEV Twitch stream](https://twitch.tv/thepracticaldev)
 
 🎙️&nbsp;&nbsp;Live Coding at [livecoding.ca](https://livecoding.ca)
 
