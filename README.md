@@ -23,8 +23,8 @@ More about me at [iamdeveloper.com](https://iamdeveloper.com).
 
 # Latest Content
 <!-- BLOG-POST-LIST:START -->
+- [Pairing with Jhey Tompkins](https://www.iamdeveloper.com/posts/pairing-with-jhey-tompkins-2k85/)
 - [Learn Rust Part 2](https://www.youtube.com/watch?v=u0iStJR1eCs)
 - [Jamstack and Serverless with Jason Lengstorf](https://www.iamdeveloper.com/posts/jamstack-and-serverless-with-jason-lengstorf-3jdl/)
 - [Walkthrough Wednesday with Jerome Hardaway](https://www.youtube.com/watch?v=9I2WHfz6spI)
-- [Learn Rust Part 1](https://www.youtube.com/watch?v=eSVxhbbfT34)
 <!-- BLOG-POST-LIST:END -->
