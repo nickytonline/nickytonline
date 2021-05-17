@@ -23,8 +23,8 @@ More about me at [iamdeveloper.com](https://iamdeveloper.com).
 
 # Latest Content
 <!-- BLOG-POST-LIST:START -->
+- [Learn Rust Part 4](https://www.youtube.com/watch?v=v-xrDEOPztk)
 - [Walkthrough Wednesday with Nick and Christina](https://www.youtube.com/watch?v=npDJGF1-w3w)
 - [Learn Rust Part 3](https://www.youtube.com/watch?v=-HtBKWWCIiU)
 - [Pairing with Jhey Tompkins](https://www.iamdeveloper.com/posts/pairing-with-jhey-tompkins-2k85/)
-- [Learn Rust Part 2](https://www.youtube.com/watch?v=u0iStJR1eCs)
 <!-- BLOG-POST-LIST:END -->
