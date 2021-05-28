@@ -25,8 +25,8 @@ More about me at [iamdeveloper.com](https://iamdeveloper.com).
 
 # Latest Content
 <!-- BLOG-POST-LIST:START -->
+- [Inaugural JavaScriptHours.com stream](https://www.youtube.com/watch?v=uCP7aczdh6M)
 - [Pair Programming with Meg Gutshall](https://www.youtube.com/watch?v=lpdzrcx60Ho)
 - [Walkthrough Wednesday with Aisha Blake and Pachi Carlson](https://www.youtube.com/watch?v=1fxgct-6zd4)
 - [Learn Rust Part 4](https://www.youtube.com/watch?v=v-xrDEOPztk)
-- [Walkthrough Wednesday with Nick and Christina](https://www.youtube.com/watch?v=npDJGF1-w3w)
 <!-- BLOG-POST-LIST:END -->
