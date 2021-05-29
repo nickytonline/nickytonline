@@ -15,7 +15,7 @@
 
 🗒️&nbsp;&nbsp;Curator of [@vscodetips](https://twitter.com/vscodetips) on Twitter
 
-🤹🏻‍♂️&nbsp;&nbsp;[polywork.com/nickytonline](https://polywork.com/nickytonline)
+🤹🏻‍♂️&nbsp;&nbsp;[Polywork](https://timeline.iamdeveloper.com)
 
 📷&nbsp;&nbsp;[instagram.com/nickytonline](https://instagram.com/nickytonline)
 
