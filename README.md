@@ -27,8 +27,8 @@ More about me at [iamdeveloper.com](https://iamdeveloper.com).
 
 # Latest Content
 <!-- BLOG-POST-LIST:START -->
+- [JavaScriptHours.com: Stream 2](https://www.youtube.com/watch?v=9CY9tTyTWfs)
 - [NaN and Set Keys](https://www.iamdeveloper.com/posts/nan-and-set-keys-21n6/)
 - [Walkthrough Wednesday with Gant Laborde](https://www.youtube.com/watch?v=MbOUaLuyieQ)
 - [I Started a JavaScript Stream on Twitch!](https://www.iamdeveloper.com/posts/i-started-a-javascript-stream-on-twitch-4f3g/)
-- [Inaugural JavaScriptHours.com stream](https://www.youtube.com/watch?v=uCP7aczdh6M)
 <!-- BLOG-POST-LIST:END -->
