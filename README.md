@@ -27,8 +27,8 @@ More about me at [iamdeveloper.com](https://iamdeveloper.com).
 
 # Latest Content
 <!-- BLOG-POST-LIST:START -->
+- [Pairing with Meg Gutshall](https://www.iamdeveloper.com/posts/pairing-with-meg-gutshall-28o7/)
 - [JavaScriptHours.com: Stream 2](https://www.youtube.com/watch?v=9CY9tTyTWfs)
 - [NaN and Set Keys](https://www.iamdeveloper.com/posts/nan-and-set-keys-21n6/)
 - [Walkthrough Wednesday with Gant Laborde](https://www.youtube.com/watch?v=MbOUaLuyieQ)
-- [I Started a JavaScript Stream on Twitch!](https://www.iamdeveloper.com/posts/i-started-a-javascript-stream-on-twitch-4f3g/)
 <!-- BLOG-POST-LIST:END -->
