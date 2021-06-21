@@ -27,8 +27,8 @@ More about me at [iamdeveloper.com](https://iamdeveloper.com).
 
 # Latest Content
 <!-- BLOG-POST-LIST:START -->
+- [JavaScriptHours.com: Stream 2](https://www.youtube.com/watch?v=lNYa9tvPQ7M)
 - [Walkthrough Wednesday with Cassidy Williams](https://www.youtube.com/watch?v=ndGOOW8zSJo)
 - [I started a newsletter!](https://www.iamdeveloper.com/posts/i-started-a-newsletter-3g8d/)
 - [Pair Programming with Christina Gorton and Nick Taylor](https://www.youtube.com/watch?v=fxeRmPvJUQs)
-- [Pairing with Meg Gutshall](https://www.iamdeveloper.com/posts/pairing-with-meg-gutshall-28o7/)
 <!-- BLOG-POST-LIST:END -->
