@@ -27,8 +27,8 @@ More about me at [iamdeveloper.com](https://iamdeveloper.com).
 
 # Latest Content
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Hours: Building out part of the Jest API Part 1](https://www.youtube.com/watch?v=grQQYYQFS7Y)
 - [JavaScriptHours.com: Stream 3](https://www.youtube.com/watch?v=lNYa9tvPQ7M)
 - [Walkthrough Wednesday with Cassidy Williams](https://www.youtube.com/watch?v=ndGOOW8zSJo)
 - [I started a newsletter!](https://www.iamdeveloper.com/posts/i-started-a-newsletter-3g8d/)
-- [Pair Programming with Christina Gorton and Nick Taylor](https://www.youtube.com/watch?v=fxeRmPvJUQs)
 <!-- BLOG-POST-LIST:END -->
