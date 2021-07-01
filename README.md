@@ -27,8 +27,8 @@ More about me at [iamdeveloper.com](https://iamdeveloper.com).
 
 # Latest Content
 <!-- BLOG-POST-LIST:START -->
+- [Walkthrough Wednesday with Hiroko Nishimura](https://www.youtube.com/watch?v=2lEPBpSghec)
 - [Learning Rust Part 5](https://www.youtube.com/watch?v=iqOIu5ZjGMQ)
 - [JavaScript Hours: Building out part of the Jest API Part 1](https://www.youtube.com/watch?v=grQQYYQFS7Y)
 - [JavaScriptHours.com: Stream 3](https://www.youtube.com/watch?v=lNYa9tvPQ7M)
-- [Walkthrough Wednesday with Cassidy Williams](https://www.youtube.com/watch?v=ndGOOW8zSJo)
 <!-- BLOG-POST-LIST:END -->
