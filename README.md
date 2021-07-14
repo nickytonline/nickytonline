@@ -27,8 +27,8 @@ More about me at [iamdeveloper.com](https://iamdeveloper.com).
 
 # Latest Content
 <!-- BLOG-POST-LIST:START -->
+- [What's your go to state management library these days?](https://www.iamdeveloper.com/posts/what-s-your-go-to-state-management-library-these-days-4kfe/)
 - [Walkthrough Wednesday with Ben Hong](https://www.youtube.com/watch?v=omTggcS7k-g)
 - [Walkthrough Wednesday with Hiroko Nishimura](https://www.youtube.com/watch?v=2lEPBpSghec)
 - [Learning Rust Part 5](https://www.youtube.com/watch?v=iqOIu5ZjGMQ)
-- [JavaScript Hours: Building out part of the Jest API Part 1](https://www.youtube.com/watch?v=grQQYYQFS7Y)
 <!-- BLOG-POST-LIST:END -->
