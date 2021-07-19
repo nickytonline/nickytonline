@@ -29,8 +29,8 @@ More about me at [iamdeveloper.com](https://iamdeveloper.com).
 
 # Latest Content
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with Regular Expressions](https://www.iamdeveloper.com/posts/getting-started-with-regular-expressions-11dg/)
 - [What's your go to state management library these days?](https://www.iamdeveloper.com/posts/what-s-your-go-to-state-management-library-these-days-4kfe/)
 - [Walkthrough Wednesday with Ben Hong](https://www.youtube.com/watch?v=omTggcS7k-g)
 - [Walkthrough Wednesday with Hiroko Nishimura](https://www.youtube.com/watch?v=2lEPBpSghec)
-- [Learning Rust Part 5](https://www.youtube.com/watch?v=iqOIu5ZjGMQ)
 <!-- BLOG-POST-LIST:END -->
