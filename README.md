@@ -29,8 +29,8 @@ More about me at [iamdeveloper.com](https://iamdeveloper.com).
 
 # Latest Content
 <!-- BLOG-POST-LIST:START -->
+- [Liquid Chalk Brand Recommendations?](https://www.iamdeveloper.com/posts/liquid-chalk-brand-recommendations-29al/)
 - [Walkthrough Wednesday with the Code School Crew](https://www.youtube.com/watch?v=ha691P-bA58)
 - [Walkthrough Wednesday with James Q. Quick](https://www.youtube.com/watch?v=Cgp-5eWjO_8)
 - [Getting Started with Regular Expressions](https://www.iamdeveloper.com/posts/getting-started-with-regular-expressions-11dg/)
-- [What's your go to state management library these days?](https://www.iamdeveloper.com/posts/what-s-your-go-to-state-management-library-these-days-4kfe/)
 <!-- BLOG-POST-LIST:END -->
