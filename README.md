@@ -29,8 +29,8 @@ More about me at [iamdeveloper.com](https://iamdeveloper.com).
 
 # Latest Content
 <!-- BLOG-POST-LIST:START -->
+- [Walkthrough Wednesday with Fernando and Josh](https://www.youtube.com/watch?v=Q0LVviE5gB4)
 - [Getting Started with Streaming on Twitch](https://www.iamdeveloper.com/posts/getting-started-with-streaming-on-twitch-4im7/)
 - [Liquid Chalk Brand Recommendations?](https://www.iamdeveloper.com/posts/liquid-chalk-brand-recommendations-29al/)
 - [Walkthrough Wednesday with the Code School Crew](https://www.youtube.com/watch?v=ha691P-bA58)
-- [Walkthrough Wednesday with James Q. Quick](https://www.youtube.com/watch?v=Cgp-5eWjO_8)
 <!-- BLOG-POST-LIST:END -->
