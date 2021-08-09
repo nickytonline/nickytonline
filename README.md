@@ -11,21 +11,21 @@
 
 🎙️&nbsp;&nbsp;Live Coding at [JavaScriptHours.com](https://javascripthours.com)
 
-🐦&nbsp;&nbsp;[@nickytonline](https://twitter.com/nickytonline) on Twitter
+🐦&nbsp;&nbsp;[Twitter](https://twitter.com/nickytonline) on Twitter
 
 🗒️&nbsp;&nbsp;Curator of [@vscodetips](https://twitter.com/vscodetips) on Twitter
 
 🤹🏻‍♂️&nbsp;&nbsp;[Polywork](https://timeline.iamdeveloper.com)
 
-📷&nbsp;&nbsp;[instagram.com/nickytonline](https://instagram.com/nickytonline)
+📷&nbsp;&nbsp;[Instagram](https://instagram.com/nickytonline)
 
 <hr />
 
 My name is Nick Taylor. I am a Lead Software Engineer with a focus on the front-end at Forem, the software that powers <a href="https://dev.to">DEV</a>. I am a <em>big</em> fan of TypeScript, JavaScript, (P)React and Node. Once upon a time, I was into C#/ASP.NET. Aside from programming, I enjoy contributing to open source, hitting the gym, snowboarding, and a long long time ago, rugby.
 
-I am also not a big fan of spiders. 😬
-
 More about me at [iamdeveloper.com](https://iamdeveloper.com).
+
+Subscribe to my [newsletter](https://www.iamdeveloper.com/posts/i-started-a-newsletter-3g8d)!
 
 # Latest Content
 <!-- BLOG-POST-LIST:START -->
