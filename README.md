@@ -29,8 +29,8 @@ Subscribe to my [newsletter](https://www.iamdeveloper.com/posts/i-started-a-news
 
 # Latest Content
 <!-- BLOG-POST-LIST:START -->
+- [Walkthrough Wednesday with Lucia Cerchie](https://www.youtube.com/watch?v=VeFKejYZYHI)
 - [Walkthrough Wednesday with Fernando and Josh](https://www.youtube.com/watch?v=Q0LVviE5gB4)
 - [Getting Started with Streaming on Twitch](https://www.iamdeveloper.com/posts/getting-started-with-streaming-on-twitch-4im7/)
 - [Liquid Chalk Brand Recommendations?](https://www.iamdeveloper.com/posts/liquid-chalk-brand-recommendations-29al/)
-- [Walkthrough Wednesday with the Code School Crew](https://www.youtube.com/watch?v=ha691P-bA58)
 <!-- BLOG-POST-LIST:END -->
