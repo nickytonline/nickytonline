@@ -29,8 +29,8 @@ Subscribe to my [newsletter](https://www.iamdeveloper.com/posts/i-started-a-news
 
 # Latest Content
 <!-- BLOG-POST-LIST:START -->
+- [Learning Rust Part 6](https://www.youtube.com/watch?v=F6ognXsaWqY)
+- [Walkthrough Wednesday with Lucia Cerchie](https://www.youtube.com/watch?v=VeFKejYZYHI)
+- [Walkthrough Wednesday with Fernando and Josh](https://www.youtube.com/watch?v=Q0LVviE5gB4)
 - [Getting Started with Streaming on Twitch](https://www.iamdeveloper.com/posts/getting-started-with-streaming-on-twitch-4im7/)
-- [Liquid Chalk Brand Recommendations?](https://www.iamdeveloper.com/posts/liquid-chalk-brand-recommendations-29al/)
-- [Getting Started with Regular Expressions](https://www.iamdeveloper.com/posts/getting-started-with-regular-expressions-11dg/)
-- [What's your go to state management library these days?](https://www.iamdeveloper.com/posts/what-s-your-go-to-state-management-library-these-days-4kfe/)
 <!-- BLOG-POST-LIST:END -->
