@@ -29,8 +29,8 @@ Subscribe to my [newsletter](https://www.iamdeveloper.com/posts/i-started-a-news
 
 # Latest Content
 <!-- BLOG-POST-LIST:START -->
+- [First impressions of Polywork as a software engineer](https://www.iamdeveloper.com/posts/impressions-of-polywork-3pbp/)
 - [Learning Rust Part 6](https://www.youtube.com/watch?v=F6ognXsaWqY)
 - [Walkthrough Wednesday with Lucia Cerchie](https://www.youtube.com/watch?v=VeFKejYZYHI)
 - [Walkthrough Wednesday with Fernando and Josh](https://www.youtube.com/watch?v=Q0LVviE5gB4)
-- [Getting Started with Streaming on Twitch](https://www.iamdeveloper.com/posts/getting-started-with-streaming-on-twitch-4im7/)
 <!-- BLOG-POST-LIST:END -->
