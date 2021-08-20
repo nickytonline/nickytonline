@@ -29,8 +29,8 @@ Subscribe to my [newsletter](https://www.iamdeveloper.com/posts/i-started-a-news
 
 # Latest Content
 <!-- BLOG-POST-LIST:START -->
+- [What's the Best Mesh Router for 2021?](https://www.iamdeveloper.com/posts/what-s-the-best-mesh-router-for-2021-3i1k/)
 - [First impressions of Polywork as a software engineer](https://www.iamdeveloper.com/posts/impressions-of-polywork-3pbp/)
 - [Learning Rust Part 6](https://www.youtube.com/watch?v=F6ognXsaWqY)
 - [Walkthrough Wednesday with Lucia Cerchie](https://www.youtube.com/watch?v=VeFKejYZYHI)
-- [Walkthrough Wednesday with Fernando and Josh](https://www.youtube.com/watch?v=Q0LVviE5gB4)
 <!-- BLOG-POST-LIST:END -->
