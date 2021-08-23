@@ -29,8 +29,8 @@ Subscribe to my [newsletter](https://www.iamdeveloper.com/posts/i-started-a-news
 
 # Latest Content
 <!-- BLOG-POST-LIST:START -->
+- [Learning Rust Part 7](https://www.youtube.com/watch?v=nx0mMJ3Y6gE)
 - [Learn Fastify.io with Arsalan Khattak](https://www.youtube.com/watch?v=1OJp56NWiNY)
 - [What's the Best Mesh Router for 2021?](https://www.iamdeveloper.com/posts/what-s-the-best-mesh-router-for-2021-3i1k/)
 - [First impressions of Polywork as a software engineer](https://www.iamdeveloper.com/posts/impressions-of-polywork-3pbp/)
-- [Learning Rust Part 6](https://www.youtube.com/watch?v=F6ognXsaWqY)
 <!-- BLOG-POST-LIST:END -->
