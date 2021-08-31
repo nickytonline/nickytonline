@@ -29,8 +29,8 @@ Subscribe to my [newsletter](https://www.iamdeveloper.com/posts/i-started-a-news
 
 # Latest Content
 <!-- BLOG-POST-LIST:START -->
+- [Learning Rust Part 8](https://www.youtube.com/watch?v=KS4wxEPTXOs)
 - [Why I created the VSCodeTips community](https://www.iamdeveloper.com/posts/why-i-created-the-vscodetips-community-2bl/)
 - [Walkthrough Wednesday with Laurie Barth](https://www.youtube.com/watch?v=jN_GLyJbOb4)
 - [Learning Rust Part 7](https://www.youtube.com/watch?v=nx0mMJ3Y6gE)
-- [Learn Fastify.io with Arsalan Khattak](https://www.youtube.com/watch?v=1OJp56NWiNY)
 <!-- BLOG-POST-LIST:END -->
