@@ -11,7 +11,7 @@
 
 🎙️&nbsp;&nbsp;Live Coding at [JavaScriptHours.com](https://javascripthours.com)
 
-🐦&nbsp;&nbsp;[Twitter](https://twitter.com/nickytonline) on Twitter
+🐦&nbsp;&nbsp;[nickytonline](https://twitter.com/nickytonline) on Twitter
 
 🗒️&nbsp;&nbsp;Curator of [@vscodetips](https://twitter.com/vscodetips) on Twitter
 
