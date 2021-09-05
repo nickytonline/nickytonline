@@ -29,8 +29,8 @@ Subscribe to my [newsletter](https://www.iamdeveloper.com/posts/i-started-a-news
 
 # Latest Content
 <!-- BLOG-POST-LIST:START -->
+- [Native Bracket Pair Colourization in VS Code](https://www.iamdeveloper.com/posts/native-bracket-pair-colourization-in-vs-code-3f1n/)
 - [Walkthrough Wednesday with Nader Dabit](https://www.youtube.com/watch?v=ekJoBfUpJVI)
 - [What's your dream job?](https://www.iamdeveloper.com/posts/what-s-your-dream-job-o2k/)
 - [Learning Rust Part 8](https://www.youtube.com/watch?v=KS4wxEPTXOs)
-- [Why I created the VSCodeTips community](https://www.iamdeveloper.com/posts/why-i-created-the-vscodetips-community-2bl/)
 <!-- BLOG-POST-LIST:END -->
