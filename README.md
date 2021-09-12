@@ -7,13 +7,11 @@
 
 🎙&nbsp;&nbsp;Co-host of the [DEV Twitch stream](https://twitch.tv/thepracticaldev)
 
-🎙️&nbsp;&nbsp;Live Coding at [livecoding.ca](https://livecoding.ca)
-
-🎙️&nbsp;&nbsp;Live Coding at [JavaScriptHours.com](https://javascripthours.com)
+🎙️&nbsp;&nbsp;Live Coding at [livecoding.ca](https://livecoding.ca) / [JavaScriptHours.com](https://javascripthours.com)
 
 🐦&nbsp;&nbsp;[nickytonline](https://twitter.com/nickytonline) on Twitter
 
-🗒️&nbsp;&nbsp;Curator of [@vscodetips](https://twitter.com/vscodetips) on Twitter
+👾&nbsp;&nbsp;Creator of the [VSCodeTips community](https://community.vscodetips.com)
 
 🤹🏻‍♂️&nbsp;&nbsp;[Polywork](https://timeline.iamdeveloper.com)
 
