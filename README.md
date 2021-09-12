@@ -11,7 +11,7 @@
 
 🐦&nbsp;&nbsp;[Twitter](https://twitter.com/nickytonline)
 
-👾&nbsp;&nbsp;Creator of the [VSCodeTips community](https://community.vscodetips.com)
+🆚&nbsp;&nbsp;Creator of the [VSCodeTips community](https://community.vscodetips.com)
 
 🤹🏻‍♂️&nbsp;&nbsp;[Polywork](https://timeline.iamdeveloper.com)
 
