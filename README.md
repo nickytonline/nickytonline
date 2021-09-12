@@ -9,13 +9,15 @@
 
 🎙️&nbsp;&nbsp;Live Coding at [livecoding.ca](https://livecoding.ca) / [JavaScriptHours.com](https://javascripthours.com)
 
-🐦&nbsp;&nbsp;[nickytonline](https://twitter.com/nickytonline) on Twitter
+🐦&nbsp;&nbsp;[Twitter](https://twitter.com/nickytonline)
 
 👾&nbsp;&nbsp;Creator of the [VSCodeTips community](https://community.vscodetips.com)
 
 🤹🏻‍♂️&nbsp;&nbsp;[Polywork](https://timeline.iamdeveloper.com)
 
 📷&nbsp;&nbsp;[Instagram](https://instagram.com/nickytonline)
+
+Pretty much @nickytonline everywhere
 
 <hr />
 
