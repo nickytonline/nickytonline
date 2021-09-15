@@ -29,8 +29,8 @@ Subscribe to my [newsletter](https://www.iamdeveloper.com/posts/i-started-a-news
 
 # Latest Content
 <!-- BLOG-POST-LIST:START -->
+- [Walkthrough Wednesday with Chris Coyier](https://www.youtube.com/watch?v=ZncQIITVOPI)
 - [Rustlings Part 1](https://www.youtube.com/watch?v=08tAX705CJQ)
 - [Native Bracket Pair Colourization in VS Code](https://www.iamdeveloper.com/posts/native-bracket-pair-colourization-in-vs-code-3f1n/)
 - [Walkthrough Wednesday with Nader Dabit](https://www.youtube.com/watch?v=ekJoBfUpJVI)
-- [Learning Rust Part 8](https://www.youtube.com/watch?v=KS4wxEPTXOs)
 <!-- BLOG-POST-LIST:END -->
