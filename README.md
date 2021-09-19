@@ -29,10 +29,10 @@ Subscribe to my [newsletter](https://www.iamdeveloper.com/posts/i-started-a-news
 
 # Latest Content
 <!-- BLOG-POST-LIST:START -->
+- [freeCodeCamp Dark Theme](https://community.vscodetips.com/nickytonline/freecodecamp-dark-theme-1k13)
 - [freeCodeCamp Relational Database Course in VS Code](https://community.vscodetips.com/nickytonline/freecodecamp-relational-database-course-in-vs-code-49ii)
 - [September 16th: VS Code Tip of the Week](https://community.vscodetips.com/nickytonline/september-16th-vs-code-tip-of-the-week-ljn)
 - [All things VS Code](https://community.vscodetips.com/nickytonline/all-things-vs-code-2mbo)
 - [Integrating Discord with your Forem Instance](https://forem.dev/nickytonline/integrating-discord-with-your-forem-instance-k20)
 - [Walkthrough Wednesday with Chris Coyier](https://www.youtube.com/watch?v=ZncQIITVOPI)
-- [All about web extensions](https://community.vscodetips.com/nickytonline/all-about-web-extensions-41ge)
 <!-- BLOG-POST-LIST:END -->
