@@ -29,10 +29,10 @@ Subscribe to my [newsletter](https://www.iamdeveloper.com/posts/i-started-a-news
 
 # Latest Content
 <!-- BLOG-POST-LIST:START -->
+- [September 23rd: VS Code Tip of the Week](https://community.vscodetips.com/nickytonline/september-23rd-vs-code-tip-of-the-week-55oo)
+- [Midnight Synth Theme](https://community.vscodetips.com/nickytonline/midnight-synth-theme-17bm)
 - [Welcome Thread - v2](https://community.vscodetips.com/nickytonline/welcome-thread-v2-6p2)
 - [Prettier extension works in browser environments now!](https://community.vscodetips.com/nickytonline/prettier-extension-works-in-browser-environments-now-3jmk)
 - [Getting Started with Streaming on Twitch – Nick Taylor – Lunch & Learn](https://www.youtube.com/watch?v=aDofyI6E2t4)
 - [freeCodeCamp Dark Theme](https://community.vscodetips.com/nickytonline/freecodecamp-dark-theme-1k13)
-- [freeCodeCamp Relational Database Course in VS Code](https://community.vscodetips.com/nickytonline/freecodecamp-relational-database-course-in-vs-code-49ii)
-- [September 16th: VS Code Tip of the Week](https://community.vscodetips.com/nickytonline/september-16th-vs-code-tip-of-the-week-ljn)
 <!-- BLOG-POST-LIST:END -->
