@@ -29,10 +29,10 @@ Subscribe to my [newsletter](https://www.iamdeveloper.com/posts/i-started-a-news
 
 # Latest Content
 <!-- BLOG-POST-LIST:START -->
+- [Hacktoberfest Kickoff #2](https://www.youtube.com/watch?v=cyJAz-c1OWs)
 - [VS Code in the browser for everyone](https://community.vscodetips.com/nickytonline/vs-code-in-the-browser-for-everyone-2b57)
 - [Open source web3 projects to contribute to?](https://www.iamdeveloper.com/posts/open-source-web3-projects-to-contribute-to-b6h/)
 - [VS Code Extension Development Resources](https://community.vscodetips.com/nickytonline/vs-code-extension-development-resources-3nfk)
 - [Walkthrough Wednesday with Virtual Coffee Community](https://www.youtube.com/watch?v=WFp48oPBil0)
 - [September 23rd: VS Code Tip of the Week](https://community.vscodetips.com/nickytonline/september-23rd-vs-code-tip-of-the-week-55oo)
-- [Midnight Synth Theme](https://community.vscodetips.com/nickytonline/midnight-synth-theme-17bm)
 <!-- BLOG-POST-LIST:END -->
