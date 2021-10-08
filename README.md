@@ -29,10 +29,10 @@ Subscribe to my [newsletter](https://www.iamdeveloper.com/posts/i-started-a-news
 
 # Latest Content
 <!-- BLOG-POST-LIST:START -->
+- [Walkthrough Wednesday with Brian Douglas](https://www.youtube.com/watch?v=d1KCS6C4Rus)
 - [September 30th: VS Code Tip of the Week](https://community.vscodetips.com/nickytonline/september-30th-vs-code-tip-of-the-week-ap0)
 - [Hacktoberfest Kickoff #2](https://www.youtube.com/watch?v=cyJAz-c1OWs)
 - [VS Code in the browser for everyone](https://community.vscodetips.com/nickytonline/vs-code-in-the-browser-for-everyone-2b57)
 - [Open source web3 projects to contribute to?](https://www.iamdeveloper.com/posts/open-source-web3-projects-to-contribute-to-b6h/)
 - [VS Code Extension Development Resources](https://community.vscodetips.com/nickytonline/vs-code-extension-development-resources-3nfk)
-- [Walkthrough Wednesday with Virtual Coffee Community](https://www.youtube.com/watch?v=WFp48oPBil0)
 <!-- BLOG-POST-LIST:END -->
