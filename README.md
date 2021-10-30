@@ -19,6 +19,10 @@
 
 Pretty much @nickytonline everywhere
 
+😎&nbsp;&nbsp;[Developer DAO #5156](https://opensea.io/assets/0x25ed58c027921e14d86380ea2646e3a1b5c55a8b/5156)
+
+![My pixelated NFT for Developer DAO](https://user-images.githubusercontent.com/833231/139519006-dc013290-1263-42dc-bf9f-beddfb8da592.png)
+
 <hr />
 
 My name is Nick Taylor. I am a Lead Software Engineer with a focus on the front-end at Forem, the software that powers <a href="https://dev.to">DEV</a>. I am a <em>big</em> fan of TypeScript, JavaScript, (P)React and Node. Once upon a time, I was into C#/ASP.NET. Aside from programming, I enjoy contributing to open source, hitting the gym, snowboarding, and a long long time ago, rugby.
