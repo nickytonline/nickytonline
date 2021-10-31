@@ -33,10 +33,10 @@ Subscribe to my [newsletter](https://www.iamdeveloper.com/posts/i-started-a-news
 
 # Latest Content
 <!-- BLOG-POST-LIST:START -->
+- [October 30th: VS Code Tip of the Week](https://community.vscodetips.com/nickytonline/october-30th-vs-code-tip-of-the-week-dfd)
 - [An NFT based game](https://www.iamdeveloper.com/posts/an-nft-based-game-1jfk/)
 - [Walkthrough Wednesday with Will Johnson](https://www.youtube.com/watch?v=wZdYhsLqdLE)
 - [October 22nd: VS Code Tip of the Week](https://community.vscodetips.com/nickytonline/october-22nd-vs-code-tip-of-the-week-49a2)
 - [Walkthrough Wednesday with Jonathan Creamer](https://www.youtube.com/watch?v=Waw_SZPT_VI)
 - [vscode.dev is live!](https://community.vscodetips.com/nickytonline/vscodedev-is-live-bno)
-- [I built my first dApp!](https://www.iamdeveloper.com/posts/i-built-my-first-dapp-3pbm/)
 <!-- BLOG-POST-LIST:END -->
