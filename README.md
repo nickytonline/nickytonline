@@ -33,10 +33,10 @@ Subscribe to my [newsletter](https://www.iamdeveloper.com/posts/i-started-a-news
 
 # Latest Content
 <!-- BLOG-POST-LIST:START -->
+- [Walkthrough Wednesday with Forem&#39;s Community Success Team](https://www.youtube.com/watch?v=uMp1ULIvEso)
 - [November 12th: VS Code Tip of the Week](https://community.vscodetips.com/nickytonline/november-12th-vs-code-tip-of-the-week-2ba4)
 - [November 5th: VS Code Tip of the Week](https://community.vscodetips.com/nickytonline/november-5th-vs-code-tip-of-the-week-53nl)
 - [Walkthrough Wednesday with Stephanie Eckles](https://www.youtube.com/watch?v=IH2IcYMxab4)
 - [Welcome Thread - v4](https://community.vscodetips.com/nickytonline/welcome-thread-v4-56jg)
 - [October 30th: VS Code Tip of the Week](https://community.vscodetips.com/nickytonline/october-30th-vs-code-tip-of-the-week-dfd)
-- [An NFT based game](https://www.iamdeveloper.com/posts/an-nft-based-game-1jfk/)
 <!-- BLOG-POST-LIST:END -->
