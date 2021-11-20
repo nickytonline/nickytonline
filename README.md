@@ -33,10 +33,10 @@ Subscribe to my [newsletter](https://www.iamdeveloper.com/posts/i-started-a-news
 
 # Latest Content
 <!-- BLOG-POST-LIST:START -->
+- [November 19th: VS Code Tip of the Week](https://community.vscodetips.com/nickytonline/november-19th-vs-code-tip-of-the-week-57m6)
 - [Welcome Thread - v5](https://community.vscodetips.com/nickytonline/welcome-thread-v5-4apo)
 - [Walkthrough Wednesday with Forem&#39;s Community Success Team](https://www.youtube.com/watch?v=uMp1ULIvEso)
 - [November 12th: VS Code Tip of the Week](https://community.vscodetips.com/nickytonline/november-12th-vs-code-tip-of-the-week-2ba4)
 - [November 5th: VS Code Tip of the Week](https://community.vscodetips.com/nickytonline/november-5th-vs-code-tip-of-the-week-53nl)
 - [Walkthrough Wednesday with Stephanie Eckles](https://www.youtube.com/watch?v=IH2IcYMxab4)
-- [Welcome Thread - v4](https://community.vscodetips.com/nickytonline/welcome-thread-v4-56jg)
 <!-- BLOG-POST-LIST:END -->
