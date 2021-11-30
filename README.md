@@ -34,9 +34,9 @@ Subscribe to my [newsletter](https://www.iamdeveloper.com/posts/i-started-a-news
 # Latest Content
 <!-- BLOG-POST-LIST:START -->
 - [November 28th: VS Code Tip of the Week](https://community.vscodetips.com/nickytonline/november-28th-vs-code-tip-of-the-week-1436)
+- [Highlight: Building out a GitHub action with Matt Foley Part 4](https://www.twitch.tv/videos/1217419359)
+- [Building out a GitHub action with Matt Foley Part 4](https://www.twitch.tv/videos/1216641610)
 - [November 19th: VS Code Tip of the Week](https://community.vscodetips.com/nickytonline/november-19th-vs-code-tip-of-the-week-57m6)
-- [Welcome Thread - v5](https://community.vscodetips.com/nickytonline/welcome-thread-v5-4apo)
-- [Walkthrough Wednesday with Forem&#39;s Community Success Team](https://www.youtube.com/watch?v=uMp1ULIvEso)
-- [November 12th: VS Code Tip of the Week](https://community.vscodetips.com/nickytonline/november-12th-vs-code-tip-of-the-week-2ba4)
-- [November 5th: VS Code Tip of the Week](https://community.vscodetips.com/nickytonline/november-5th-vs-code-tip-of-the-week-53nl)
+- [Highlight: Building out a GitHub action with Matt Foley Part 3](https://www.twitch.tv/videos/1209544647)
+- [Building out a GitHub action with Matt Foley Part 3](https://www.twitch.tv/videos/1209266568)
 <!-- BLOG-POST-LIST:END -->
