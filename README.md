@@ -33,10 +33,10 @@ Subscribe to my [newsletter](https://www.iamdeveloper.com/posts/i-started-a-news
 
 # Latest Content
 <!-- BLOG-POST-LIST:START -->
+- [How I Review Pull Requests](https://www.iamdeveloper.com/posts/how-i-review-pull-requests-44nl/)
 - [December 5th: VS Code Tip of the Week](https://community.vscodetips.com/nickytonline/december-5th-vs-code-tip-of-the-week-5d0l)
 - [Yet Another Newsletter LOL - Issue #24: Maya who?](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-24-maya-who-903687)
 - [Walkthrough Wednesday with Gift Egwuenu](https://www.youtube.com/watch?v=ZzJtvNFt8U4)
 - [November 28th: VS Code Tip of the Week](https://community.vscodetips.com/nickytonline/november-28th-vs-code-tip-of-the-week-1436)
 - [Yet Another Newsletter LOL - Issue #23 - Muppet Lasso](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-23-muppet-lasso-890780)
-- [Highlight: Building out a GitHub action with Matt Foley Part 4](https://www.twitch.tv/videos/1217419359)
 <!-- BLOG-POST-LIST:END -->
