@@ -33,10 +33,10 @@ Subscribe to my [newsletter](https://www.iamdeveloper.com/posts/i-started-a-news
 
 # Latest Content
 <!-- BLOG-POST-LIST:START -->
+- [December 12th: VS Code Tip of the Week](https://community.vscodetips.com/nickytonline/december-12th-vs-code-tip-of-the-week-55eo)
 - [Welcome Thread - v6](https://community.vscodetips.com/nickytonline/welcome-thread-v6-4244)
 - [Yet Another Newsletter LOL - Issue #25: Home Alone Meets the Sixth Sense](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-25-home-alone-meets-the-sixth-sense-916235)
 - [How I Review Pull Requests](https://www.iamdeveloper.com/posts/how-i-review-pull-requests-44nl/)
 - [December 5th: VS Code Tip of the Week](https://community.vscodetips.com/nickytonline/december-5th-vs-code-tip-of-the-week-5d0l)
 - [Yet Another Newsletter LOL - Issue #24: Maya who?](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-24-maya-who-903687)
-- [Walkthrough Wednesday with Gift Egwuenu](https://www.youtube.com/watch?v=ZzJtvNFt8U4)
 <!-- BLOG-POST-LIST:END -->
