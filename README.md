@@ -33,10 +33,10 @@ Subscribe to my [newsletter](https://www.iamdeveloper.com/posts/i-started-a-news
 
 # Latest Content
 <!-- BLOG-POST-LIST:START -->
+- [Frontend Developer Resources 2022](https://www.iamdeveloper.com/posts/frontend-developer-resources-2022-4cp2/)
 - [December 26th: VS Code Tip of the Week](https://community.vscodetips.com/nickytonline/december-26th-vs-code-tip-of-the-week-jkj)
 - [December 19th: VS Code Tip of the Week](https://community.vscodetips.com/nickytonline/december-19th-vs-code-tip-of-the-week-1o94)
 - [Yet Another Newsletter LOL - Issue #26](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-26-928165)
 - [Forem Passport login is here!](https://community.vscodetips.com/nickytonline/forem-passport-login-is-here-5a00)
 - [December 12th: VS Code Tip of the Week](https://community.vscodetips.com/nickytonline/december-12th-vs-code-tip-of-the-week-55eo)
-- [Welcome Thread - v6](https://community.vscodetips.com/nickytonline/welcome-thread-v6-4244)
 <!-- BLOG-POST-LIST:END -->
