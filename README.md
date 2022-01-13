@@ -33,10 +33,10 @@ Subscribe to my [newsletter](https://www.iamdeveloper.com/posts/i-started-a-news
 
 # Latest Content
 <!-- BLOG-POST-LIST:START -->
+- [Walkthrough Wednesday with Jenn Schiffer](https://www.youtube.com/watch?v=MWkJFsC9jZo)
 - [Walkthrough Wednesday with Anthony Campolo](https://www.youtube.com/watch?v=pwO_dTYUFT8)
 - [Yet Another Newsletter LOL - Issue #28: Raccoons and Earthquakes](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-28-raccoons-and-earthquakes-966933)
 - [January 7th, 2022: VS Code Tip of the Week](https://community.vscodetips.com/nickytonline/january-7th-vs-code-tip-of-the-week-387m)
 - [Yet Another Newsletter LOL - Issue #27: 2022 OMG](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-27-2022-omg-945350)
 - [My 2021 Year in Review](https://www.iamdeveloper.com/posts/my-2021-year-in-review-3n83/)
-- [Frontend Developer Resources 2022](https://www.iamdeveloper.com/posts/frontend-developer-resources-2022-4cp2/)
 <!-- BLOG-POST-LIST:END -->
