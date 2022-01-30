@@ -33,10 +33,10 @@ Subscribe to my [newsletter](https://www.iamdeveloper.com/posts/i-started-a-news
 
 # Latest Content
 <!-- BLOG-POST-LIST:START -->
+- [January 29th, 2022: VS Code Tip of the Week](https://community.vscodetips.com/nickytonline/january-29th-2022-vs-code-tip-of-the-week-5gd3)
 - [Walkthrough Wednesday with Sunil Pai, Workers Team at Cloudflare](https://www.youtube.com/watch?v=zMEvgvSrPuo)
 - [Yet Another Newsletter LOL - Issue #30: Optometrists!](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-30-optometrists-989912)
 - [Improved tagging in the editor](https://community.vscodetips.com/nickytonline/improved-tagging-in-the-editor-old)
 - [Walkthrough Wednesday with Dan Abramov and Maggie Appleton](https://www.youtube.com/watch?v=7cE58BwegPY)
 - [Welcome Thread - v7](https://community.vscodetips.com/nickytonline/welcome-thread-v7-4jhb)
-- [January 16th, 2022: VS Code Tip of the Week](https://community.vscodetips.com/nickytonline/january-16th-2022-vs-code-tip-of-the-week-hh3)
 <!-- BLOG-POST-LIST:END -->
