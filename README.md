@@ -33,10 +33,10 @@ Subscribe to my [newsletter](https://www.iamdeveloper.com/posts/i-started-a-news
 
 # Latest Content
 <!-- BLOG-POST-LIST:START -->
+- [Welcome Thread - v8](https://community.vscodetips.com/nickytonline/welcome-thread-v8-20bc)
 - [Walkthrough Wednesday with Domitrius Clark](https://www.youtube.com/watch?v=UrjcKch48n0)
 - [Yet Another Newsletter LOL - Issue #32: The CSS database connection](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-32-the-css-database-connection-1013462)
+- [February 5th, 2022: VS Code Tip of the Week](https://community.vscodetips.com/nickytonline/february-5th-2022-vs-code-tip-of-the-week-33fb)
 - [Walkthrough Wednesday with Ben Holmes, creator of Slinkity](https://www.youtube.com/watch?v=0ulyfM_GBH4)
 - [Yet Another Newsletter LOL - Issue #31](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-31-1002343)
-- [Walkthrough Wednesday with Sunil Pai, Workers Team at Cloudflare](https://www.youtube.com/watch?v=zMEvgvSrPuo)
-- [Yet Another Newsletter LOL - Issue #30: Optometrists!](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-30-optometrists-989912)
 <!-- BLOG-POST-LIST:END -->
