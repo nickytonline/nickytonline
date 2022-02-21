@@ -33,10 +33,10 @@ Subscribe to my [newsletter](https://www.iamdeveloper.com/posts/i-started-a-news
 
 # Latest Content
 <!-- BLOG-POST-LIST:START -->
+- [February 20th, 2022: VS Code Tip of the Week](https://community.vscodetips.com/nickytonline/february-20th-2022-vs-code-tip-of-the-week-4ge0)
+- [Yet Another Newsletter LOL - Issue #34: Mermaids!](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-34-mermaids-1037271)
 - [Walkthrough Wednesday with The Career Changers](https://www.youtube.com/watch?v=kKo0jxcqHc0)
 - [February 15th, 2022: VS Code Tip of the Week](https://community.vscodetips.com/nickytonline/february-15th-2022-vs-code-tip-of-the-week-4jik)
 - [Yet Another Newsletter LOL - Issue #33: So Lit!](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-33-so-lit-1025903)
 - [Welcome Thread - v8](https://community.vscodetips.com/nickytonline/welcome-thread-v8-20bc)
-- [Walkthrough Wednesday with Domitrius Clark](https://www.youtube.com/watch?v=UrjcKch48n0)
-- [Yet Another Newsletter LOL - Issue #32: The CSS database connection](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-32-the-css-database-connection-1013462)
 <!-- BLOG-POST-LIST:END -->
