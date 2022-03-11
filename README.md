@@ -33,10 +33,10 @@ Subscribe to my [newsletter](https://www.iamdeveloper.com/posts/i-started-a-news
 
 # Latest Content
 <!-- BLOG-POST-LIST:START -->
+- [Call for moderators!](https://community.vscodetips.com/nickytonline/call-for-moderators-55a7)
 - [Welcome Thread - v8](https://community.vscodetips.com/nickytonline/welcome-thread-v8-248n)
 - [March 7th, 2022: VS Code Tip of the Week](https://community.vscodetips.com/nickytonline/march-7th-2022-vs-code-tip-of-the-week-22gd)
 - [Creating a GitHub Action with Matt Foley - Part 3](https://www.youtube.com/watch?v=lo3V4CM5CCg)
 - [Yet Another Newsletter LOL - Issue #36: Black magic](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-36-black-magic-1060891)
 - [Creating a series on vscodetips.com](https://community.vscodetips.com/nickytonline/creating-a-series-on-vscodetipscom-2d3a)
-- [Creating a GitHub Action with Matt Foley - Part 2](https://www.youtube.com/watch?v=2wqMbHZgpLA)
 <!-- BLOG-POST-LIST:END -->
