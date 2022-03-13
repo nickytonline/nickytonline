@@ -1,3 +1,5 @@
+// Thanks for the inpiration Michael Jolley!
+// https://github.com/MichaelJolley/michaeljolley/blob/main/scripts/readme/index.js
 const Parser = require('rss-parser');
 const fs = require('fs/promises');
 const path = require('path');
