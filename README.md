@@ -32,8 +32,7 @@ Subscribe to my [newsletter](https://www.iamdeveloper.com/posts/i-started-a-news
 
 # Latest Videos
 
-<!-- VIDEO-LIST:START -->
-<!-- VIDEO-LIST:END -->
+<!-- VIDEO-LIST:START --><table border="0"><tbody><td align="center" valign="center"><img src="https://i1.ytimg.com/vi/lo3V4CM5CCg/hqdefault.jpg" alt="Creating a GitHub Action with Matt Foley - Part 3" width="240" height="180" /></a></td><td align="center" valign="center"><img src="https://i3.ytimg.com/vi/2wqMbHZgpLA/hqdefault.jpg" alt="Creating a GitHub Action with Matt Foley - Part 2" width="240" height="180" /></a></td><td align="center" valign="center"><img src="https://i1.ytimg.com/vi/dW5BEB9kRK4/hqdefault.jpg" alt="Creating a GitHub Action with Matt Foley - Part 1" width="240" height="180" /></a></td></tbody></table><!-- VIDEO-LIST:END -->
 
 # Latest Blog Posts
 
