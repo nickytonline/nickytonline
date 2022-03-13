@@ -29,7 +29,7 @@ function generateVideosMarkup(videos) {
   for (const video of videos) {
     const {link, thumbnail, title} = video;
 
-    markup += `<td align="center" valign="center"><img src="${thumbnail}" alt="${title}" width="240" height="180" /></a></td>`;
+    markup += `<td align="center" valign="center"><img src="${thumbnail}" alt="${title}" width="240" height="180" /></a><p>${title}</p></td>`;
   }
 
   markup += '</tbody></table>';
