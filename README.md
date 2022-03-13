@@ -9,7 +9,6 @@ My name is Nick Taylor. I am a Lead Software Engineer with a focus on the front-
 ## Latest Written Work
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Yet Another Newsletter LOL - Issue #37: Put on your web briefs](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-37-put-on-your-web-briefs-1072222)
 - [Call for moderators!](https://community.vscodetips.com/nickytonline/call-for-moderators-55a7)
 - [Welcome Thread - v8](https://community.vscodetips.com/nickytonline/welcome-thread-v8-248n)
