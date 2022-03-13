@@ -1,0 +1,30 @@
+
+name: Update readme videos
+on:
+  schedule:
+    # Runs every Monday at 1pm UTC
+    - cron: '0 13 * * 1'
+  workflow_dispatch:
+
+jobs:
+  update_profile_data:
+    name: Update readme videos
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Update README
+        run: |
+          cd scripts
+          npm install
+          node update-readme.js
+      - name: Commit changes
+        id: commit
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "<>"
+          git pull origin main
+          git add .
+          git commit -m "Updating README"
+          git push origin main

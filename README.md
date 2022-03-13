@@ -2,7 +2,6 @@
 
 ![A picture of a stuff toy panda laying on a dumpster. This is my GitHub extended profile image.](https://res.cloudinary.com/nickytonline/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_860,c_fit,co_rgb:ffffff,g_south_west,x_30,y_280,l_text:roboto_64_bold:Not%20a%20real%20panda/w_860,c_fit,co_rgb:ffffff/social)
 
-
 💻&nbsp;&nbsp;Lead Software Engineer [@forem](https://github.com/forem)
 
 🎙&nbsp;&nbsp;Host of the [DEV Twitch stream](https://twitch.tv/thepracticaldev)
@@ -31,8 +30,15 @@ More about me at [iamdeveloper.com](https://iamdeveloper.com).
 
 Subscribe to my [newsletter](https://www.iamdeveloper.com/posts/i-started-a-newsletter-3g8d)!
 
-# Latest Content
+# Latest Videos
+
+<!-- VIDEO-LIST:START -->
+<!-- VIDEO-LIST:END -->
+
+# Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
+
 - [Call for moderators!](https://community.vscodetips.com/nickytonline/call-for-moderators-55a7)
 - [Welcome Thread - v8](https://community.vscodetips.com/nickytonline/welcome-thread-v8-248n)
 - [March 7th, 2022: VS Code Tip of the Week](https://community.vscodetips.com/nickytonline/march-7th-2022-vs-code-tip-of-the-week-22gd)
