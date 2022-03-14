@@ -4,7 +4,7 @@ My name is Nick Taylor. I am a Lead Software Engineer with a focus on the front-
 
 ## Latest Videos
 
-<!-- VIDEO-LIST:START --><table border="0"><tbody><td align="center" valign="center"><img src="https://i1.ytimg.com/vi/lo3V4CM5CCg/hqdefault.jpg" alt="Creating a GitHub Action with Matt Foley - Part 3" width="240" height="180" /></a><p>Creating a GitHub Action with Matt Foley - Part 3</p></td><td align="center" valign="center"><img src="https://i3.ytimg.com/vi/2wqMbHZgpLA/hqdefault.jpg" alt="Creating a GitHub Action with Matt Foley - Part 2" width="240" height="180" /></a><p>Creating a GitHub Action with Matt Foley - Part 2</p></td><td align="center" valign="center"><img src="https://i1.ytimg.com/vi/dW5BEB9kRK4/hqdefault.jpg" alt="Creating a GitHub Action with Matt Foley - Part 1" width="240" height="180" /></a><p>Creating a GitHub Action with Matt Foley - Part 1</p></td></tbody></table><!-- VIDEO-LIST:END -->
+<!-- VIDEO-LIST:START --><div><a href="https://www.youtube.com/watch?v=lo3V4CM5CCg"><img src="https://i1.ytimg.com/vi/lo3V4CM5CCg/hqdefault.jpg" alt="Creating a GitHub Action with Matt Foley - Part 3" width="240" height="180" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=2wqMbHZgpLA"><img src="https://i3.ytimg.com/vi/2wqMbHZgpLA/hqdefault.jpg" alt="Creating a GitHub Action with Matt Foley - Part 2" width="240" height="180" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=dW5BEB9kRK4"><img src="https://i1.ytimg.com/vi/dW5BEB9kRK4/hqdefault.jpg" alt="Creating a GitHub Action with Matt Foley - Part 1" width="240" height="180" /></a>&nbsp;&nbsp;</div><!-- VIDEO-LIST:END -->
 
 ## Latest Written Work
 
