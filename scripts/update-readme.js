@@ -26,15 +26,15 @@ async function main() {
 }
 
 function generateVideosMarkup(videos) {
-  let markup = '<table border="0"><tbody>';
+  let markup = '<div>';
 
   for (const video of videos) {
     const {link, thumbnail, title} = video;
 
-    markup += `<td align="center" valign="center"><img src="${thumbnail}" alt="${title}" width="240" height="180" /></a><p>${title}</p></td>`;
+    markup += `<a href="${link}"><img src="${thumbnail}" alt="${title}" width="240" height="180" /></a>&nbsp;&nbsp;`;
   }
 
-  markup += '</tbody></table>';
+  markup += '</div>';
 
   return markup;
 }
