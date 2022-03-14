@@ -31,7 +31,7 @@ function generateVideosMarkup(videos) {
   for (const video of videos) {
     const {link, thumbnail, title} = video;
 
-    markup += `<a href="${link}"><img src="${thumbnail}" alt="${title}" width="240" height="180" /></a>&nbsp;&nbsp;`;
+    markup += `<a href="${link}" title="${title}"><img src="${thumbnail}" alt="${title}" width="240" height="180" /></a>&nbsp;&nbsp;`;
   }
 
   markup += '</div>';
