@@ -9,6 +9,7 @@ My name is Nick Taylor. I am a Lead Software Engineer with a focus on the front-
 ## Latest Written Work
 
 <!-- BLOG-POST-LIST:START -->
+
 - [How I Review Pull Requests](https://community.codenewbie.org/nickytonline/how-i-review-pull-requests-14kl)
 - [Yet Another Newsletter LOL - Issue #37: Put on your web briefs](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-37-put-on-your-web-briefs-1072222)
 - [Call for moderators!](https://community.vscodetips.com/nickytonline/call-for-moderators-55a7)
@@ -23,8 +24,8 @@ My name is Nick Taylor. I am a Lead Software Engineer with a focus on the front-
 - [Twitter](https://twitter.com/nickytonline)
 - [Polywork](https://timeline.iamdeveloper.com)
 - [LinkedIn](https://www.linkedin.com/in/nickytonline/)
-- [livecoding.ca](https://livecoding.ca), my Twitch Stream
+- [livecoding.ca](https://livecoding.ca) (my Twitch stream)
 - [Developer DAO #5156](https://opensea.io/assets/0x25ed58c027921e14d86380ea2646e3a1b5c55a8b/5156)
-- Creator of the [VSCodeTips community](https://community.vscodetips.com)
+- Creator and member of the [VSCodeTips community](https://community.vscodetips.com)
 
 I'm pretty much @nickytonline everywhere
