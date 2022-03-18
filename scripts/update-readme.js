@@ -70,7 +70,7 @@ function generateVideosMarkup(videos) {
  *  }
  * ]
  */
-async function getVideos(videoFeedUrl) {
+async function getVideos(videoFeedUrl, numberOfVideos = 6) {
   const parser = new Parser({
     customFields: {
       item: ['media:group', 'media:thumbnail'],
@@ -79,7 +79,7 @@ async function getVideos(videoFeedUrl) {
 
   const feed = await parser.parseURL(videoFeedUrl);
 
-  return feed.items.slice(0, 3).map((m) => {
+  return feed.items.slice(0, numberOfVideos).map((m) => {
     return {
       title: m.title,
       link: m.link,
