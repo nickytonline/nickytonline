@@ -20,8 +20,7 @@ My name is Nick Taylor. I am a Lead Software Engineer with a focus on the front-
 
 ## DEV Twitch Stream
 
-<!-- DEV-VIDEO-LIST:START -->
-<!-- DEV-VIDEO-LIST:END -->
+<!-- DEV-VIDEO-LIST:START --><div><a href="https://www.youtube.com/watch?v=kKo0jxcqHc0" title="Walkthrough Wednesday with The Career Changers"><img src="https://i4.ytimg.com/vi/kKo0jxcqHc0/hqdefault.jpg" alt="Walkthrough Wednesday with The Career Changers" width="240" height="180" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=UrjcKch48n0" title="Walkthrough Wednesday with Domitrius Clark"><img src="https://i2.ytimg.com/vi/UrjcKch48n0/hqdefault.jpg" alt="Walkthrough Wednesday with Domitrius Clark" width="240" height="180" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=0ulyfM_GBH4" title="Walkthrough Wednesday with Ben Holmes, creator of Slinkity"><img src="https://i1.ytimg.com/vi/0ulyfM_GBH4/hqdefault.jpg" alt="Walkthrough Wednesday with Ben Holmes, creator of Slinkity" width="240" height="180" /></a>&nbsp;&nbsp;</div><!-- DEV-VIDEO-LIST:END -->
 
 ## Places You Can Find Me
 
