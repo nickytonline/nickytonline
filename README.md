@@ -5,6 +5,7 @@ My name is Nick Taylor. I am a Lead Software Engineer with a focus on the front-
 ## Latest Written Work
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Getting Started with Streaming on Twitch](https://community.codenewbie.org/nickytonline/getting-started-with-streaming-on-twitch-45h6)
 - [How I Review Pull Requests](https://community.codenewbie.org/nickytonline/how-i-review-pull-requests-14kl)
 - [Yet Another Newsletter LOL - Issue #37: Put on your web briefs](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-37-put-on-your-web-briefs-1072222)
@@ -16,6 +17,11 @@ My name is Nick Taylor. I am a Lead Software Engineer with a focus on the front-
 ## Latest Videos
 
 <!-- VIDEO-LIST:START --><div><a href="https://www.youtube.com/watch?v=wXCohlKW3KA" title="Creating a GitHub Action with Matt Foley - Part 4"><img src="https://i4.ytimg.com/vi/wXCohlKW3KA/hqdefault.jpg" alt="Creating a GitHub Action with Matt Foley - Part 4" width="240" height="180" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=lo3V4CM5CCg" title="Creating a GitHub Action with Matt Foley - Part 3"><img src="https://i1.ytimg.com/vi/lo3V4CM5CCg/hqdefault.jpg" alt="Creating a GitHub Action with Matt Foley - Part 3" width="240" height="180" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=2wqMbHZgpLA" title="Creating a GitHub Action with Matt Foley - Part 2"><img src="https://i3.ytimg.com/vi/2wqMbHZgpLA/hqdefault.jpg" alt="Creating a GitHub Action with Matt Foley - Part 2" width="240" height="180" /></a>&nbsp;&nbsp;</div><!-- VIDEO-LIST:END -->
+
+## DEV Twitch Stream
+
+<!-- DEV-VIDEO-LIST:START -->
+<!-- DEV-VIDEO-LIST:END -->
 
 ## Places You Can Find Me
 

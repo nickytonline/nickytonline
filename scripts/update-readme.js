@@ -11,16 +11,35 @@ const VIDEO_MARKER_FINDER = new RegExp(
   START_VIDEO_LIST_MARKER + '(.|[\r\n])*?' + END_VIDEO_LIST_MARKER
 );
 
+const START_DEV_VIDEO_LIST_MARKER = '<!-- DEV-VIDEO-LIST:START -->';
+const END_DEV_VIDEO_LIST_MARKER = '<!-- DEV-VIDEO-LIST:END -->';
+const DEV_VIDEO_MARKER_FINDER = new RegExp(
+  START_DEV_VIDEO_LIST_MARKER + '(.|[\r\n])*?' + END_DEV_VIDEO_LIST_MARKER
+);
+
 async function main() {
-  const videos = await getVideos();
+  const videos = await getVideos(
+    'https://www.youtube.com/feeds/videos.xml?channel_id=UCBLlEq0co24VFJIMEHNcPOQ'
+  );
   const videosMarkups = generateVideosMarkup(videos);
+
+  const devVideos = await getVideos(
+    //
+    'https://www.youtube.com/feeds/videos.xml?playlist_id=PL8Bb2WLXhUaDCHK5HrxDXZWmuTARKDiV3'
+  );
+  const devVideosMarkups = generateVideosMarkup(devVideos);
 
   const template = await getTemplate();
 
-  const newReadMe = template.replace(
-    VIDEO_MARKER_FINDER,
-    START_VIDEO_LIST_MARKER + videosMarkups + END_VIDEO_LIST_MARKER
-  );
+  const newReadMe = template
+    .replace(
+      VIDEO_MARKER_FINDER,
+      START_VIDEO_LIST_MARKER + videosMarkups + END_VIDEO_LIST_MARKER
+    )
+    .replace(
+      DEV_VIDEO_MARKER_FINDER,
+      START_DEV_VIDEO_LIST_MARKER + devVideosMarkups + END_DEV_VIDEO_LIST_MARKER
+    );
 
   await saveReadMe(newReadMe);
 }
@@ -51,16 +70,14 @@ function generateVideosMarkup(videos) {
  *  }
  * ]
  */
-async function getVideos() {
+async function getVideos(videoFeedUrl) {
   const parser = new Parser({
     customFields: {
       item: ['media:group', 'media:thumbnail'],
     },
   });
 
-  const feed = await parser.parseURL(
-    `https://www.youtube.com/feeds/videos.xml?channel_id=UCBLlEq0co24VFJIMEHNcPOQ`
-  );
+  const feed = await parser.parseURL(videoFeedUrl);
 
   return feed.items.slice(0, 3).map((m) => {
     return {
