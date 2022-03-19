@@ -5,7 +5,6 @@ My name is Nick Taylor. I am a Lead Software Engineer with a focus on the front-
 ## Latest Written Work
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Getting Started with Streaming on Twitch](https://community.codenewbie.org/nickytonline/getting-started-with-streaming-on-twitch-45h6)
 - [How I Review Pull Requests](https://community.codenewbie.org/nickytonline/how-i-review-pull-requests-14kl)
 - [Yet Another Newsletter LOL - Issue #37: Put on your web briefs](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-37-put-on-your-web-briefs-1072222)
