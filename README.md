@@ -5,12 +5,12 @@ My name is Nick Taylor. I am a Lead Software Engineer with a focus on the front-
 ## Latest Written Work
 
 <!-- BLOG-POST-LIST:START -->
+- [Yet Another Newsletter LOL - Issue #38: Speed Whale!](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-38-speed-whale-1083272)
 - [Getting Started with Streaming on Twitch](https://community.codenewbie.org/nickytonline/getting-started-with-streaming-on-twitch-45h6)
 - [How I Review Pull Requests](https://community.codenewbie.org/nickytonline/how-i-review-pull-requests-14kl)
 - [Yet Another Newsletter LOL - Issue #37: Put on your web briefs](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-37-put-on-your-web-briefs-1072222)
 - [Call for moderators!](https://community.vscodetips.com/nickytonline/call-for-moderators-55a7)
 - [Welcome Thread - v8](https://community.vscodetips.com/nickytonline/welcome-thread-v8-248n)
-- [March 7th, 2022: VS Code Tip of the Week](https://community.vscodetips.com/nickytonline/march-7th-2022-vs-code-tip-of-the-week-22gd)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
