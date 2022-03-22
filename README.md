@@ -5,6 +5,7 @@ My name is Nick Taylor. I am a Lead Software Engineer with a focus on the front-
 ## Latest Written Work
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Yet Another Newsletter LOL - Issue #38: Speed Whale!](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-38-speed-whale-1083272)
 - [Getting Started with Streaming on Twitch](https://community.codenewbie.org/nickytonline/getting-started-with-streaming-on-twitch-45h6)
 - [How I Review Pull Requests](https://community.codenewbie.org/nickytonline/how-i-review-pull-requests-14kl)
@@ -21,7 +22,66 @@ Check out [more videos on my YouTube channel](http://youtube.iamdeveloper.com/).
 
 ## DEV Twitch Stream
 
-<!-- DEV-VIDEO-LIST:START --><div><a href="https://www.youtube.com/watch?v=cmooRSV4sr8" title="Stacie Taylor, Engineering Team Lead at Zapier and Co-founder at Collab Lab"><img src="https://i4.ytimg.com/vi/cmooRSV4sr8/hqdefault.jpg" alt="Stacie Taylor, Engineering Team Lead at Zapier and Co-founder at Collab Lab" width="240" height="180" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=kKo0jxcqHc0" title="Walkthrough Wednesday with The Career Changers"><img src="https://i4.ytimg.com/vi/kKo0jxcqHc0/hqdefault.jpg" alt="Walkthrough Wednesday with The Career Changers" width="240" height="180" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=UrjcKch48n0" title="Walkthrough Wednesday with Domitrius Clark"><img src="https://i2.ytimg.com/vi/UrjcKch48n0/hqdefault.jpg" alt="Walkthrough Wednesday with Domitrius Clark" width="240" height="180" /></a>&nbsp;&nbsp;</div><!-- DEV-VIDEO-LIST:END -->
+The DEV Twitch stream is something I started with my old co-worker [Christina Gorton](https://twitter.com/coffeecraftcode) during Hacktoberst 2020. From there it grew and became more than pairing with folks on Forem issues. We also interviewed folks from the tech space. I went solo when Christina left Forem at the start of 2022 and continued the stream until the end of March 2022.
+
+Good times and great guests. Thanks to everyone that was a part of it.
+
+<div>
+  <a
+    href="https://www.youtube.com/watch?v=cmooRSV4sr8"
+    title="Stacie Taylor, Engineering Team Lead at Zapier and Co-founder at Collab Lab"
+    ><img
+      src="https://i4.ytimg.com/vi/cmooRSV4sr8/hqdefault.jpg"
+      alt="Stacie Taylor, Engineering Team Lead at Zapier and Co-founder at Collab Lab"
+      width="240"
+      height="180" /></a
+  >&nbsp;&nbsp;
+<a
+    href="https://www.youtube.com/watch?v=zMEvgvSrPuo"
+    title="Walkthrough Wednesday with Sunil Pai, Workers Team at Cloudflare"
+    ><img
+      src="https://i3.ytimg.com/vi/zMEvgvSrPuo/hqdefault.jpg"
+      alt="Walkthrough Wednesday with Sunil Pai, Workers Team at Cloudflare"
+      width="240"
+      height="180" /></a
+  >&nbsp;&nbsp;
+<a
+    href="https://www.youtube.com/watch?v=MWkJFsC9jZo"
+    title="Walkthrough Wednesday with Jenn Schiffer"
+    ><img
+      src="https://i2.ytimg.com/vi/MWkJFsC9jZo/hqdefault.jpg"
+      alt="Walkthrough Wednesday with Jenn Schiffer"
+      width="240"
+      height="180" /></a
+  >&nbsp;&nbsp
+<a
+    href="https://www.youtube.com/watch?v=IH2IcYMxab4"
+    title="Walkthrough Wednesday with Stephanie Eckles"
+    ><img
+      src="https://i2.ytimg.com/vi/IH2IcYMxab4/hqdefault.jpg"
+      alt="Walkthrough Wednesday with Stephanie Eckles"
+      width="240"
+      height="180" /></a
+  >&nbsp;&nbsp;
+<a
+    href="https://www.youtube.com/watch?v=wHWzxGD_cRk"
+    title="Walkthrough Wednesday: Learn Terraform with Andrew Brown"
+    ><img
+      src="https://i4.ytimg.com/vi/wHWzxGD_cRk/hqdefault.jpg"
+      alt="Walkthrough Wednesday: Learn Terraform with Andrew Brown"
+      width="240"
+      height="180" /></a
+  >&nbsp;&nbsp;
+<a
+    href="https://www.youtube.com/watch?v=d1KCS6C4Rus"
+    title="Walkthrough Wednesday with Brian Douglas"
+    ><img
+      src="https://i1.ytimg.com/vi/d1KCS6C4Rus/hqdefault.jpg"
+      alt="Walkthrough Wednesday with Brian Douglas"
+      width="240"
+      height="180" /></a
+  >&nbsp;&nbsp;
+</div>
 
 Check out [more videos on the DEV YouTube channel](https://www.youtube.com/thepracticaldevteam).
 
