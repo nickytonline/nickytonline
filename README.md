@@ -1,6 +1,6 @@
 # <em>Hi!</em> I'm Nick. 👋🏻
 
-My name is Nick Taylor. I am a Lead Software Engineer with a focus on the front-end at Forem, the software that powers <a href="https://dev.to">DEV</a>. I am a <em>big</em> fan of TypeScript, JavaScript, (P)React and Node. Aside from programming, I enjoy contributing to open source, hitting the gym, snowboarding, and a long long time ago, rugby. More about me at [iamdeveloper.com](https://iamdeveloper.com).
+My name is Nick Taylor. I am a Lead Software Engineer with a focus on the front-end. I am a <em>big</em> fan of TypeScript, JavaScript, (P)React and Node. Aside from programming, I enjoy contributing to open source, hitting the gym, snowboarding, and a long long time ago, rugby. More about me at [iamdeveloper.com](https://iamdeveloper.com).
 
 ## Latest Written Work
 
