@@ -5,9 +5,9 @@ My name is Nick Taylor. I am a Lead Software Engineer with a focus on the front-
 ## Latest Written Work
 
 <!-- BLOG-POST-LIST:START -->
+- [Productivity Tools I Use](https://www.iamdeveloper.com/posts/productivity-tools-i-use-4gm3/)
 - [March 28th, 2022: VS Code Tip of the Week](https://community.vscodetips.com/nickytonline/march-28th-2022-vs-code-tip-of-the-week-4724)
 - [Using a Hook in a Class Component](https://www.iamdeveloper.com/posts/using-a-hook-in-a-class-component-3eh2/)
-- [Productivity Tools I Use](https://www.iamdeveloper.com/posts/productivity-tools-i-use-4gm3/)
 - [Yet Another Newsletter LOL - Issue #39: So long and thanks for all the fish](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-39-so-long-and-thanks-for-all-the-fish-1094275)
 - [npx gitignore](https://www.iamdeveloper.com/posts/npx-gitignore-5087/)
 - [My Impact at Forem](https://www.iamdeveloper.com/posts/my-impact-at-forem-23mj/)
