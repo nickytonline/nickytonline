@@ -5,12 +5,12 @@ My name is Nick Taylor. I am a Lead Software Engineer with a focus on the front-
 ## Latest Written Work
 
 <!-- BLOG-POST-LIST:START -->
+- [April 4th, 2022: VS Code Tip of the Week](https://community.vscodetips.com/nickytonline/april-4th-2022-vs-code-tip-of-the-week-52cg)
+- [Yet Another Newsletter LOL - Issue #40: New beginnings](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-40-new-beginnings-1105978)
 - [Enabling keyboard navigation on your Mac](https://www.iamdeveloper.com/posts/enabling-keyboard-navigation-on-your-mac-1hjb/)
 - [Strongly Typed JSON in TypeScript](https://www.iamdeveloper.com/posts/strongly-typed-json-in-typescript-5gb2/)
+- [Deno Extension](https://www.iamdeveloper.com/posts/deno-extension-4lk6/)
 - [Deno Extension](https://community.vscodetips.com/nickytonline/deno-extension-10nl)
-- [Productivity Tools I Use](https://www.iamdeveloper.com/posts/productivity-tools-i-use-4gm3/)
-- [March 28th, 2022: VS Code Tip of the Week](https://community.vscodetips.com/nickytonline/march-28th-2022-vs-code-tip-of-the-week-4724)
-- [Using a Hook in a Class Component](https://www.iamdeveloper.com/posts/using-a-hook-in-a-class-component-3eh2/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
