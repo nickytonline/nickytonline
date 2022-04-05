@@ -5,6 +5,7 @@ My name is Nick Taylor. I am a Lead Software Engineer with a focus on the front-
 ## Latest Written Work
 
 <!-- BLOG-POST-LIST:START -->
+
 - [April 4th, 2022: VS Code Tip of the Week](https://community.vscodetips.com/nickytonline/april-4th-2022-vs-code-tip-of-the-week-52cg)
 - [Yet Another Newsletter LOL - Issue #40: New beginnings](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-40-new-beginnings-1105978)
 - [Enabling keyboard navigation on your Mac](https://www.iamdeveloper.com/posts/enabling-keyboard-navigation-on-your-mac-1hjb/)
@@ -34,8 +35,7 @@ Good times and great guests. Thanks to everyone that was a part of it.
       alt="Stacie Taylor, Engineering Team Lead at Zapier and Co-founder at Collab Lab"
       width="240"
       height="180" /></a
-  >&nbsp;&nbsp;
-<a
+  >&nbsp;&nbsp;<a
     href="https://www.youtube.com/watch?v=zMEvgvSrPuo"
     title="Walkthrough Wednesday with Sunil Pai, Workers Team at Cloudflare"
     ><img
@@ -43,8 +43,7 @@ Good times and great guests. Thanks to everyone that was a part of it.
       alt="Walkthrough Wednesday with Sunil Pai, Workers Team at Cloudflare"
       width="240"
       height="180" /></a
-  >&nbsp;&nbsp;
-<a
+  >&nbsp;&nbsp;<a
     href="https://www.youtube.com/watch?v=MWkJFsC9jZo"
     title="Walkthrough Wednesday with Jenn Schiffer"
     ><img
@@ -52,8 +51,7 @@ Good times and great guests. Thanks to everyone that was a part of it.
       alt="Walkthrough Wednesday with Jenn Schiffer"
       width="240"
       height="180" /></a
-  >&nbsp;&nbsp
-<a
+  >&nbsp;&nbsp<a
     href="https://www.youtube.com/watch?v=IH2IcYMxab4"
     title="Walkthrough Wednesday with Stephanie Eckles"
     ><img
@@ -61,8 +59,7 @@ Good times and great guests. Thanks to everyone that was a part of it.
       alt="Walkthrough Wednesday with Stephanie Eckles"
       width="240"
       height="180" /></a
-  >&nbsp;&nbsp;
-<a
+  >&nbsp;&nbsp;<a
     href="https://www.youtube.com/watch?v=wHWzxGD_cRk"
     title="Walkthrough Wednesday: Learn Terraform with Andrew Brown"
     ><img
@@ -70,8 +67,7 @@ Good times and great guests. Thanks to everyone that was a part of it.
       alt="Walkthrough Wednesday: Learn Terraform with Andrew Brown"
       width="240"
       height="180" /></a
-  >&nbsp;&nbsp;
-<a
+  >&nbsp;&nbsp;<a
     href="https://www.youtube.com/watch?v=d1KCS6C4Rus"
     title="Walkthrough Wednesday with Brian Douglas"
     ><img
@@ -79,7 +75,7 @@ Good times and great guests. Thanks to everyone that was a part of it.
       alt="Walkthrough Wednesday with Brian Douglas"
       width="240"
       height="180" /></a
-  >&nbsp;&nbsp;
+  >
 </div>
 
 Check out [more videos on the DEV YouTube channel](https://www.youtube.com/thepracticaldevteam).
