@@ -5,7 +5,6 @@ My name is Nick Taylor. I am a Lead Software Engineer with a focus on the front-
 ## Latest Written Work
 
 <!-- BLOG-POST-LIST:START -->
-
 - [April 4th, 2022: VS Code Tip of the Week](https://community.vscodetips.com/nickytonline/april-4th-2022-vs-code-tip-of-the-week-52cg)
 - [Yet Another Newsletter LOL - Issue #40: New beginnings](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-40-new-beginnings-1105978)
 - [Enabling keyboard navigation on your Mac](https://www.iamdeveloper.com/posts/enabling-keyboard-navigation-on-your-mac-1hjb/)
