@@ -5,12 +5,12 @@ I am a Staff Software Engineer at Netlify on the ecosystem team. I am a <em>big<
 ## Latest Written Work
 
 <!-- BLOG-POST-LIST:START -->
+- [Yet Another Newsletter LOL - Issue #42: The emoji struggle](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-42-the-emoji-struggle-1128395)
 - [Welcome Thread - v9](https://community.vscodetips.com/nickytonline/welcome-thread-v9-5050)
 - [April 11th, 2022: VS Code Tip of the Week](https://community.vscodetips.com/nickytonline/april-11th-2022-vs-code-tip-of-the-week-1jgo)
 - [Yet Another Newsletter LOL - Issue #41: Kindness &amp; Ladders](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-41-kindness-ladders-1117858)
 - [April 4th, 2022: VS Code Tip of the Week](https://community.vscodetips.com/nickytonline/april-4th-2022-vs-code-tip-of-the-week-52cg)
 - [Yet Another Newsletter LOL - Issue #40: New beginnings](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-40-new-beginnings-1105978)
-- [Enabling keyboard navigation on your Mac](https://www.iamdeveloper.com/posts/enabling-keyboard-navigation-on-your-mac-1hjb/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
