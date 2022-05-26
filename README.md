@@ -15,7 +15,7 @@ I am a Staff Software Engineer at Netlify on the ecosystem team. I am a <em>big<
 
 ## Latest Videos
 
-<!-- VIDEO-LIST:START --><div><a href="https://www.youtube.com/watch?v=URQSVmrr8Vo" title="RedwoodJS with Anthony Campolo, RedwoodJS core team member"><img src="https://i2.ytimg.com/vi/URQSVmrr8Vo/hqdefault.jpg" alt="RedwoodJS with Anthony Campolo, RedwoodJS core team member" width="240" height="180" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=pSq7bSk3WqU" title="npx gitignore"><img src="https://i1.ytimg.com/vi/pSq7bSk3WqU/hqdefault.jpg" alt="npx gitignore" width="240" height="180" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=KHsFkoXgxoE" title="Prettier VS Code Extension"><img src="https://i4.ytimg.com/vi/KHsFkoXgxoE/hqdefault.jpg" alt="Prettier VS Code Extension" width="240" height="180" /></a>&nbsp;&nbsp;</div><!-- VIDEO-LIST:END -->
+<!-- VIDEO-LIST:START --><div><a href="https://www.youtube.com/watch?v=rOSqy02eiuk" title="Rest2GraphQL with Lucia Cerchie"><img src="https://i3.ytimg.com/vi/rOSqy02eiuk/hqdefault.jpg" alt="Rest2GraphQL with Lucia Cerchie" width="240" height="180" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=URQSVmrr8Vo" title="RedwoodJS with Anthony Campolo, RedwoodJS core team member"><img src="https://i2.ytimg.com/vi/URQSVmrr8Vo/hqdefault.jpg" alt="RedwoodJS with Anthony Campolo, RedwoodJS core team member" width="240" height="180" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=pSq7bSk3WqU" title="npx gitignore"><img src="https://i1.ytimg.com/vi/pSq7bSk3WqU/hqdefault.jpg" alt="npx gitignore" width="240" height="180" /></a>&nbsp;&nbsp;</div><!-- VIDEO-LIST:END -->
 
 Check out [more videos on my YouTube channel](http://youtube.iamdeveloper.com/).
 
