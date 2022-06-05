@@ -1,4 +1,4 @@
-<a href="https://livecoding.ca"><img src="livecodingdotca-banner.png" alt="An alpaca grinning with the words livecoding.ca beside them" /></a>
+<a href="https://livecoding.ca" title="livecoding.ca, my Twitch stream"><img src="livecodingdotca-banner.png" alt="An alpaca grinning with the words livecoding.ca beside them" /></a>
 
 # <em>Hi!</em> I'm Nick. 👋🏻
 
