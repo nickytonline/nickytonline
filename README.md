@@ -7,12 +7,12 @@ I am a Staff Software Engineer at Netlify on the ecosystem team. I am a <em>big<
 ## Latest Written Work
 
 <!-- BLOG-POST-LIST:START -->
+- [June 6th, 2022: VS Code Tip of the Week](https://community.vscodetips.com/nickytonline/june-6th-2022-vs-code-tip-of-the-week-pf0)
 - [Yet Another Newsletter LOL - Issue #49 - Use the code search Luke](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-49-use-the-code-search-luke-1199998)
 - [May 30th, 2022: VS Code Tip of the Week](https://community.vscodetips.com/nickytonline/may-30th-2022-vs-code-tip-of-the-week-28pm)
 - [Yet Another Newsletter LOL - Issue #48: Warning this is a warning](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-48-warning-this-is-a-warning-1190310)
 - [Automate syndication of your content with Eleventy, dev.to, and GitHub Actions](https://www.iamdeveloper.com/posts/my-eleventy-meetup-talk-3b2p/)
 - [May 24th, 2022: VS Code Tip of the Week](https://community.vscodetips.com/nickytonline/may-24th-2022-vs-code-tip-of-the-week-cgi)
-- [Yet Another Newsletter LOL - Issue #47: Stay hydrated?](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-47-stay-hydrated-1180140)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
