@@ -2,7 +2,13 @@
 
 # <em>Hi!</em> I'm Nick. 👋🏻
 
-I am a Staff Software Engineer at Netlify on the ecosystem team. I am a <em>big</em> fan of TypeScript, JavaScript, (P)React and Node. Aside from programming, I enjoy contributing to open source, hitting the gym, snowboarding, and a long long time ago, rugby. More about me at [iamdeveloper.com](https://iamdeveloper.com).
+My name is Nick Taylor and I hail from Montreal, Quebec, Canada.
+
+I am a Staff Software Engineer at [Netlify](https://netlify.com/) on the ecosystem team, focusing on front-end technologies and tooling. I also have a growing interest in serverless and edge computing. I also [stream on Twitch](https://livecoding.ca/).
+
+I'm not a big fan of spiders, but I know they're doing good work eating bugs.
+
+Aside from programming, I enjoy contributing to open source, hitting the gym, snowboarding, and rugby a long time ago.
 
 ## Latest Written Work
 
