@@ -53,7 +53,7 @@ function generateVideosMarkup(videos) {
  *  }
  * ]
  */
-async function getVideos(videoFeedUrl, numberOfVideos = 3) {
+async function getVideos(videoFeedUrl, numberOfVideos = 6) {
   const parser = new Parser({
     customFields: {
       item: ['media:group', 'media:thumbnail'],
