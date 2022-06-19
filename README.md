@@ -13,6 +13,7 @@ Aside from programming, I enjoy contributing to open source, hitting the gym, sn
 ## Latest Written Work
 
 <!-- BLOG-POST-LIST:START -->
+
 - [June 13th, 2022: VS Code Tip of the Week](https://community.vscodetips.com/nickytonline/june-13th-2022-vs-code-tip-of-the-week-3lnd)
 - [Yet Another Newsletter LOL - Issue #50: See me rolling](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-50-see-me-rolling-1210299)
 - [June 6th, 2022: VS Code Tip of the Week](https://community.vscodetips.com/nickytonline/june-6th-2022-vs-code-tip-of-the-week-pf0)
@@ -23,7 +24,7 @@ Aside from programming, I enjoy contributing to open source, hitting the gym, sn
 
 ## Latest Videos
 
-<!-- VIDEO-LIST:START --><div><a href="https://www.youtube.com/watch?v=7dKkcJ6cTpA" title="Debugging Node.js and deno"><img src="https://i4.ytimg.com/vi/7dKkcJ6cTpA/hqdefault.jpg" alt="Debugging Node.js and deno" width="240" height="180" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=IG697qDkvYY" title="Moving the Virtual Coffee site to Remix with Dan Ott"><img src="https://i2.ytimg.com/vi/IG697qDkvYY/hqdefault.jpg" alt="Moving the Virtual Coffee site to Remix with Dan Ott" width="240" height="180" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=mOTK5HdrTSc" title="Building a themed chat overlay using showmy.chat with Ben Myers"><img src="https://i2.ytimg.com/vi/mOTK5HdrTSc/hqdefault.jpg" alt="Building a themed chat overlay using showmy.chat with Ben Myers" width="240" height="180" /></a>&nbsp;&nbsp;</div><!-- VIDEO-LIST:END -->
+<!-- VIDEO-LIST:START --><div><a href="https://www.youtube.com/watch?v=7dKkcJ6cTpA" title="Debugging Node.js and deno"><img src="https://i4.ytimg.com/vi/7dKkcJ6cTpA/hqdefault.jpg" alt="Debugging Node.js and deno" width="360" height="270" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=IG697qDkvYY" title="Moving the Virtual Coffee site to Remix with Dan Ott"><img src="https://i2.ytimg.com/vi/IG697qDkvYY/hqdefault.jpg" alt="Moving the Virtual Coffee site to Remix with Dan Ott" width="360" height="270" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=mOTK5HdrTSc" title="Building a themed chat overlay using showmy.chat with Ben Myers"><img src="https://i2.ytimg.com/vi/mOTK5HdrTSc/hqdefault.jpg" alt="Building a themed chat overlay using showmy.chat with Ben Myers" width="360" height="270" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=rOSqy02eiuk" title="Rest2GraphQL with Lucia Cerchie"><img src="https://i3.ytimg.com/vi/rOSqy02eiuk/hqdefault.jpg" alt="Rest2GraphQL with Lucia Cerchie" width="360" height="270" /></a>&nbsp;&nbsp;</div><!-- VIDEO-LIST:END -->
 
 Check out [more videos on my YouTube channel](http://youtube.iamdeveloper.com/).
 
@@ -40,48 +41,48 @@ Good times and great guests. Thanks to everyone that was a part of it.
     ><img
       src="https://i4.ytimg.com/vi/cmooRSV4sr8/hqdefault.jpg"
       alt="Stacie Taylor, Engineering Team Lead at Zapier and Co-founder at Collab Lab"
-      width="240"
-      height="180" /></a
+      width="360"
+      height="270" /></a
   >&nbsp;&nbsp;<a
     href="https://www.youtube.com/watch?v=zMEvgvSrPuo"
     title="Walkthrough Wednesday with Sunil Pai, Workers Team at Cloudflare"
     ><img
       src="https://i3.ytimg.com/vi/zMEvgvSrPuo/hqdefault.jpg"
       alt="Walkthrough Wednesday with Sunil Pai, Workers Team at Cloudflare"
-      width="240"
-      height="180" /></a
+      width="360"
+      height="270" /></a
   >&nbsp;&nbsp;<a
     href="https://www.youtube.com/watch?v=MWkJFsC9jZo"
     title="Walkthrough Wednesday with Jenn Schiffer"
     ><img
       src="https://i2.ytimg.com/vi/MWkJFsC9jZo/hqdefault.jpg"
       alt="Walkthrough Wednesday with Jenn Schiffer"
-      width="240"
-      height="180" /></a
+      width="360"
+      height="270" /></a
   >&nbsp;&nbsp<a
     href="https://www.youtube.com/watch?v=IH2IcYMxab4"
     title="Walkthrough Wednesday with Stephanie Eckles"
     ><img
       src="https://i2.ytimg.com/vi/IH2IcYMxab4/hqdefault.jpg"
       alt="Walkthrough Wednesday with Stephanie Eckles"
-      width="240"
-      height="180" /></a
+      width="360"
+      height="270" /></a
   >&nbsp;&nbsp;<a
     href="https://www.youtube.com/watch?v=wHWzxGD_cRk"
     title="Walkthrough Wednesday: Learn Terraform with Andrew Brown"
     ><img
       src="https://i4.ytimg.com/vi/wHWzxGD_cRk/hqdefault.jpg"
       alt="Walkthrough Wednesday: Learn Terraform with Andrew Brown"
-      width="240"
-      height="180" /></a
+      width="360"
+      height="270" /></a
   >&nbsp;&nbsp;<a
     href="https://www.youtube.com/watch?v=d1KCS6C4Rus"
     title="Walkthrough Wednesday with Brian Douglas"
     ><img
       src="https://i1.ytimg.com/vi/d1KCS6C4Rus/hqdefault.jpg"
       alt="Walkthrough Wednesday with Brian Douglas"
-      width="240"
-      height="180" /></a
+      width="360"
+      height="270" /></a
   >
 </div>
 

@@ -33,7 +33,7 @@ function generateVideosMarkup(videos) {
   for (const video of videos) {
     const {link, thumbnail, title} = video;
 
-    markup += `<a href="${link}" title="${title}"><img src="${thumbnail}" alt="${title}" width="240" height="180" /></a>&nbsp;&nbsp;`;
+    markup += `<a href="${link}" title="${title}"><img src="${thumbnail}" alt="${title}" width="360" height="270" /></a>&nbsp;&nbsp;`;
   }
 
   markup += '</div>';
@@ -53,7 +53,7 @@ function generateVideosMarkup(videos) {
  *  }
  * ]
  */
-async function getVideos(videoFeedUrl, numberOfVideos = 6) {
+async function getVideos(videoFeedUrl, numberOfVideos = 4) {
   const parser = new Parser({
     customFields: {
       item: ['media:group', 'media:thumbnail'],
