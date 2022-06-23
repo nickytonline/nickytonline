@@ -13,12 +13,12 @@ Aside from programming, I enjoy contributing to open source, hitting the gym, sn
 ## Latest Written Work
 
 <!-- BLOG-POST-LIST:START -->
+- [Speech-to-text with Deepgram](https://www.iamdeveloper.com/posts/speech-to-text-with-deepgram-2b6i/)
 - [Yet Another Newsletter LOL - Issue #51: RIP IE](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-51-rip-ie-1219937)
 - [June 13th, 2022: VS Code Tip of the Week](https://community.vscodetips.com/nickytonline/june-13th-2022-vs-code-tip-of-the-week-3lnd)
 - [Yet Another Newsletter LOL - Issue #50: See me rolling](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-50-see-me-rolling-1210299)
 - [June 6th, 2022: VS Code Tip of the Week](https://community.vscodetips.com/nickytonline/june-6th-2022-vs-code-tip-of-the-week-pf0)
 - [Yet Another Newsletter LOL - Issue #49 - Use the code search Luke](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-49-use-the-code-search-luke-1199998)
-- [May 30th, 2022: VS Code Tip of the Week](https://community.vscodetips.com/nickytonline/may-30th-2022-vs-code-tip-of-the-week-28pm)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
