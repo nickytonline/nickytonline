@@ -13,12 +13,12 @@ Aside from programming, I enjoy contributing to open source, hitting the gym, sn
 ## Latest Written Work
 
 <!-- BLOG-POST-LIST:START -->
+- [VS Code Tip of the Week: The Thunder Client Extension](https://community.vscodetips.com/nickytonline/vs-code-tip-of-the-week-the-thunder-client-extension-1k3p)
 - [Yet Another Newsletter LOL - Issue #53: Fig on pizza?](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-53-fig-on-pizza-1241798)
 - [a11y-twitter: a browser extension for making Tweets more accessible](https://www.iamdeveloper.com/posts/a11y-twitter-a-browser-extension-for-making-twitter-more-accessible-17kg/)
 - [VS Code Tip of The Week: Contextual Information on Hover while Debugging](https://community.vscodetips.com/nickytonline/vs-code-tip-of-the-week-contextual-information-on-hover-f9f)
 - [Yet Another Newsletter LOL - Issue #52: So, a blog post?](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-52-so-a-blog-post-1231268)
 - [Speech-to-text with Deepgram](https://www.iamdeveloper.com/posts/speech-to-text-with-deepgram-2b6i/)
-- [Yet Another Newsletter LOL - Issue #51: RIP IE](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-51-rip-ie-1219937)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
