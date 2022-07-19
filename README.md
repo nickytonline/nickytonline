@@ -13,12 +13,12 @@ Aside from programming, I enjoy contributing to open source, hitting the gym, sn
 ## Latest Written Work
 
 <!-- BLOG-POST-LIST:START -->
+- [VS Code Tip of the Week: The Project Manager Extension](https://community.vscodetips.com/nickytonline/vs-code-tip-of-the-week-the-project-manager-extension-43h7)
 - [Yet Another Newsletter LOL - Issue #55: The unmentioning](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-55-the-unmentioning-1260697)
 - [What is Deno?](https://www.iamdeveloper.com/posts/what-is-deno-13he/)
 - [VS Code Tip of the Week: 3-way Merge Editor](https://community.vscodetips.com/nickytonline/vs-code-tip-of-the-week-3-way-merge-editor-31la)
 - [Yet Another Newsletter LOL - Issue #54: Fresh!](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-54-fresh-1244106)
 - [Learning Resources for TypeScript](https://www.iamdeveloper.com/posts/learning-resources-for-typescript-4g1n/)
-- [VS Code Tip of the Week: The Thunder Client Extension](https://community.vscodetips.com/nickytonline/vs-code-tip-of-the-week-the-thunder-client-extension-1k3p)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
