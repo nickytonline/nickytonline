@@ -13,12 +13,12 @@ Aside from programming, I enjoy contributing to open source, hitting the gym, sn
 ## Latest Written Work
 
 <!-- BLOG-POST-LIST:START -->
+- [Yet Another Newsletter LOL - Issue #57: Sneezing &amp; Farting?](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-57-sneezing-farting-1279977)
 - [VS Code Tip of the Week: The RapidAPI Client Extensions](https://community.vscodetips.com/nickytonline/vs-code-tip-of-the-week-the-rapidapi-client-extensions-1o5a)
 - [Yet Another Newsletter LOL - Issue #56: Shroom Tunes](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-56-shroom-tunes-1270432)
 - [VS Code Tip of the Week: The Project Manager Extension](https://community.vscodetips.com/nickytonline/vs-code-tip-of-the-week-the-project-manager-extension-43h7)
 - [Yet Another Newsletter LOL - Issue #55: The unmentioning](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-55-the-unmentioning-1260697)
 - [What is Deno?](https://www.iamdeveloper.com/posts/what-is-deno-13he/)
-- [VS Code Tip of the Week: 3-way Merge Editor](https://community.vscodetips.com/nickytonline/vs-code-tip-of-the-week-3-way-merge-editor-31la)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
