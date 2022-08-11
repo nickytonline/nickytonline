@@ -13,12 +13,12 @@ Aside from programming, I enjoy contributing to open source, hitting the gym, sn
 ## Latest Written Work
 
 <!-- BLOG-POST-LIST:START -->
+- [VS Code Tip of the Week: Sticky Scroll](https://community.vscodetips.com/nickytonline/vs-code-tip-of-the-week-sticky-scroll-2e5)
 - [Yet Another Newsletter LOL - Issue #58: Rainbow circles](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-58-rainbow-circles-1289885)
 - [VS Code Tip of the Week: Inlay hints configuration options](https://community.vscodetips.com/nickytonline/vs-code-tip-of-the-week-inlay-hints-configuration-options-3j9f)
 - [Contributing to Open Source and how Open Sauced can help](https://www.iamdeveloper.com/posts/contributing-to-open-source-and-how-open-sauced-can-help-5d97/)
 - [Yet Another Newsletter LOL - Issue #57: Sneezing &amp; Farting?](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-57-sneezing-farting-1279977)
 - [VS Code Tip of the Week: The RapidAPI Client Extensions](https://community.vscodetips.com/nickytonline/vs-code-tip-of-the-week-the-rapidapi-client-extensions-1o5a)
-- [Yet Another Newsletter LOL - Issue #56: Shroom Tunes](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-56-shroom-tunes-1270432)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
