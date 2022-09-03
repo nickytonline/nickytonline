@@ -13,12 +13,12 @@ Aside from programming, I enjoy contributing to open source, hitting the gym, sn
 ## Latest Written Work
 
 <!-- BLOG-POST-LIST:START -->
+- [Hot reloading in Rust!](https://www.iamdeveloper.com/posts/hot-reloading-in-rust-4i1c/)
 - [VS Code Tip of the Week: Exclude Git Ignore](https://community.vscodetips.com/nickytonline/vs-code-tip-of-the-week-exclude-git-ignore-54bn)
 - [Yet Another Newsletter LOL - Issue #61: Cameraman chose the wrong career](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-61-cameraman-chose-the-wrong-career-1320736)
 - [VS Code Tip of the Week: Tree Find Control](https://community.vscodetips.com/nickytonline/vs-code-tip-of-the-week-tree-find-control-a47)
 - [Yet Another Newsletter LOL - Issue #60: Doing nothing is underrated](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-60-doing-nothing-is-underrated-1310537)
 - [VS Code Tip of the Week: Terminal Auto Replies](https://community.vscodetips.com/nickytonline/vs-code-tip-of-the-week-terminal-auto-replies-519i)
-- [Yet Another Newsletter LOL - Issue #59: The buffalo stick](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-59-the-buffalo-stick-1300245)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
