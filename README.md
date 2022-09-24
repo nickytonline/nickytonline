@@ -94,8 +94,5 @@ Check out [more videos on the DEV YouTube channel](https://www.youtube.com/thepr
 - [Polywork](https://timeline.iamdeveloper.com)
 - [LinkedIn](https://www.linkedin.com/in/nickytonline/)
 - [livecoding.ca](https://livecoding.ca) (my Twitch stream)
-- [Developer DAO #5156](https://opensea.io/assets/0x25ed58c027921e14d86380ea2646e3a1b5c55a8b/5156)
-- [Mastodon](https://toot.cafe/@nickytonline)
-- Creator and member of the [VSCodeTips community](https://community.vscodetips.com)
 
 I'm pretty much @nickytonline everywhere
