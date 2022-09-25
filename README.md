@@ -13,12 +13,12 @@ Aside from programming, I enjoy contributing to open source, hitting the gym, sn
 ## Latest Written Work
 
 <!-- BLOG-POST-LIST:START -->
+- [Hacktoberfest: Preptember!](https://www.iamdeveloper.com/posts/hacktoberfest-preptember-3p7/)
 - [Yet Another Newsletter LOL - Issue #64: So Fresh!](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-64-so-fresh-1351042)
 - [Yet Another Newsletter LOL - Issue #63: Signals](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-63-signals-1342055)
 - [More engagement through series on dev.to](https://www.iamdeveloper.com/posts/more-engagement-through-series-on-devto-6hb/)
 - [VS Code Tip of the week: vscode.dev](https://community.vscodetips.com/nickytonline/vs-code-tip-of-the-week-vscodedev-mpf)
 - [Yet Another Newsletter LOL - Issue #62: Joey](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-62-joey-1330925)
-- [Welcome Thread - v11](https://community.vscodetips.com/nickytonline/welcome-thread-v11-2435)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
