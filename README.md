@@ -13,12 +13,12 @@ Aside from programming, I enjoy contributing to open source, hitting the gym, sn
 ## Latest Written Work
 
 <!-- BLOG-POST-LIST:START -->
+- [Yet Another Newsletter LOL - Issue #67: The cursor parking lot](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-67-the-cursor-parking-lot-1385149)
 - [Yet Another Newsletter LOL - Issue #66: TypeScript Time!](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-66-typescript-time-1377853)
 - [Yet Another Newsletter LOL - Issue #65: Ultra!](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-65-ultra-1365447)
 - [Hacktoberfest 2022: Preptember!](https://www.iamdeveloper.com/posts/hacktoberfest-preptember-3p7/)
 - [Yet Another Newsletter LOL - Issue #64: So Fresh!](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-64-so-fresh-1351042)
 - [Yet Another Newsletter LOL - Issue #63: Signals](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-63-signals-1342055)
-- [More engagement through series on dev.to](https://www.iamdeveloper.com/posts/more-engagement-through-series-on-devto-6hb/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
