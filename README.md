@@ -13,7 +13,6 @@ Aside from programming, I enjoy contributing to open source, hitting the gym, sn
 ## Latest Written Work
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Build framework-agnostic components with Mitosis](https://www.iamdeveloper.com/posts/build-framework-agnostic-components-with-mitosis-4c4k/)
 - [Repurposing Content for Content Creation](https://www.iamdeveloper.com/posts/repurposing-content-for-content-creation-3l4d/)
 - [Yet Another Newsletter LOL - Issue #68: TypeScript X](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-68-typescript-x-1399945)
