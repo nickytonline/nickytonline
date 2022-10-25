@@ -13,7 +13,8 @@ const VIDEO_MARKER_FINDER = new RegExp(
 
 async function main() {
   const videos = await getVideos(
-    'https://www.youtube.com/feeds/videos.xml?channel_id=UCBLlEq0co24VFJIMEHNcPOQ'
+    'https://www.youtube.com/feeds/videos.xml?channel_id=UCBLlEq0co24VFJIMEHNcPOQ',
+    4
   );
   const videosMarkups = generateVideosMarkup(videos);
 
