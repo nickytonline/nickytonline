@@ -13,6 +13,7 @@ Aside from programming, I enjoy contributing to open source, hitting the gym, sn
 ## Latest Written Work
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Yet Another Newsletter LOL - Issue #70: We&#39;re Breaking Up](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-70-we-re-breaking-up-1415079)
 - [What is The Collab Lab?](https://www.iamdeveloper.com/posts/what-is-the-collab-lab-427f/)
 - [Yet Another Newsletter LOL - Issue #69: Why web tech is like this](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-69-why-web-tech-is-like-this-1409196)
@@ -95,7 +96,7 @@ Check out [more videos on the DEV YouTube channel](https://www.youtube.com/thepr
 - [LinkedIn](https://www.linkedin.com/in/nickytonline/)
 - [DEV](https://dev.to/nickytonline)
 - [Hashnode](https://hashnode.iamdeveloper.com/)
-- [livecoding.ca](https://livecoding.ca) (my Twitch stream)
+- [live.iamdeveloper.com](https://live.iamdeveloper.com) (my Twitch stream)
 - [My YouTube Channel](https://youtube.iamdeveloper.com)
 - [Nick's Cuts](https://pod.iamdeveloper.com) (my Podcast)
 - <a rel="me" href="https://toot.cafe/@nickytonline">Mastodon</a>
