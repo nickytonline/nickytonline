@@ -13,12 +13,12 @@ Aside from programming, I enjoy contributing to open source, hitting the gym, sn
 ## Latest Written Work
 
 <!-- BLOG-POST-LIST:START -->
+- [Yet Another Newsletter LOL - Issue #71: Focusing is about saying no](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-71-focusing-is-about-saying-no-1427173)
+- [Automate and Auto-Merge Pull Requests using GitHub Actions and the GitHub CLI](https://www.iamdeveloper.com/blog/automate-and-merge-pull-requests-using-github-actions-and-the-github-cli-4lo6/)
 - [Yet Another Newsletter LOL - Issue #70: We&#39;re Breaking Up](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-70-we-re-breaking-up-1415079)
-- [What is The Collab Lab?](https://www.iamdeveloper.com/posts/what-is-the-collab-lab-427f/)
+- [What is The Collab Lab?](https://www.iamdeveloper.com/blog/what-is-the-collab-lab-427f/)
 - [Yet Another Newsletter LOL - Issue #69: Why web tech is like this](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-69-why-web-tech-is-like-this-1409196)
-- [Build framework-agnostic components with Mitosis](https://www.iamdeveloper.com/posts/build-framework-agnostic-components-with-mitosis-4c4k/)
-- [Repurposing Content for Content Creation](https://www.iamdeveloper.com/posts/repurposing-content-for-content-creation-3l4d/)
-- [Yet Another Newsletter LOL - Issue #68: TypeScript X](https://www.getrevue.co/profile/nickytonline/issues/yet-another-newsletter-lol-issue-68-typescript-x-1399945)
+- [Build framework-agnostic components with Mitosis](https://www.iamdeveloper.com/blog/build-framework-agnostic-components-with-mitosis-4c4k/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
