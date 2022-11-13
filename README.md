@@ -13,12 +13,12 @@ Aside from programming, I enjoy contributing to open source, hitting the gym, sn
 ## Latest Written Work
 
 <!-- BLOG-POST-LIST:START -->
+- [Yet Another Newsletter LOL Issue #72: You don&#39;t unit test???](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-issue-72-you-dont-unit/)
 - [Automate and Auto-Merge Pull Requests using GitHub Actions and the GitHub CLI](https://www.iamdeveloper.com/blog/automate-and-merge-pull-requests-using-github-actions-and-the-github-cli-4lo6/)
 - [What is The Collab Lab?](https://www.iamdeveloper.com/blog/what-is-the-collab-lab-427f/)
 - [Build framework-agnostic components with Mitosis](https://www.iamdeveloper.com/blog/build-framework-agnostic-components-with-mitosis-4c4k/)
 - [Repurposing Content for Content Creation](https://www.iamdeveloper.com/blog/repurposing-content-for-content-creation-3l4d/)
 - [Funding in open source](https://www.iamdeveloper.com/blog/funding-in-open-source-4i6k/)
-- [Hacktoberfest 2022: Preptember!](https://www.iamdeveloper.com/blog/hacktoberfest-preptember-3p7/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
