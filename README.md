@@ -15,10 +15,10 @@ Aside from programming, I enjoy contributing to open source, hitting the gym, sn
 <!-- BLOG-POST-LIST:START -->
 - [App to grab your Revue newsletters](https://www.iamdeveloper.com/blog/app-to-grab-your-revue-newsletters-1gci/)
 - [Yet Another Newsletter LOL Issue #72: You don&#39;t unit test???](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-issue-72-you-dont-unit/)
+- [Revue being phased out by Twitter](https://www.iamdeveloper.com/blog/revue-being-phased-out-by-twitter-4kle/)
 - [Automate and Auto-Merge Pull Requests using GitHub Actions and the GitHub CLI](https://www.iamdeveloper.com/blog/automate-and-merge-pull-requests-using-github-actions-and-the-github-cli-4lo6/)
 - [What is The Collab Lab?](https://www.iamdeveloper.com/blog/what-is-the-collab-lab-427f/)
 - [Build framework-agnostic components with Mitosis](https://www.iamdeveloper.com/blog/build-framework-agnostic-components-with-mitosis-4c4k/)
-- [Repurposing Content for Content Creation](https://www.iamdeveloper.com/blog/repurposing-content-for-content-creation-3l4d/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
