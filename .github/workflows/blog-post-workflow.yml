@@ -14,4 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "6"
-          feed_list: "https://www.iamdeveloper.com/feed.xml,https://buttondown.email/nickytonline/rss,https://community.codenewbie.org/feed/nickytonline"
+          feed_list: "https://www.iamdeveloper.com/feed.xml,https://www.iamdeveloper.com/newsletter.rss"
