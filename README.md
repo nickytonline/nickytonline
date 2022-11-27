@@ -13,12 +13,12 @@ Aside from programming, I enjoy contributing to open source, hitting the gym, sn
 ## Latest Written Work
 
 <!-- BLOG-POST-LIST:START -->
+- [Yet Another Newsletter LOL: :where&lpar;&rpar; you at?](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-where-you-at/)
 - [Yet Another Newsletter LOL: Reinvent the browser](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-reinvent-the-browser/)
 - [Have you moved from Twitter to Mastodon for social media?](https://www.iamdeveloper.com/blog/have-you-moved-from-twitter-to-mastodon-for-social-media-4a37/)
 - [App to grab your Revue newsletters](https://www.iamdeveloper.com/blog/app-to-grab-your-revue-newsletters-1gci/)
 - [Yet Another Newsletter LOL: You don&#39;t unit test???](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-issue-72-you-dont-unit/)
 - [Revue being phased out by Twitter](https://www.iamdeveloper.com/blog/revue-being-phased-out-by-twitter-4kle/)
-- [Yet Another Newsletter LOL: Focusing is about saying no](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-focusing-is-about/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
