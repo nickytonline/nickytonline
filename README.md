@@ -13,7 +13,6 @@ Aside from programming, I enjoy contributing to open source, hitting the gym, sn
 ## Latest Written Work
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Yet Another Newsletter LOL: Solid!](https://www.iamdeveloper.com/newsletter/yet-another-newsletter-lol-solid-1964/)
 - [Yet Another Newsletter LOL: :where&lpar;&rpar; you at?](https://www.iamdeveloper.com/newsletter/yet-another-newsletter-lol-where-you-at/)
 - [Yet Another Newsletter LOL: Reinvent the browser](https://www.iamdeveloper.com/newsletter/yet-another-newsletter-lol-reinvent-the-browser/)
