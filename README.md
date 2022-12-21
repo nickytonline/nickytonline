@@ -95,9 +95,9 @@ Check out [more videos on the DEV YouTube channel](https://www.youtube.com/thepr
 - [LinkedIn](https://www.linkedin.com/in/nickytonline/)
 - [DEV](https://dev.to/nickytonline)
 - [Hashnode](https://hashnode.iamdeveloper.com/)
-- [live.iamdeveloper.com](https://live.iamdeveloper.com) (my Twitch stream)
-- [My YouTube Channel](https://youtube.iamdeveloper.com)
-- [Nick's Cuts](https://pod.iamdeveloper.com) (my Podcast)
+- [iamdeveloper.live](https://iamdeveloper.live) (my Twitch stream)
+- [youtube.iamdeveloper.com](https://youtube.iamdeveloper.com)
+- [pod.iamdeveloper.com](https://pod.iamdeveloper.com) (Nick's Cuts, my Podcast)
 - <a rel="me" href="https://toot.cafe/@nickytonline">Mastodon</a>
 
 I'm pretty much @nickytonline everywhere
