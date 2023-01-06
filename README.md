@@ -19,6 +19,8 @@ Aside from programming, I enjoy contributing to open source, hitting the gym, sn
 - [Yet Another Newsletter LOL: Thing](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-thing/)
 - [Highlight: A musician&#39;s journey into the tech world with Jessica Wilkins](https://www.twitch.tv/videos/1681175869)
 - [Highlight: Accessibility of Things with Todd Libby](https://www.twitch.tv/videos/1679029759)
+- [Highlight: Nick Live Coding Under Pressure with the Clock Ticking](https://www.twitch.tv/videos/1677726236)
+- [Yet Another Newsletter LOL: Super Charge!](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-super-charge/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
