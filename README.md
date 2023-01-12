@@ -13,14 +13,14 @@ Aside from programming, I enjoy contributing to open source, hitting the gym, sn
 ## Latest Written Work
 
 <!-- BLOG-POST-LIST:START -->
+- [Highlight: Serverless Edge with Brian Rinaldi](https://www.twitch.tv/videos/1704629589)
+- [Serverless Edge with Brian Rinaldi](https://www.twitch.tv/videos/1704332949)
 - [Yet Another Newsletter LOL: Too much turkey](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-too-much-turkey/)
 - [My 2022 Year in Review](https://www.iamdeveloper.com/blog/my-2022-year-in-review-a72/)
 - [Yet Another Newsletter LOL: Just in time](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-thing-3040/)
 - [Yet Another Newsletter LOL: Thing](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-thing/)
 - [Highlight: A musician&#39;s journey into the tech world with Jessica Wilkins](https://www.twitch.tv/videos/1681175869)
 - [Highlight: Accessibility of Things with Todd Libby](https://www.twitch.tv/videos/1679029759)
-- [Highlight: Nick Live Coding Under Pressure with the Clock Ticking](https://www.twitch.tv/videos/1677726236)
-- [Yet Another Newsletter LOL: Super Charge!](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-super-charge/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
