@@ -10,7 +10,7 @@ I'm not a big fan of spiders, but I know they're doing good work eating bugs.
 
 Aside from programming, I enjoy contributing to open source, hitting the gym, snowboarding, and rugby a long time ago.
 
-## Latest Written Work
+## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
 - [Highlight: Serverless Edge with Brian Rinaldi](https://www.twitch.tv/videos/1704629589)
