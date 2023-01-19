@@ -13,14 +13,14 @@ Aside from programming, I enjoy contributing to open source, hitting the gym, sn
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
+- [Highlight: Cypress Component Testing with Mark Noonan](https://www.twitch.tv/videos/1711340528)
+- [Cypress Component Testing with Mark Noonan](https://www.twitch.tv/videos/1711210592)
 - [Yet Another Newsletter LOL: &#39;Sup 2023?](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-sup-2023/)
 - [Highlight: Create an Edge Function with the Netlify CLI](https://www.twitch.tv/videos/1707219182)
 - [Highlight: Serverless Edge with Brian Rinaldi](https://www.twitch.tv/videos/1704629589)
 - [Serverless Edge with Brian Rinaldi](https://www.twitch.tv/videos/1704332949)
 - [Yet Another Newsletter LOL: Too much turkey](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-too-much-turkey/)
 - [My 2022 Year in Review](https://www.iamdeveloper.com/blog/my-2022-year-in-review-a72/)
-- [Yet Another Newsletter LOL: Just in time](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-thing-3040/)
-- [Yet Another Newsletter LOL: Thing](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-thing/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- VIDEO-LIST:START --><div><a href="https://www.youtube.com/watch?v=wcQXcHy_3bg" title="Serverless Edge with Brian Rinaldi"><img src="https://i4.ytimg.com/vi/wcQXcHy_3bg/hqdefault.jpg" alt="Serverless Edge with Brian Rinaldi" width="360" height="270" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=hiFtv9e9OyM" title="A musician's journey into the tech world with Jessica Wilkins"><img src="https://i1.ytimg.com/vi/hiFtv9e9OyM/hqdefault.jpg" alt="A musician's journey into the tech world with Jessica Wilkins" width="360" height="270" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=2ivODfxrDR4" title="Accessibility of Things with Todd Libby"><img src="https://i3.ytimg.com/vi/2ivODfxrDR4/hqdefault.jpg" alt="Accessibility of Things with Todd Libby" width="360" height="270" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=E19r1WuRycM" title="Edge render anything with Astro, with Ben Holmes, Software Developer @ astro.build"><img src="https://i2.ytimg.com/vi/E19r1WuRycM/hqdefault.jpg" alt="Edge render anything with Astro, with Ben Holmes, Software Developer @ astro.build" width="360" height="270" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=f0p5_2PIIcQ" title="Janitor to Software Engineer Roadmap with Emmett Naughton"><img src="https://i3.ytimg.com/vi/f0p5_2PIIcQ/hqdefault.jpg" alt="Janitor to Software Engineer Roadmap with Emmett Naughton" width="360" height="270" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=wZgrqN3d7WM" title="Customize Auth0 with Actions with Will Johnson, Developer Advocate at Auth0"><img src="https://i4.ytimg.com/vi/wZgrqN3d7WM/hqdefault.jpg" alt="Customize Auth0 with Actions with Will Johnson, Developer Advocate at Auth0" width="360" height="270" /></a>&nbsp;&nbsp;</div><!-- VIDEO-LIST:END -->
