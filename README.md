@@ -16,7 +16,7 @@ Aside from programming, I enjoy contributing to open source, hitting the gym, sn
 - [Highlight: Generating TypeScript Types from Open API &amp; JSON Schemas with Eddie Hinkle](https://www.twitch.tv/videos/1718298814)
 - [Generating TypeScript Types from Open API &amp; JSON Schemas with Eddie Hinkle](https://www.twitch.tv/videos/1718154129)
 - [Yet Another Newsletter LOL: So much snow!](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-so-much-snow/)
-- [Highlight: Angular, NgRx, Analog &amp; Open Source with Brandon Roberts, Senior Software Engineer at OpenSauced](https://www.twitch.tv/videos/1713713364)
+- [Highlight: Angular, NgRx, Analog &amp; Open Source with Brandon Roberts](https://www.twitch.tv/videos/1713713364)
 - [Angular, NgRx, Analog &amp; Open Source with Brandon Roberts](https://www.twitch.tv/videos/1713160758)
 - [Highlight: Cypress Component Testing with Mark Noonan](https://www.twitch.tv/videos/1711340528)
 - [Cypress Component Testing with Mark Noonan](https://www.twitch.tv/videos/1711210592)
