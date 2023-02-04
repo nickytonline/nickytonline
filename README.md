@@ -4,11 +4,9 @@
 
 My name is Nick Taylor and I hail from Montreal, Quebec, Canada.
 
-I am a Staff Software Engineer at [Netlify](https://netlify.com/) on the ecosystem team, focusing on front-end technologies and tooling. I also have a growing interest in serverless and edge computing. I also [stream on Twitch](https://iamdeveloper.live/). More about me on [iamdeveloper.com](https://iamdeveloper.com).
+I am a Staff Software Engineer at [Netlify](https://netlify.com/) on the ecosystem team, focusing on front-end technologies and tooling. I also have a growing interest in serverless and edge computing. I also [stream on Twitch](https://iamdeveloper.live/).
 
-I'm not a big fan of spiders, but I know they're doing good work eating bugs.
-
-Aside from programming, I enjoy contributing to open source, hitting the gym, snowboarding, and rugby a long time ago.
+I'm not a big fan of spiders, but I know they're doing good work eating bugs. Aside from programming, I enjoy contributing to open source, hitting the gym, snowboarding, and rugby a long time ago. More about me at [iamdeveloper.com](https://iamdeveloper.com).
 
 ## Latest Content
 
