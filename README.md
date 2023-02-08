@@ -11,14 +11,14 @@ I'm not a big fan of spiders, but I know they're doing good work eating bugs. As
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
+- [Highlight: A/B testing, accessibility, and DevRel with Chris Demars](https://www.twitch.tv/videos/1732251873)
+- [A/B testing, accessibility, and DevRel with Chris Demars](https://www.twitch.tv/videos/1732155362)
 - [Yet Another Newsletter LOL: Hello Houston!](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-hello-houston/)
 - [Restream Test](https://www.twitch.tv/videos/1727554764)
 - [Highlight: TechIsHiring with Chad Stewart](https://www.twitch.tv/videos/1725343368)
 - [TechIsHiring with Chad Stewart](https://www.twitch.tv/videos/1725125931)
 - [Yet Another Newsletter LOL: Kiwi!](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-kiwi/)
 - [Highlight: Generating TypeScript Types from Open API &amp; JSON Schemas with Eddie Hinkle](https://www.twitch.tv/videos/1718298814)
-- [Generating TypeScript Types from Open API &amp; JSON Schemas with Eddie Hinkle](https://www.twitch.tv/videos/1718154129)
-- [Yet Another Newsletter LOL: So much snow!](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-so-much-snow/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- VIDEO-LIST:START --><div><a href="https://www.youtube.com/watch?v=WBHCGpP-TUU" title="TechIsHiring with Chad Stewart"><img src="https://i4.ytimg.com/vi/WBHCGpP-TUU/hqdefault.jpg" alt="TechIsHiring with Chad Stewart" width="360" height="270" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=PYmqcCsmTGQ" title="Generating TypeScript Types from Open API & JSON Schemas with Eddie Hinkle"><img src="https://i1.ytimg.com/vi/PYmqcCsmTGQ/hqdefault.jpg" alt="Generating TypeScript Types from Open API & JSON Schemas with Eddie Hinkle" width="360" height="270" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=BSy2mv4RG9w" title="Angular, NgRx, Analog & Open Source with Brandon Roberts"><img src="https://i3.ytimg.com/vi/BSy2mv4RG9w/hqdefault.jpg" alt="Angular, NgRx, Analog & Open Source with Brandon Roberts" width="360" height="270" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=W3mxvyrnu_k" title="Cypress Component Testing with Mark Noonan"><img src="https://i4.ytimg.com/vi/W3mxvyrnu_k/hqdefault.jpg" alt="Cypress Component Testing with Mark Noonan" width="360" height="270" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=wcQXcHy_3bg" title="Serverless Edge with Brian Rinaldi"><img src="https://i4.ytimg.com/vi/wcQXcHy_3bg/hqdefault.jpg" alt="Serverless Edge with Brian Rinaldi" width="360" height="270" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=hiFtv9e9OyM" title="A musician's journey into the tech world with Jessica Wilkins"><img src="https://i1.ytimg.com/vi/hiFtv9e9OyM/hqdefault.jpg" alt="A musician's journey into the tech world with Jessica Wilkins" width="360" height="270" /></a>&nbsp;&nbsp;</div><!-- VIDEO-LIST:END -->
