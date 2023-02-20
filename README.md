@@ -11,14 +11,14 @@ I'm not a big fan of spiders, but I know they're doing good work eating bugs. As
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
+- [Where do you find community?](https://www.iamdeveloper.com/blog/where-do-you-find-community-458p/)
+- [Yet Another Newsletter LOL: Bing!](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-bing/)
 - [Highlight: RedwoodJS 4 – Meet core team member Dom Saadi](https://www.twitch.tv/videos/1741137194)
 - [Highlight: RedwoodJS 4 – yarn redwood setup vite](https://www.twitch.tv/videos/1741130571)
 - [RedwoodJS 4](https://www.twitch.tv/videos/1740957392)
 - [Highlight: Intro to Kafka: with Node.js! with Lucia Cerchie, Developer Advocate at Confluent](https://www.twitch.tv/videos/1739092848)
 - [Intro to Kafka: with Node.js! with Lucia Cerchie, Developer Advocate at Confluent](https://www.twitch.tv/videos/1739010436)
 - [BenQ ScreenBar Halo Monitor Light Review](https://www.iamdeveloper.com/blog/benq-screenbar-halo-monitor-light-review-54ej/)
-- [Yet Another Newsletter LOL: H2 Oh!](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-h2-oh/)
-- [Highlight: A/B testing, accessibility, and DevRel with Chris Demars](https://www.twitch.tv/videos/1732251873)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- VIDEO-LIST:START --><div><a href="https://www.youtube.com/watch?v=SGWDgPcUies" title="Intro to Kafka: with Node.js! with Lucia Cerchie, Developer Advocate at Confluent"><img src="https://i4.ytimg.com/vi/SGWDgPcUies/hqdefault.jpg" alt="Intro to Kafka: with Node.js! with Lucia Cerchie, Developer Advocate at Confluent" width="360" height="270" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=1pGx8X1TcBQ" title="A/B testing, accessibility, and DevRel with Chris Demars"><img src="https://i2.ytimg.com/vi/1pGx8X1TcBQ/hqdefault.jpg" alt="A/B testing, accessibility, and DevRel with Chris Demars" width="360" height="270" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=WBHCGpP-TUU" title="TechIsHiring with Chad Stewart"><img src="https://i4.ytimg.com/vi/WBHCGpP-TUU/hqdefault.jpg" alt="TechIsHiring with Chad Stewart" width="360" height="270" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=PYmqcCsmTGQ" title="Generating TypeScript Types from Open API & JSON Schemas with Eddie Hinkle"><img src="https://i1.ytimg.com/vi/PYmqcCsmTGQ/hqdefault.jpg" alt="Generating TypeScript Types from Open API & JSON Schemas with Eddie Hinkle" width="360" height="270" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=BSy2mv4RG9w" title="Angular, NgRx, Analog & Open Source with Brandon Roberts"><img src="https://i3.ytimg.com/vi/BSy2mv4RG9w/hqdefault.jpg" alt="Angular, NgRx, Analog & Open Source with Brandon Roberts" width="360" height="270" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=W3mxvyrnu_k" title="Cypress Component Testing with Mark Noonan"><img src="https://i4.ytimg.com/vi/W3mxvyrnu_k/hqdefault.jpg" alt="Cypress Component Testing with Mark Noonan" width="360" height="270" /></a>&nbsp;&nbsp;</div><!-- VIDEO-LIST:END -->
