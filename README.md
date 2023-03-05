@@ -11,6 +11,7 @@ I'm not a big fan of spiders, but I know they're doing good work eating bugs. As
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
+- [Yet Another Newsletter LOL: Signals!](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-signals-9320/)
 - [Highlight: Nx: Standalone Apps, Monorepos and Beyond! with Juri Strumpflohner](https://www.twitch.tv/videos/1752798910)
 - [Nx: Standalone Apps, Monorepos and Beyond! with Juri Strumpflohner](https://www.twitch.tv/videos/1752700619)
 - [Yet Another Newsletter LOL: Renaissance](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-renaissance/)
@@ -18,7 +19,6 @@ I'm not a big fan of spiders, but I know they're doing good work eating bugs. As
 - [Yet Another Newsletter LOL: Bing!](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-bing/)
 - [Highlight: RedwoodJS 4 – Meet core team member Dom Saadi](https://www.twitch.tv/videos/1741137194)
 - [Highlight: RedwoodJS 4 – yarn redwood setup vite](https://www.twitch.tv/videos/1741130571)
-- [RedwoodJS 4](https://www.twitch.tv/videos/1740957392)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- VIDEO-LIST:START --><div><a href="https://www.youtube.com/watch?v=ktNvO2BezRY" title="Nx: Standalone Apps, Monorepos and Beyond! with Juri Strumpflohner"><img src="https://i4.ytimg.com/vi/ktNvO2BezRY/hqdefault.jpg" alt="Nx: Standalone Apps, Monorepos and Beyond! with Juri Strumpflohner" width="360" height="270" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=DyvGlt8a5RQ" title="RedwoodJS 4"><img src="https://i1.ytimg.com/vi/DyvGlt8a5RQ/hqdefault.jpg" alt="RedwoodJS 4" width="360" height="270" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=SGWDgPcUies" title="Intro to Kafka: with Node.js! with Lucia Cerchie, Developer Advocate at Confluent"><img src="https://i4.ytimg.com/vi/SGWDgPcUies/hqdefault.jpg" alt="Intro to Kafka: with Node.js! with Lucia Cerchie, Developer Advocate at Confluent" width="360" height="270" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=1pGx8X1TcBQ" title="A/B testing, accessibility, and DevRel with Chris Demars"><img src="https://i2.ytimg.com/vi/1pGx8X1TcBQ/hqdefault.jpg" alt="A/B testing, accessibility, and DevRel with Chris Demars" width="360" height="270" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=WBHCGpP-TUU" title="TechIsHiring with Chad Stewart"><img src="https://i4.ytimg.com/vi/WBHCGpP-TUU/hqdefault.jpg" alt="TechIsHiring with Chad Stewart" width="360" height="270" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=PYmqcCsmTGQ" title="Generating TypeScript Types from Open API & JSON Schemas with Eddie Hinkle"><img src="https://i1.ytimg.com/vi/PYmqcCsmTGQ/hqdefault.jpg" alt="Generating TypeScript Types from Open API & JSON Schemas with Eddie Hinkle" width="360" height="270" /></a>&nbsp;&nbsp;</div><!-- VIDEO-LIST:END -->
