@@ -11,6 +11,7 @@ I'm not a big fan of spiders, but I know they're doing good work eating bugs. As
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
+- [Transform Your Portfolio Website with These Expert Tips](https://www.iamdeveloper.com/blog/transform-your-portfolio-website-with-these-expert-tips-334e/)
 - [Yet Another Newsletter LOL: Signals!](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-signals-9320/)
 - [Highlight: Nx: Standalone Apps, Monorepos and Beyond! with Juri Strumpflohner](https://www.twitch.tv/videos/1752798910)
 - [Nx: Standalone Apps, Monorepos and Beyond! with Juri Strumpflohner](https://www.twitch.tv/videos/1752700619)
@@ -18,7 +19,6 @@ I'm not a big fan of spiders, but I know they're doing good work eating bugs. As
 - [Where do you find community?](https://www.iamdeveloper.com/blog/where-do-you-find-community-458p/)
 - [Yet Another Newsletter LOL: Bing!](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-bing/)
 - [Highlight: RedwoodJS 4 – Meet core team member Dom Saadi](https://www.twitch.tv/videos/1741137194)
-- [Highlight: RedwoodJS 4 – yarn redwood setup vite](https://www.twitch.tv/videos/1741130571)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- VIDEO-LIST:START --><div><a href="https://www.youtube.com/watch?v=YgJ_-a5evH0" title="Why’s it so damn hard to break into tech?"><img src="https://i2.ytimg.com/vi/YgJ_-a5evH0/hqdefault.jpg" alt="Why’s it so damn hard to break into tech?" width="360" height="270" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=ktNvO2BezRY" title="Nx: Standalone Apps, Monorepos and Beyond! with Juri Strumpflohner"><img src="https://i4.ytimg.com/vi/ktNvO2BezRY/hqdefault.jpg" alt="Nx: Standalone Apps, Monorepos and Beyond! with Juri Strumpflohner" width="360" height="270" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=DyvGlt8a5RQ" title="RedwoodJS 4"><img src="https://i1.ytimg.com/vi/DyvGlt8a5RQ/hqdefault.jpg" alt="RedwoodJS 4" width="360" height="270" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=SGWDgPcUies" title="Intro to Kafka: with Node.js! with Lucia Cerchie, Developer Advocate at Confluent"><img src="https://i4.ytimg.com/vi/SGWDgPcUies/hqdefault.jpg" alt="Intro to Kafka: with Node.js! with Lucia Cerchie, Developer Advocate at Confluent" width="360" height="270" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=1pGx8X1TcBQ" title="A/B testing, accessibility, and DevRel with Chris Demars"><img src="https://i2.ytimg.com/vi/1pGx8X1TcBQ/hqdefault.jpg" alt="A/B testing, accessibility, and DevRel with Chris Demars" width="360" height="270" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=WBHCGpP-TUU" title="TechIsHiring with Chad Stewart"><img src="https://i4.ytimg.com/vi/WBHCGpP-TUU/hqdefault.jpg" alt="TechIsHiring with Chad Stewart" width="360" height="270" /></a>&nbsp;&nbsp;</div><!-- VIDEO-LIST:END -->
