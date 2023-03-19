@@ -11,14 +11,14 @@ I'm not a big fan of spiders, but I know they're doing good work eating bugs. As
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
+- [Yet Another Newsletter LOL: Good Looking Content](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-signals-5347/)
 - [Highlight: Why’s it so damn hard to break into tech?](https://www.twitch.tv/videos/1766218228)
 - [What do you call soft skills?](https://www.twitch.tv/videos/1766207804)
 - [Why’s it so damn hard to break into tech?](https://www.twitch.tv/videos/1765959092)
+- [End to End Testing with Cypress](https://www.iamdeveloper.com/talks/end-to-end-testing-with-cypress-the-collab-lab-tech-talks/)
 - [Transform Your Portfolio Website with These Expert Tips](https://www.iamdeveloper.com/blog/transform-your-portfolio-website-with-these-expert-tips-334e/)
 - [Yet Another Newsletter LOL: Signals!](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-signals-9320/)
 - [Highlight: Nx: Standalone Apps, Monorepos and Beyond! with Juri Strumpflohner](https://www.twitch.tv/videos/1752798910)
-- [Yet Another Newsletter LOL: Renaissance](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-renaissance/)
-- [Where do you find community?](https://www.iamdeveloper.com/blog/where-do-you-find-community-458p/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- VIDEO-LIST:START --><div><a href="https://www.youtube.com/watch?v=fB3L4ekE6Dg" title="Community & Core Skills with BekahHW"><img src="https://i3.ytimg.com/vi/fB3L4ekE6Dg/hqdefault.jpg" alt="Community & Core Skills with BekahHW" width="360" height="270" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=YgJ_-a5evH0" title="Why’s it so damn hard to break into tech?"><img src="https://i2.ytimg.com/vi/YgJ_-a5evH0/hqdefault.jpg" alt="Why’s it so damn hard to break into tech?" width="360" height="270" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=ktNvO2BezRY" title="Nx: Standalone Apps, Monorepos and Beyond! with Juri Strumpflohner"><img src="https://i4.ytimg.com/vi/ktNvO2BezRY/hqdefault.jpg" alt="Nx: Standalone Apps, Monorepos and Beyond! with Juri Strumpflohner" width="360" height="270" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=DyvGlt8a5RQ" title="RedwoodJS 4"><img src="https://i1.ytimg.com/vi/DyvGlt8a5RQ/hqdefault.jpg" alt="RedwoodJS 4" width="360" height="270" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=SGWDgPcUies" title="Intro to Kafka: with Node.js! with Lucia Cerchie, Developer Advocate at Confluent"><img src="https://i4.ytimg.com/vi/SGWDgPcUies/hqdefault.jpg" alt="Intro to Kafka: with Node.js! with Lucia Cerchie, Developer Advocate at Confluent" width="360" height="270" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=1pGx8X1TcBQ" title="A/B testing, accessibility, and DevRel with Chris Demars"><img src="https://i2.ytimg.com/vi/1pGx8X1TcBQ/hqdefault.jpg" alt="A/B testing, accessibility, and DevRel with Chris Demars" width="360" height="270" /></a>&nbsp;&nbsp;</div><!-- VIDEO-LIST:END -->
