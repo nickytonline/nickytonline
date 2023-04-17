@@ -11,6 +11,7 @@ I'm not a big fan of spiders, but I know they're doing good work eating bugs. As
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
+- [Yet Another Newsletter LOL: Groundhog](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-groundhog/)
 - [Working on my blog migration to Astro, what else?](https://www.twitch.tv/videos/1792950621)
 - [Highlight: Building with Ionic with Mike Hartington](https://www.twitch.tv/videos/1792276158)
 - [Building with Ionic with Mike Hartington](https://www.twitch.tv/videos/1791780181)
@@ -18,7 +19,6 @@ I'm not a big fan of spiders, but I know they're doing good work eating bugs. As
 - [Highlight: Getting Started with Storyblok with Cat Ballar](https://www.twitch.tv/videos/1785903372)
 - [Highlight: Astro &amp; Education with Dan Jutan](https://www.twitch.tv/videos/1785895147)
 - [Getting Started with Storyblok with Cat Ballar](https://www.twitch.tv/videos/1785461950)
-- [Have questions about ESLint?](https://www.iamdeveloper.com/blog/have-questions-about-eslint-2ahp/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- VIDEO-LIST:START --><div><a href="https://www.youtube.com/watch?v=3s-soHp-C4M" title="Working on my blog migration to Astro, what else?"><img src="https://i4.ytimg.com/vi/3s-soHp-C4M/hqdefault.jpg" alt="Working on my blog migration to Astro, what else?" width="360" height="270" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=UTP2Zra-4ns" title="Building with Ionic with Mike Hartington"><img src="https://i2.ytimg.com/vi/UTP2Zra-4ns/hqdefault.jpg" alt="Building with Ionic with Mike Hartington" width="360" height="270" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=uilLCAT333A" title="Getting Started with Storyblok with Cat Ballar"><img src="https://i2.ytimg.com/vi/uilLCAT333A/hqdefault.jpg" alt="Getting Started with Storyblok with Cat Ballar" width="360" height="270" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=wOU_EQfsMcM" title="Astro & Education with Dan Jutan"><img src="https://i4.ytimg.com/vi/wOU_EQfsMcM/hqdefault.jpg" alt="Astro & Education with Dan Jutan" width="360" height="270" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=fB3L4ekE6Dg" title="Community & Core Skills with BekahHW"><img src="https://i3.ytimg.com/vi/fB3L4ekE6Dg/hqdefault.jpg" alt="Community & Core Skills with BekahHW" width="360" height="270" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=YgJ_-a5evH0" title="Why’s it so damn hard to break into tech?"><img src="https://i2.ytimg.com/vi/YgJ_-a5evH0/hqdefault.jpg" alt="Why’s it so damn hard to break into tech?" width="360" height="270" /></a>&nbsp;&nbsp;</div><!-- VIDEO-LIST:END -->
