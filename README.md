@@ -11,6 +11,7 @@ I'm not a big fan of spiders, but I know they're doing good work eating bugs. As
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
+- [Yet Another Newsletter LOL: IMHO](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-imho/)
 - [Highlight: HTML Videos on Canvas!](https://www.twitch.tv/videos/1798275157)
 - [HTML Videos on Canvas!](https://www.twitch.tv/videos/1798026157)
 - [Yet Another Newsletter LOL: Groundhog](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-groundhog/)
@@ -18,7 +19,6 @@ I'm not a big fan of spiders, but I know they're doing good work eating bugs. As
 - [Highlight: Building with Ionic with Mike Hartington](https://www.twitch.tv/videos/1792276158)
 - [Building with Ionic with Mike Hartington](https://www.twitch.tv/videos/1791780181)
 - [Yet Another Newsletter: Browsers](https://buttondown.email/nickytonline/archive/yet-another-newsletter/)
-- [Highlight: Getting Started with Storyblok with Cat Ballar](https://www.twitch.tv/videos/1785903372)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- VIDEO-LIST:START --><div><a href="https://www.youtube.com/watch?v=O5QKQBN7dMc" title="HTML Videos on Canvas!"><img src="https://i4.ytimg.com/vi/O5QKQBN7dMc/hqdefault.jpg" alt="HTML Videos on Canvas!" width="360" height="270" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=3s-soHp-C4M" title="Working on my blog migration to Astro, what else?"><img src="https://i4.ytimg.com/vi/3s-soHp-C4M/hqdefault.jpg" alt="Working on my blog migration to Astro, what else?" width="360" height="270" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=UTP2Zra-4ns" title="Building with Ionic with Mike Hartington"><img src="https://i2.ytimg.com/vi/UTP2Zra-4ns/hqdefault.jpg" alt="Building with Ionic with Mike Hartington" width="360" height="270" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=uilLCAT333A" title="Getting Started with Storyblok with Cat Ballar"><img src="https://i2.ytimg.com/vi/uilLCAT333A/hqdefault.jpg" alt="Getting Started with Storyblok with Cat Ballar" width="360" height="270" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=wOU_EQfsMcM" title="Astro & Education with Dan Jutan"><img src="https://i4.ytimg.com/vi/wOU_EQfsMcM/hqdefault.jpg" alt="Astro & Education with Dan Jutan" width="360" height="270" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=fB3L4ekE6Dg" title="Community & Core Skills with BekahHW"><img src="https://i3.ytimg.com/vi/fB3L4ekE6Dg/hqdefault.jpg" alt="Community & Core Skills with BekahHW" width="360" height="270" /></a>&nbsp;&nbsp;</div><!-- VIDEO-LIST:END -->
