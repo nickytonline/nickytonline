@@ -8,6 +8,16 @@ I am a Staff Software Engineer at [Netlify](https://netlify.com/) on the ecosyst
 
 I'm not a big fan of spiders, but I know they're doing good work eating bugs. Aside from programming, I enjoy contributing to open source, hitting the gym, snowboarding, and rugby a long time ago. More about me at [iamdeveloper.com](https://iamdeveloper.com).
 
+
+----
+
+
+media: [Newsletter](https://newsletter.iamdeveloper.com) | [nickyt.live](https://nickyt.live) | [YouTube](https://youtube.iamdeveloper.com) | [Podcast](https://pod.iamdeveloper.com)
+
+socials: [Bluesky](https://staging.bsky.app/profile/nickyt.online) | [Twitter](https://twitter.com/nickytonline) | [LinkedIn](https://www.linkedin.com/in/nickytonline) | [Polywork](https://timeline.iamdeveloper.com)
+
+blogging: [iamdeveloper.com](https://iamdeveloper.com) | [DEV](https://dev.to/nickytonline) | [Hashnode](https://hashnode.iamdeveloper.com)
+
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
@@ -84,18 +94,3 @@ Good times and great guests. Thanks to everyone that was a part of it.
 </div>
 
 Check out [more videos on the DEV YouTube channel](https://www.youtube.com/thepracticaldevteam).
-
-## Places You Can Find Me
-
-- [My Newsletter](https://newsletter.iamdeveloper.com)
-- [Twitter](https://twitter.com/nickytonline)
-- [Polywork](https://timeline.iamdeveloper.com)
-- [LinkedIn](https://www.linkedin.com/in/nickytonline/)
-- [DEV](https://dev.to/nickytonline)
-- [Hashnode](https://hashnode.iamdeveloper.com/)
-- [iamdeveloper.live](https://iamdeveloper.live) (my Twitch stream)
-- [youtube.iamdeveloper.com](https://youtube.iamdeveloper.com)
-- [pod.iamdeveloper.com](https://pod.iamdeveloper.com) (Nick's Cuts, my Podcast)
-- <a rel="me" href="https://toot.cafe/@nickytonline">Mastodon</a>
-
-I'm pretty much @nickytonline everywhere
