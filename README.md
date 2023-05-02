@@ -10,7 +10,7 @@ I'm not a big fan of spiders, but I know they're doing good work eating bugs. As
 ----
 
 
-media: [Newsletter](https://newsletter.iamdeveloper.com) | [nickyt.live](https://nickyt.live) | [YouTube](https://youtube.iamdeveloper.com) | [Podcast](https://pod.iamdeveloper.com)
+media: [Newsletter]([https://newsletter.iamdeveloper.com](https://www.iamdeveloper.com/pages/newsletter/)) | [nickyt.live](https://nickyt.live) | [YouTube]([https://youtube.iamdeveloper.com](https://www.youtube.com/channel/UCBLlEq0co24VFJIMEHNcPOQ)) | [Podcast](https://pod.iamdeveloper.com)
 
 socials: [Bluesky](https://staging.bsky.app/profile/nickyt.online) | [Twitter](https://twitter.com/nickytonline) | [LinkedIn](https://www.linkedin.com/in/nickytonline) | [Polywork](https://timeline.iamdeveloper.com)
 
