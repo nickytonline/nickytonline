@@ -19,6 +19,7 @@ blogging: [iamdeveloper.com](https://iamdeveloper.com) | [DEV](https://dev.to/ni
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
+- [Highlight: Let&#39;s build with Cloudinary! Alpaca takeover edition!](https://www.twitch.tv/videos/1828657533)
 - [Highlight: Let&#39;s build with Cloudinary!](https://www.twitch.tv/videos/1828318706)
 - [Let&#39;s build with Cloudinary!](https://www.twitch.tv/videos/1828215591)
 - [Yet Another Newsletter LOL: Baseline](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-4375/)
@@ -26,7 +27,6 @@ blogging: [iamdeveloper.com](https://iamdeveloper.com) | [DEV](https://dev.to/ni
 - [Optimizing your open source contributions with BekahHW](https://www.twitch.tv/videos/1823173056)
 - [Yet Another Newsletter LOL: Remix Conf and Goodies](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-remix/)
 - [Yet Another Newsletter LOL: You&#39;re Holding it Wrong](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-4048/)
-- [Highlight: Coaching and Why It&#39;s Helpful for Engineers](https://www.twitch.tv/videos/1811365442)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- VIDEO-LIST:START --><div><a href="https://www.youtube.com/watch?v=1WlE670Pm1s" title="Optimizing your open source contributions with BekahHW"><img src="https://i2.ytimg.com/vi/1WlE670Pm1s/hqdefault.jpg" alt="Optimizing your open source contributions with BekahHW" width="360" height="270" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=Jq-TE76gHt8" title="Coaching and Why It's Helpful for Engineers with KBall"><img src="https://i3.ytimg.com/vi/Jq-TE76gHt8/hqdefault.jpg" alt="Coaching and Why It's Helpful for Engineers with KBall" width="360" height="270" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=dBNwq3rPJlQ" title="Deceptive Patterns & the FAST framework with Todd Libby"><img src="https://i1.ytimg.com/vi/dBNwq3rPJlQ/hqdefault.jpg" alt="Deceptive Patterns & the FAST framework with Todd Libby" width="360" height="270" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=-QngQ5qu1Yw" title="Building with Ionic"><img src="https://i2.ytimg.com/vi/-QngQ5qu1Yw/hqdefault.jpg" alt="Building with Ionic" width="360" height="270" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=7W4K_khSRwc" title="Working on migrating blog to Astro, just chatting"><img src="https://i4.ytimg.com/vi/7W4K_khSRwc/hqdefault.jpg" alt="Working on migrating blog to Astro, just chatting" width="360" height="270" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=O5QKQBN7dMc" title="HTML Videos on Canvas!"><img src="https://i4.ytimg.com/vi/O5QKQBN7dMc/hqdefault.jpg" alt="HTML Videos on Canvas!" width="360" height="270" /></a>&nbsp;&nbsp;</div><!-- VIDEO-LIST:END -->
