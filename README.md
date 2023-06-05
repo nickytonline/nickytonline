@@ -19,6 +19,7 @@ blogging: [iamdeveloper.com](https://iamdeveloper.com) | [DEV](https://dev.to/ni
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
+- [Yet Another Newsletter LOL: RenderATL, RenderATL, RenderATL](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-renderatl-renderatl/)
 - [Yet Another Newsletter LOL: Images, AI &amp; Labelling](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-6263/)
 - [Highlight: Open Source Data Labeling and Why it&#39;s Important](https://www.twitch.tv/videos/1829491376)
 - [Highlight: Meet Erin Mikail Staples!](https://www.twitch.tv/videos/1829486253)
@@ -26,7 +27,6 @@ blogging: [iamdeveloper.com](https://iamdeveloper.com) | [DEV](https://dev.to/ni
 - [Highlight: Let&#39;s build with Cloudinary! Alpaca takeover edition!](https://www.twitch.tv/videos/1828657533)
 - [Highlight: Let&#39;s build with Cloudinary!](https://www.twitch.tv/videos/1828318706)
 - [Let&#39;s build with Cloudinary!](https://www.twitch.tv/videos/1828215591)
-- [Yet Another Newsletter LOL: Baseline](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-4375/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- VIDEO-LIST:START --><div><a href="https://www.youtube.com/watch?v=6Bn57GyXNeo" title="Let's build with Cloudinary!"><img src="https://i3.ytimg.com/vi/6Bn57GyXNeo/hqdefault.jpg" alt="Let's build with Cloudinary!" width="360" height="270" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=1WlE670Pm1s" title="Optimizing your open source contributions with BekahHW"><img src="https://i2.ytimg.com/vi/1WlE670Pm1s/hqdefault.jpg" alt="Optimizing your open source contributions with BekahHW" width="360" height="270" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=Jq-TE76gHt8" title="Coaching and Why It's Helpful for Engineers with KBall"><img src="https://i3.ytimg.com/vi/Jq-TE76gHt8/hqdefault.jpg" alt="Coaching and Why It's Helpful for Engineers with KBall" width="360" height="270" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=dBNwq3rPJlQ" title="Deceptive Patterns & the FAST framework with Todd Libby"><img src="https://i1.ytimg.com/vi/dBNwq3rPJlQ/hqdefault.jpg" alt="Deceptive Patterns & the FAST framework with Todd Libby" width="360" height="270" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=-QngQ5qu1Yw" title="Building with Ionic"><img src="https://i2.ytimg.com/vi/-QngQ5qu1Yw/hqdefault.jpg" alt="Building with Ionic" width="360" height="270" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=7W4K_khSRwc" title="Working on migrating blog to Astro, just chatting"><img src="https://i4.ytimg.com/vi/7W4K_khSRwc/hqdefault.jpg" alt="Working on migrating blog to Astro, just chatting" width="360" height="270" /></a>&nbsp;&nbsp;</div><!-- VIDEO-LIST:END -->
