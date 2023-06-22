@@ -17,6 +17,7 @@ blogging: [iamdeveloper.com](https://iamdeveloper.com) | [DEV](https://dev.to/ni
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
+- [Terminology Showdown: What the heck is AI? Is Machine Learning AI? Statistics?](https://www.twitch.tv/videos/1852559157)
 - [Write Code faster with ChatGPT with Matt McInnis](https://www.twitch.tv/videos/1852065165)
 - [Yet Another Newsletter LOL: AI and Pandas](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-2378/)
 - [Highlight: Let&#39;s build something fun with XState, TypeScript and React!](https://www.twitch.tv/videos/1847134133)
@@ -24,7 +25,6 @@ blogging: [iamdeveloper.com](https://iamdeveloper.com) | [DEV](https://dev.to/ni
 - [Highlight: Full-Spectrum File Uploads](https://www.twitch.tv/videos/1846576633)
 - [Fundamentals or Frameworks?](https://www.twitch.tv/videos/1846570543)
 - [You have only so many keystrokes](https://www.twitch.tv/videos/1846350731)
-- [Full-Spectrum File Uploads](https://www.twitch.tv/videos/1846179523)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
