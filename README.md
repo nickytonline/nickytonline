@@ -23,8 +23,8 @@ blogging: [iamdeveloper.com](https://iamdeveloper.com) | [DEV](https://dev.to/ni
 - [Write Code faster with ChatGPT with Matt McInnis](https://www.twitch.tv/videos/1852065165)
 - [Yet Another Newsletter LOL: AI and Pandas](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-2378/)
 - [Highlight: Let&#39;s build something fun with XState, TypeScript and React!](https://www.twitch.tv/videos/1847134133)
-- [Let&#39;s build something fun with XState, TypeScript and React!](https://www.twitch.tv/videos/1847046990)
 - [Highlight: Full-Spectrum File Uploads](https://www.twitch.tv/videos/1846576633)
+- [Fundamentals or Frameworks?](https://www.twitch.tv/videos/1846570543)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
