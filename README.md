@@ -17,14 +17,14 @@ blogging: [iamdeveloper.com](https://iamdeveloper.com) | [DEV](https://dev.to/ni
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
+- [Using the Chrome DevTools Contrast Checker](https://www.twitch.tv/videos/1864256324)
+- [Highlight: Accessbility and an Audit with Graham Ritchie](https://www.twitch.tv/videos/1864248225)
+- [Accessbility and an Audit with Graham Ritchie](https://www.twitch.tv/videos/1864066853)
 - [Yet Another Newsletter LOL: Making and Learning](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-7178/)
 - [Highlight: Making and Learning with Andy Piper](https://www.twitch.tv/videos/1858233517)
 - [Yet Another Newsletter LOL: The Great Migration](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-6568/)
 - [Terminology Showdown: What the heck is AI? Is Machine Learning AI? Statistics?](https://www.twitch.tv/videos/1852559157)
 - [Write Code faster with ChatGPT with Matt McInnis](https://www.twitch.tv/videos/1852065165)
-- [Yet Another Newsletter LOL: AI and Pandas](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-2378/)
-- [Highlight: Let&#39;s build something fun with XState, TypeScript and React!](https://www.twitch.tv/videos/1847134133)
-- [Highlight: Full-Spectrum File Uploads](https://www.twitch.tv/videos/1846576633)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
