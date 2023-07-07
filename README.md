@@ -24,7 +24,7 @@ blogging: [iamdeveloper.com](https://iamdeveloper.com) | [DEV](https://dev.to/ni
 - [Highlight: Making and Learning with Andy Piper](https://www.twitch.tv/videos/1858233517)
 - [Yet Another Newsletter LOL: The Great Migration](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-6568/)
 - [Terminology Showdown: What the heck is AI? Is Machine Learning AI? Statistics?](https://www.twitch.tv/videos/1852559157)
-- [Write Code faster with ChatGPT with Matt McInnis](https://www.twitch.tv/videos/1852065165)
+- [Yet Another Newsletter LOL: AI and Pandas](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-2378/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
