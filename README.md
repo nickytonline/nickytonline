@@ -17,6 +17,7 @@ blogging: [iamdeveloper.com](https://iamdeveloper.com) | [DEV](https://dev.to/ni
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
+- [Yet Another Newsletter LOL: 2 Full 2 Stack](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-2-full-2-stack/)
 - [Yet Another Newsletter LOL: 1000 Dinosaurs](https://www.iamdeveloper.com/blog/yet-another-newsletter-lol-1000-dinosaurs-3ch/)
 - [Yet Another Newsletter LOL: 1000 Dinosaurs](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-5670/)
 - [Using the Chrome DevTools Contrast Checker](https://www.twitch.tv/videos/1864256324)
@@ -24,7 +25,6 @@ blogging: [iamdeveloper.com](https://iamdeveloper.com) | [DEV](https://dev.to/ni
 - [Accessbility and an Audit with Graham Ritchie](https://www.twitch.tv/videos/1864066853)
 - [Yet Another Newsletter LOL: Making and Learning](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-7178/)
 - [Highlight: Making and Learning with Andy Piper](https://www.twitch.tv/videos/1858233517)
-- [Yet Another Newsletter LOL: The Great Migration](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-6568/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
