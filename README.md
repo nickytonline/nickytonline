@@ -23,8 +23,8 @@ blogging: [iamdeveloper.com](https://iamdeveloper.com) | [DEV](https://dev.to/ni
 - [Yet Another Newsletter LOL: 1000 Dinosaurs](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-5670/)
 - [Using the Chrome DevTools Contrast Checker](https://www.twitch.tv/videos/1864256324)
 - [Highlight: Accessbility and an Audit with Graham Ritchie](https://www.twitch.tv/videos/1864248225)
-- [Accessbility and an Audit with Graham Ritchie](https://www.twitch.tv/videos/1864066853)
 - [Yet Another Newsletter LOL: Making and Learning](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-7178/)
+- [Highlight: Making and Learning with Andy Piper](https://www.twitch.tv/videos/1858233517)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
