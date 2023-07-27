@@ -17,14 +17,14 @@ blogging: [iamdeveloper.com](https://iamdeveloper.com) | [DEV](https://dev.to/ni
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
+- [Highlight: Intro to Wasp: Full stack development with React &amp; Node.js](https://www.twitch.tv/videos/1882360168)
+- [Intro to Wasp: Full stack development with React &amp; Node.js](https://www.twitch.tv/videos/1882275865)
 - [Yet Another Newsletter LOL: Kind Words](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-kind-words/)
 - [Highlight: An Intro to React Native and Expo with Ramón Huidobro](https://www.twitch.tv/videos/1879315139)
 - [An Intro to React Native and Expo with Ramón Huidobro](https://www.twitch.tv/videos/1876146471)
 - [Yet Another Newsletter LOL: 2 Full 2 Stack](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-2-full-2-stack/)
 - [Yet Another Newsletter LOL: 1000 Dinosaurs](https://www.iamdeveloper.com/blog/yet-another-newsletter-lol-1000-dinosaurs-3ch/)
 - [Yet Another Newsletter LOL: 1000 Dinosaurs](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-5670/)
-- [Using the Chrome DevTools Contrast Checker](https://www.twitch.tv/videos/1864256324)
-- [Highlight: Accessbility and an Audit with Graham Ritchie](https://www.twitch.tv/videos/1864248225)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
