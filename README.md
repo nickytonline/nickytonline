@@ -17,14 +17,14 @@ blogging: [iamdeveloper.com](https://iamdeveloper.com) | [DEV](https://dev.to/ni
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
-- [nickyt.live](https://www.twitch.tv/videos/1894330057)
+- [Kettlebells &amp; Code with Anna Nettles](https://www.twitch.tv/videos/1894330057)
+- [Kettlebells &amp; Code: Dev Health](https://www.iamdeveloper.com/blog/kettlebells-code-dev-health-3eim/)
 - [Yet Another Newsletter LOL: Sharp!](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-sharp/)
 - [Breaking down a Chrome browser extension manifest file](https://www.twitch.tv/videos/1890244585)
 - [100 Days of OSS](https://www.twitch.tv/videos/1890187705)
 - [Highlight: Exploring Nuxt with Daniel Roe, Nuxt core team member](https://www.twitch.tv/videos/1888798118)
 - [Exploring Nuxt with Daniel Roe, Nuxt core team member](https://www.twitch.tv/videos/1888284785)
 - [Yet Another Newsletter LOL: Knip it in the bud](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-3666/)
-- [Highlight: Intro to Wasp: Full stack development with React &amp; Node.js](https://www.twitch.tv/videos/1882360168)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
