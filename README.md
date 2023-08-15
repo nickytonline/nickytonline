@@ -2,15 +2,15 @@
 
 # <em>Hi!</em> I'm Nick. 👋🏻
 
-I'm from Montreal, Quebec, Canada. I'm a Staff Software Engineer at [Netlify](https://netlify.com/) on the app platform team, focusing on front-end technologies and tooling. I also have a growing interest in serverless and edge computing. I also [stream on Twitch](https://iamdeveloper.live/).
+I'm from Montreal, Quebec, Canada. I'm a Staff Software Engineer at [Netlify](https://netlify.com/) on the app platform team, focusing on front-end technologies and tooling. I also have a growing interest in serverless and edge computing. I also [stream on Twitch](https://nickyt.live).
 
-I'm not a big fan of spiders, but I know they're doing good work eating bugs. Aside from programming, I enjoy contributing to open source, hitting the gym, snowboarding, and rugby a long time ago. More about me at [iamdeveloper.com](https://iamdeveloper.com).
+I'm not a big fan of spiders, but I know they're doing good work eating bugs. Aside from programming, I enjoy contributing to open source, hitting the gym, snowboarding, and rugby a long time ago. More about me at [nickyt.co](https://www.nickyt.co).
 
 ---
 
 media: [Newsletter](https://www.iamdeveloper.com/pages/newsletter/) | [nickyt.live](https://nickyt.live) | [YouTube](https://www.youtube.com/channel/UCBLlEq0co24VFJIMEHNcPOQ) | [Podcast](https://pod.iamdeveloper.com)
 
-socials: [Bluesky](https://staging.bsky.app/profile/nickyt.online) | [Twitter](https://twitter.com/nickytonline) | [LinkedIn](https://www.linkedin.com/in/nickytonline) | [Polywork](https://timeline.iamdeveloper.com)
+socials: [Bluesky](https://staging.bsky.app/profile/nickyt.online) | [Twitter](https://twitter.com/nickytonline) | [LinkedIn](https://www.linkedin.com/in/nickytonline) | [Polywork](https://polywork.com/nickytonline)
 
 blogging: [iamdeveloper.com](https://iamdeveloper.com) | [DEV](https://dev.to/nickytonline) | [Hashnode](https://hashnode.iamdeveloper.com)
 
