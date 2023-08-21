@@ -13,5 +13,5 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          max_post_count: "8"
-          feed_list: "https://www.iamdeveloper.com/feed,https://buttondown.email/nickytonline/rss,https://twitchrss.appspot.com/vod/nickytonline" 
+          max_post_count: '8'
+          feed_list: 'https://www.nickyt.co/feed,https://buttondown.email/nickytonline/rss,https://twitchrss.appspot.com/vod/nickytonline'
