@@ -17,6 +17,7 @@ blogging: [iamdeveloper.com](https://iamdeveloper.com) | [DEV](https://dev.to/ni
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
+- [Yet Another Newsletter LOL: That&#39;s so fetch](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-thats-so-fetch-2022/)
 - [Highlight: Pizza Bake Off with Brian Douglas &amp; John McBride from OpenSauced](https://www.twitch.tv/videos/1906632695)
 - [Pizza Bake Off with Brian Douglas &amp; John McBride from OpenSauced](https://www.twitch.tv/videos/1906523237)
 - [Yet Another Newsletter LOL: So Fresh!](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-so-fresh-3696/)
@@ -24,7 +25,6 @@ blogging: [iamdeveloper.com](https://iamdeveloper.com) | [DEV](https://dev.to/ni
 - [Yet Another Newsletter LOL: Liftoff!](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-liftoff/)
 - [Highlight: Kettlebells &amp; Code: Anna Nettles journey into Tech](https://www.twitch.tv/videos/1894786803)
 - [Highlight: A little gym sesh with Anna Nettles](https://www.twitch.tv/videos/1894780260)
-- [Kettlebells &amp; Code: Dev Health](https://www.nickyt.co/blog/kettlebells-code-dev-health-3eim/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
