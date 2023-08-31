@@ -17,6 +17,7 @@ blogging: [iamdeveloper.com](https://iamdeveloper.com) | [DEV](https://dev.to/ni
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
+- [Virtual DOM: Back in Block with Aiden Bai, Creator of Million.js](https://www.twitch.tv/videos/1912652824)
 - [Yet Another Newsletter LOL: That&#39;s so fetch](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-thats-so-fetch-2022/)
 - [Highlight: Pizza Bake Off with Brian Douglas &amp; John McBride from OpenSauced](https://www.twitch.tv/videos/1906632695)
 - [Pizza Bake Off with Brian Douglas &amp; John McBride from OpenSauced](https://www.twitch.tv/videos/1906523237)
@@ -24,7 +25,6 @@ blogging: [iamdeveloper.com](https://iamdeveloper.com) | [DEV](https://dev.to/ni
 - [How to debug a Firefox add-on &lpar;extension&rpar;](https://www.nickyt.co/blog/how-to-debug-a-firefox-add-on-extension-489f/)
 - [Yet Another Newsletter LOL: Liftoff!](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-liftoff/)
 - [Highlight: Kettlebells &amp; Code: Anna Nettles journey into Tech](https://www.twitch.tv/videos/1894786803)
-- [Highlight: A little gym sesh with Anna Nettles](https://www.twitch.tv/videos/1894780260)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
