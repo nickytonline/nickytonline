@@ -12,7 +12,7 @@ media: [Newsletter](https://www.iamdeveloper.com/pages/newsletter/) | [nickyt.li
 
 socials: [Bluesky](https://staging.bsky.app/profile/nickyt.online) | [Twitter](https://twitter.com/nickytonline) | [Threads](https://www.threads.net/@nickytonline) | [LinkedIn](https://www.linkedin.com/in/nickytonline) | [Polywork](https://polywork.com/nickytonline)
 
-blogging: [iamdeveloper.com](https://iamdeveloper.com) | [DEV](https://dev.to/nickytonline) | [Hashnode](https://hashnode.iamdeveloper.com)
+blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline) | [Hashnode](https://hashnode.iamdeveloper.com)
 
 ## Latest Content
 
