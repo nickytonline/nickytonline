@@ -17,11 +17,11 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
+- [nickyt.live](https://www.twitch.tv/videos/1919390084)
 - [Yet Another Newsletter LOL: Astronomical week](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-astronomical-week/)
 - [Virtual DOM: Back in Block with Aiden Bai, Creator of Million.js](https://www.twitch.tv/videos/1912652824)
 - [Yet Another Newsletter LOL: That&#39;s so fetch](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-thats-so-fetch-2022/)
 - [Highlight: Pizza Bake Off with Brian Douglas &amp; John McBride from OpenSauced](https://www.twitch.tv/videos/1906632695)
-- [Pizza Bake Off with Brian Douglas &amp; John McBride from OpenSauced](https://www.twitch.tv/videos/1906523237)
 - [Yet Another Newsletter LOL: So Fresh!](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-so-fresh-3696/)
 - [How to debug a Firefox add-on &lpar;extension&rpar;](https://www.nickyt.co/blog/how-to-debug-a-firefox-add-on-extension-489f/)
 - [Yet Another Newsletter LOL: Liftoff!](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-liftoff/)
