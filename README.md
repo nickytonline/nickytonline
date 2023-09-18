@@ -2,9 +2,7 @@
 
 # <em>Hi!</em> I'm Nick. 👋🏻
 
-I'm from Montreal, Quebec, Canada. I'm a Staff Software Engineer at [Netlify](https://netlify.com/) on the app platform team, focusing on front-end technologies and tooling. I also have a growing interest in serverless and edge computing. I also [stream on Twitch](https://nickyt.live).
-
-I'm not a big fan of spiders, but I know they're doing good work eating bugs. Aside from programming, I enjoy contributing to open source, hitting the gym, snowboarding, and rugby a long time ago. More about me at [nickyt.co](https://www.nickyt.co).
+I'm not a big fan of spiders, but I know they're doing good work eating bugs. Aside from programming, I enjoy contributing to open source, hitting the gym, snowboarding, and rugby a long time ago. More about me at [nickyt.co](https://www.nickyt.co). I also [stream on Twitch](https://nickyt.live).
 
 ---
 
