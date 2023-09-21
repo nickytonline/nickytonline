@@ -15,6 +15,7 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
+- [nickyt.live](https://www.twitch.tv/videos/1930567782)
 - [Yet Another Newsletter LOL: New Beginnings](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-new-beginnings-8323/)
 - [What is Million? with Aiden Bai, Creator of Million.js](https://www.twitch.tv/videos/1925207212)
 - [What is the Virtual DOM? with Aiden Bai, Creator of Million.js](https://www.twitch.tv/videos/1924574923)
@@ -22,7 +23,6 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 - [Yet Another Newsletter LOL: Fortune Cheese](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-fortune-cheese/)
 - [Yet Another Newsletter LOL: Astronomical week](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-astronomical-week/)
 - [Yet Another Newsletter LOL: That&#39;s so fetch](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-thats-so-fetch-2022/)
-- [Highlight: Pizza Bake Off with Brian Douglas &amp; John McBride from OpenSauced](https://www.twitch.tv/videos/1906632695)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
