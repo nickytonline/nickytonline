@@ -8,6 +8,8 @@ I'm not a big fan of spiders, but I know they're doing good work eating bugs. As
 
 media: [Newsletter](https://www.iamdeveloper.com/pages/newsletter/) | [nickyt.live](https://nickyt.live) | [YouTube](https://www.youtube.com/channel/UCBLlEq0co24VFJIMEHNcPOQ) | [Podcast](https://pod.iamdeveloper.com)
 
+[my profile on OpenSauced 🍕](https://insights.opensauced.pizza/user/nickytonline?tab=highlights)
+
 socials: [X/Twitter](https://twitter.com/nickytonline) | [Threads](https://www.threads.net/@nickytonline) | [LinkedIn](https://www.linkedin.com/in/nickytonline) | [Mastodon](https://toot.cafe/@nickytonline) | [Bluesky](https://staging.bsky.app/profile/nickyt.online) | [Polywork](https://polywork.com/nickytonline)
 
 blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline) | [Hashnode](https://hashnode.iamdeveloper.com)
