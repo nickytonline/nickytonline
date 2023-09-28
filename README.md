@@ -17,14 +17,14 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Appwrite Functions withAditya Oberai](https://www.twitch.tv/videos/1936586297)
+- [Highlight: Building Appwrite Functions with Aditya Oberai](https://www.twitch.tv/videos/1937057309)
+- [Building Appwrite Functions with Aditya Oberai](https://www.twitch.tv/videos/1936586297)
 - [Yet Another Newsletter LOL: Getting Saucy](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-spicy-bun/)
 - [Highlight: Clerk, Authentication, Web Dev, All the Things! with Dev Agrawal](https://www.twitch.tv/videos/1933567799)
 - [Getting Saucy: I Joined OpenSauced!](https://www.nickyt.co/blog/getting-saucy-i-joined-opensauced-2ici/)
 - [Clerk, Authentication, Web Dev, All the Things! with Dev Agrawal](https://www.twitch.tv/videos/1930567782)
 - [Yet Another Newsletter LOL: New Beginnings](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-new-beginnings-8323/)
 - [What is Million? with Aiden Bai, Creator of Million.js](https://www.twitch.tv/videos/1925207212)
-- [What is the Virtual DOM? with Aiden Bai, Creator of Million.js](https://www.twitch.tv/videos/1924574923)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
