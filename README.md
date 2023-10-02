@@ -17,6 +17,7 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
+- [Yet Another Newsletter LOL: Hello Hacktoberfest!](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-hello-hacktoberfest/)
 - [Highlight: Building Appwrite Functions with Aditya Oberai](https://www.twitch.tv/videos/1937057309)
 - [Building Appwrite Functions with Aditya Oberai](https://www.twitch.tv/videos/1936586297)
 - [Yet Another Newsletter LOL: Getting Saucy](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-spicy-bun/)
@@ -24,7 +25,6 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 - [Getting Saucy: I Joined OpenSauced!](https://www.nickyt.co/blog/getting-saucy-i-joined-opensauced-2ici/)
 - [Clerk, Authentication, Web Dev, All the Things! with Dev Agrawal](https://www.twitch.tv/videos/1930567782)
 - [Yet Another Newsletter LOL: New Beginnings](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-new-beginnings-8323/)
-- [What is Million? with Aiden Bai, Creator of Million.js](https://www.twitch.tv/videos/1925207212)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
