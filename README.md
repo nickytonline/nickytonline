@@ -24,7 +24,7 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 - [Yet Another Newsletter LOL: Getting Saucy](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-spicy-bun/)
 - [Highlight: Clerk, Authentication, Web Dev, All the Things! with Dev Agrawal](https://www.twitch.tv/videos/1933567799)
 - [Getting Saucy: I Joined OpenSauced!](https://www.nickyt.co/blog/getting-saucy-i-joined-opensauced-2ici/)
-- [Clerk, Authentication, Web Dev, All the Things! with Dev Agrawal](https://www.twitch.tv/videos/1930567782)
+- [Yet Another Newsletter LOL: New Beginnings](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-new-beginnings-8323/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
