@@ -23,8 +23,8 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 - [DeviceScript - TypeScript for Microelectronics with Peli de Halleux](https://www.twitch.tv/videos/1942522695)
 - [Yet Another Newsletter LOL: Hello Hacktoberfest!](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-hello-hacktoberfest/)
 - [Highlight: Building Appwrite Functions with Aditya Oberai](https://www.twitch.tv/videos/1937057309)
-- [Building Appwrite Functions with Aditya Oberai](https://www.twitch.tv/videos/1936586297)
 - [Yet Another Newsletter LOL: Getting Saucy](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-spicy-bun/)
+- [Highlight: Clerk, Authentication, Web Dev, All the Things! with Dev Agrawal](https://www.twitch.tv/videos/1933567799)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
