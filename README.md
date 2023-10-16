@@ -17,14 +17,14 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
+- [Yet Another Newsletter LOL: 22 Year Old Bug](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-22-year-old-bug/)
+- [Highlight: What is OpenSauced? with BekahHW](https://www.twitch.tv/videos/1951387311)
 - [Hacktoberfest Check-In with some of the OpenSauced crew!](https://www.twitch.tv/videos/1948325827)
 - [Yet Another Newsletter LOL: Pizza Byte](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-pizza-byte/)
 - [Highlight: DeviceScript - Discussing Simulators](https://www.twitch.tv/videos/1945491420)
 - [DeviceScript - TypeScript for Microelectronics with Peli de Halleux](https://www.twitch.tv/videos/1942522695)
 - [Yet Another Newsletter LOL: Hello Hacktoberfest!](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-hello-hacktoberfest/)
 - [Highlight: Building Appwrite Functions with Aditya Oberai](https://www.twitch.tv/videos/1937057309)
-- [Yet Another Newsletter LOL: Getting Saucy](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-spicy-bun/)
-- [Highlight: Clerk, Authentication, Web Dev, All the Things! with Dev Agrawal](https://www.twitch.tv/videos/1933567799)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
