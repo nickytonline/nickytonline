@@ -17,14 +17,14 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
+- [Hacktoberfest Check-In with some of the OpenSauced Crew](https://www.twitch.tv/videos/1960026264)
+- [Highlight: Biz &amp; Bytes with Scott Steinlage](https://www.twitch.tv/videos/1959671926)
 - [Biz &amp; Bytes with Scott Steinlage](https://www.twitch.tv/videos/1958445853)
 - [Yet Another Newsletter LOL: So Nullish](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-so-nullish/)
 - [Highlight: RedwoodJS, Dev &amp; Design with Amy Dutton](https://www.twitch.tv/videos/1954598719)
 - [RedwoodJS, Dev &amp; Design with Amy Dutton](https://www.twitch.tv/videos/1954187551)
 - [Hacktoberfest Check-In with some of the OpenSauced crew](https://www.twitch.tv/videos/1954146803)
 - [Yet Another Newsletter LOL: 22 Year Old Bug](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-22-year-old-bug/)
-- [Highlight: What is OpenSauced? with BekahHW](https://www.twitch.tv/videos/1951387311)
-- [Hacktoberfest Check-In with some of the OpenSauced crew!](https://www.twitch.tv/videos/1948325827)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
