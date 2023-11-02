@@ -17,14 +17,14 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
-- [nickyt.live](https://www.twitch.tv/videos/1964230127)
+- [GitHub Actions: A Maintainer&#39;s Best Friend](https://www.nickyt.co/blog/github-actions-a-maintainers-best-friend-488n/)
+- [Hunting Accessibility Bugs with Todd Libby](https://www.twitch.tv/videos/1964230127)
 - [Yet Another Newsletter LOL: No New APIs](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-no-new-apis/)
 - [Hacktoberfest Check-In with some of the OpenSauced Crew](https://www.twitch.tv/videos/1960026264)
 - [Highlight: Biz &amp; Bytes with Scott Steinlage](https://www.twitch.tv/videos/1959671926)
 - [Biz &amp; Bytes with Scott Steinlage](https://www.twitch.tv/videos/1958445853)
 - [Yet Another Newsletter LOL: So Nullish](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-so-nullish/)
 - [Highlight: RedwoodJS, Dev &amp; Design with Amy Dutton](https://www.twitch.tv/videos/1954598719)
-- [RedwoodJS, Dev &amp; Design with Amy Dutton](https://www.twitch.tv/videos/1954187551)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
