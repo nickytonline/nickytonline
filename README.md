@@ -17,6 +17,7 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
+- [Highlight: An AI Thanksgiving withLizzie Siegle, Developer Evangelist @ Twilio](https://www.twitch.tv/videos/1976992892)
 - [An AI Thanksgiving withLizzie Siegle, Developer Evangelist @ Twilio](https://www.twitch.tv/videos/1976523747)
 - [Yet Another Newsletter LOL: Dependabot and Art](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-dependabot-and-art/)
 - [Flying solo building out nickyt.live](https://www.twitch.tv/videos/1970372161)
@@ -24,7 +25,6 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 - [Yet Another Newsletter LOL: The Narrows](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-the-narrows/)
 - [Highlight: Hunting Accessibility Bugs with Todd Libby](https://www.twitch.tv/videos/1966583277)
 - [GitHub Actions: A Maintainer&#39;s Best Friend](https://www.nickyt.co/blog/github-actions-a-maintainers-best-friend-488n/)
-- [Hunting Accessibility Bugs with Todd Libby](https://www.twitch.tv/videos/1964230127)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
