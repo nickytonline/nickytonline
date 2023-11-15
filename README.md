@@ -17,6 +17,7 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
+- [Boost productivity with the GitHub CLI](https://www.nickyt.co/blog/boost-productivity-with-the-github-cli-2mne/)
 - [Highlight: An AI Thanksgiving with Lizzie Siegle, Developer Evangelist @ Twilio](https://www.twitch.tv/videos/1976992892)
 - [An AI Thanksgiving with Lizzie Siegle, Developer Evangelist @ Twilio](https://www.twitch.tv/videos/1976523747)
 - [Yet Another Newsletter LOL: Dependabot and Art](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-dependabot-and-art/)
@@ -24,7 +25,6 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 - [TypeScript and React: Enforcing Props for Accessibility](https://www.nickyt.co/blog/typescript-and-react-enforcing-props-for-accessibility-2h49/)
 - [Yet Another Newsletter LOL: The Narrows](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-the-narrows/)
 - [Highlight: Hunting Accessibility Bugs with Todd Libby](https://www.twitch.tv/videos/1966583277)
-- [GitHub Actions: A Maintainer&#39;s Best Friend](https://www.nickyt.co/blog/github-actions-a-maintainers-best-friend-488n/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
