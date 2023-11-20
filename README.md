@@ -17,6 +17,7 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
+- [Yet Another Newsletter LOL: Fast Like a Fox](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-fast-like-a-fox/)
 - [HTMLElement&#39;s dataset property](https://www.twitch.tv/videos/1980518076)
 - [Working on OpenSauced: Fixing a bug I caused in a PR](https://www.twitch.tv/videos/1980512711)
 - [Working on OpenSauced](https://www.twitch.tv/videos/1979802335)
@@ -24,7 +25,6 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 - [Why Use Storybook?](https://www.twitch.tv/videos/1978963494)
 - [Working on OpenSauced Issue #1602](https://www.twitch.tv/videos/1978112295)
 - [Boost productivity with the GitHub CLI](https://www.nickyt.co/blog/boost-productivity-with-the-github-cli-2mne/)
-- [Highlight: An AI Thanksgiving with Lizzie Siegle, Developer Evangelist @ Twilio](https://www.twitch.tv/videos/1976992892)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
