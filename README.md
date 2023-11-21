@@ -17,14 +17,14 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
+- [Why I use Angular with Santosh Yadav](https://www.twitch.tv/videos/1982698669)
+- [nickyt.live](https://www.twitch.tv/videos/1982547732)
 - [Yet Another Newsletter LOL: Fast Like a Fox](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-fast-like-a-fox/)
 - [HTMLElement&#39;s dataset property](https://www.twitch.tv/videos/1980518076)
 - [Working on OpenSauced: Fixing a bug I caused in a PR](https://www.twitch.tv/videos/1980512711)
 - [Working on OpenSauced](https://www.twitch.tv/videos/1979802335)
 - [Working on OpenSauced](https://www.twitch.tv/videos/1978967849)
 - [Why Use Storybook?](https://www.twitch.tv/videos/1978963494)
-- [Working on OpenSauced Issue #1602](https://www.twitch.tv/videos/1978112295)
-- [Boost productivity with the GitHub CLI](https://www.nickyt.co/blog/boost-productivity-with-the-github-cli-2mne/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
