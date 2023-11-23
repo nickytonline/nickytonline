@@ -17,7 +17,7 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
-- [Infer Types to Avoid Explicit Types](https://www.nickyt.co/blog/infer-types-to-avoid-explicit-types-1pnn/)
+- [TypeScript: Infer Types to Avoid Explicit Types](https://www.nickyt.co/blog/infer-types-to-avoid-explicit-types-1pnn/)
 - [Highlight: Why I use Angular with Santosh Yadav](https://www.twitch.tv/videos/1983146003)
 - [Why I use Angular with Santosh Yadav](https://www.twitch.tv/videos/1982698669)
 - [nickyt.live](https://www.twitch.tv/videos/1982547732)
