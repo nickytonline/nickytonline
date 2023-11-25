@@ -17,14 +17,14 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
+- [Tailwind, Fundmentals, Just Build](https://www.twitch.tv/videos/1986045195)
+- [Working on OpenSauced](https://www.twitch.tv/videos/1985940584)
 - [Infer TypeScript Types Whenever You Can](https://www.twitch.tv/videos/1984891921)
 - [TypeScript: Infer Types to Avoid Explicit Types](https://www.nickyt.co/blog/infer-types-to-avoid-explicit-types-1pnn/)
 - [Highlight: Why I use Angular with Santosh Yadav](https://www.twitch.tv/videos/1983146003)
 - [Why I use Angular with Santosh Yadav](https://www.twitch.tv/videos/1982698669)
 - [nickyt.live](https://www.twitch.tv/videos/1982547732)
 - [Yet Another Newsletter LOL: Fast Like a Fox](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-fast-like-a-fox/)
-- [HTMLElement&#39;s dataset property](https://www.twitch.tv/videos/1980518076)
-- [Working on OpenSauced: Fixing a bug I caused in a PR](https://www.twitch.tv/videos/1980512711)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
