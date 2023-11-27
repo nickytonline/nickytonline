@@ -17,6 +17,7 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
+- [Yet Another Newsletter LOL: Getting Griddy](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-getting-griddy/)
 - [Tailwind, Fundmentals, Just Build](https://www.twitch.tv/videos/1986045195)
 - [Working on OpenSauced](https://www.twitch.tv/videos/1985940584)
 - [Infer TypeScript Types Whenever You Can](https://www.twitch.tv/videos/1984891921)
@@ -24,7 +25,6 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 - [Highlight: Why I use Angular with Santosh Yadav](https://www.twitch.tv/videos/1983146003)
 - [Why I use Angular with Santosh Yadav](https://www.twitch.tv/videos/1982698669)
 - [nickyt.live](https://www.twitch.tv/videos/1982547732)
-- [Yet Another Newsletter LOL: Fast Like a Fox](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-fast-like-a-fox/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
