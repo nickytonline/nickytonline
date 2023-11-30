@@ -17,14 +17,14 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
+- [nickyt.live](https://www.twitch.tv/videos/1990449271)
+- [Working on OpenSauced](https://www.twitch.tv/videos/1990340834)
 - [Highlight: End to End Testing a Browser Extension with Abdurrahman Rajab](https://www.twitch.tv/videos/1989283223)
 - [End to End Testing a Browser Extension with Abdurrahman Rajab](https://www.twitch.tv/videos/1988786617)
 - [Working on OpenSauced](https://www.twitch.tv/videos/1988639049)
 - [Yet Another Newsletter LOL: Getting Griddy](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-getting-griddy/)
 - [Tailwind, Fundmentals, Just Build](https://www.twitch.tv/videos/1986045195)
 - [Working on OpenSauced](https://www.twitch.tv/videos/1985940584)
-- [Infer TypeScript Types Whenever You Can](https://www.twitch.tv/videos/1984891921)
-- [TypeScript: Infer Types to Avoid Explicit Types](https://www.nickyt.co/blog/infer-types-to-avoid-explicit-types-1pnn/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
