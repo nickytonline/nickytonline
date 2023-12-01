@@ -17,6 +17,7 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
+- [HTML Data Attributes: One of the Original State Management Libraries](https://www.nickyt.co/blog/html-data-attributes-one-of-the-original-state-management-libraries-8bf/)
 - [nickyt.live](https://www.twitch.tv/videos/1990449271)
 - [Working on OpenSauced](https://www.twitch.tv/videos/1990340834)
 - [Highlight: End to End Testing a Browser Extension with Abdurrahman Rajab](https://www.twitch.tv/videos/1989283223)
@@ -24,7 +25,6 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 - [Working on OpenSauced](https://www.twitch.tv/videos/1988639049)
 - [Yet Another Newsletter LOL: Getting Griddy](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-getting-griddy/)
 - [Tailwind, Fundmentals, Just Build](https://www.twitch.tv/videos/1986045195)
-- [Working on OpenSauced](https://www.twitch.tv/videos/1985940584)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
