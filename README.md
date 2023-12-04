@@ -17,6 +17,7 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
+- [Yet Another Newsletter LOL: Const is the GOAT](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-const-is-the-goat/)
 - [nickyt.live](https://www.twitch.tv/videos/1992090367)
 - [HTML Data Attributes: One of the Original State Management Libraries](https://www.nickyt.co/blog/html-data-attributes-one-of-the-original-state-management-libraries-8bf/)
 - [nickyt.live](https://www.twitch.tv/videos/1990449271)
@@ -24,7 +25,6 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 - [Highlight: End to End Testing a Browser Extension with Abdurrahman Rajab](https://www.twitch.tv/videos/1989283223)
 - [End to End Testing a Browser Extension with Abdurrahman Rajab](https://www.twitch.tv/videos/1988786617)
 - [Working on OpenSauced](https://www.twitch.tv/videos/1988639049)
-- [Yet Another Newsletter LOL: Getting Griddy](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-getting-griddy/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
