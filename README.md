@@ -17,6 +17,7 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
+- [Working on OpenSauced](https://www.twitch.tv/videos/1997580455)
 - [Highlight: Style Dictionary vs Cobalt for Design Tokens with Kaelig &amp; Drew](https://www.twitch.tv/videos/1995441049)
 - [Style Dictionary vs Cobalt for Design Tokens with Kaelig &amp; Drew](https://www.twitch.tv/videos/1995153002)
 - [nickyt.live](https://www.twitch.tv/videos/1995011601)
@@ -24,7 +25,6 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 - [nickyt.live](https://www.twitch.tv/videos/1992090367)
 - [HTML Data Attributes: One of the Original State Management Libraries](https://www.nickyt.co/blog/html-data-attributes-one-of-the-original-state-management-libraries-8bf/)
 - [nickyt.live](https://www.twitch.tv/videos/1990449271)
-- [Working on OpenSauced](https://www.twitch.tv/videos/1990340834)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
