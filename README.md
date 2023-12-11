@@ -17,6 +17,7 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
+- [Yet Another Newsletter LOL: Broccoli](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-broccoli/)
 - [Discussion de Open Source avec Thomas Bonnet, Dévelopeur Web](https://www.twitch.tv/videos/1998500010)
 - [Working on OpenSauced](https://www.twitch.tv/videos/1997580455)
 - [Highlight: Style Dictionary vs Cobalt for Design Tokens with Kaelig &amp; Drew](https://www.twitch.tv/videos/1995441049)
@@ -24,7 +25,6 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 - [nickyt.live](https://www.twitch.tv/videos/1995011601)
 - [Yet Another Newsletter LOL: Const is the GOAT](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-const-is-the-goat/)
 - [nickyt.live](https://www.twitch.tv/videos/1992090367)
-- [HTML Data Attributes: One of the Original State Management Libraries](https://www.nickyt.co/blog/html-data-attributes-one-of-the-original-state-management-libraries-8bf/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
