@@ -17,14 +17,14 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
+- [Highlight: Low Code &amp; AI Equals Opportunity with Ray Deck](https://www.twitch.tv/videos/2001502846)
+- [Low Code &amp; AI Equals Opportunity with Ray Deck](https://www.twitch.tv/videos/2001422987)
+- [nickyt.live](https://www.twitch.tv/videos/2001344958)
 - [Yet Another Newsletter LOL: Broccoli](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-broccoli/)
 - [Discussion de Open Source avec Thomas Bonnet, Dévelopeur Web](https://www.twitch.tv/videos/1998500010)
 - [Working on OpenSauced](https://www.twitch.tv/videos/1997580455)
 - [Highlight: Style Dictionary vs Cobalt for Design Tokens with Kaelig &amp; Drew](https://www.twitch.tv/videos/1995441049)
 - [Style Dictionary vs Cobalt for Design Tokens with Kaelig &amp; Drew](https://www.twitch.tv/videos/1995153002)
-- [nickyt.live](https://www.twitch.tv/videos/1995011601)
-- [Yet Another Newsletter LOL: Const is the GOAT](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-const-is-the-goat/)
-- [nickyt.live](https://www.twitch.tv/videos/1992090367)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
