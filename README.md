@@ -17,6 +17,7 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
+- [Yet Another Newsletter LOL: Supabranch](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-supabranch/)
 - [Migrating from Jest to Vitest for your React Application](https://www.nickyt.co/blog/migrating-from-jest-to-vitest-for-your-react-application-1b75/)
 - [Highlight: Low Code &amp; AI Equals Opportunity with Ray Deck](https://www.twitch.tv/videos/2001502846)
 - [Low Code &amp; AI Equals Opportunity with Ray Deck](https://www.twitch.tv/videos/2001422987)
@@ -24,7 +25,6 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 - [Yet Another Newsletter LOL: Broccoli](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-broccoli/)
 - [Discussion de Open Source avec Thomas Bonnet, Dévelopeur Web](https://www.twitch.tv/videos/1998500010)
 - [Working on OpenSauced](https://www.twitch.tv/videos/1997580455)
-- [Highlight: Style Dictionary vs Cobalt for Design Tokens with Kaelig &amp; Drew](https://www.twitch.tv/videos/1995441049)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
