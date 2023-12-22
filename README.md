@@ -17,14 +17,14 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
+- [Highlight: Not A Designer with Saron Yitbarek](https://www.twitch.tv/videos/2010032934)
+- [Highlight: How Saron Yitbarek got into Tech](https://www.twitch.tv/videos/2010031879)
 - [nickyt.live](https://www.twitch.tv/videos/2009270701)
 - [CodeNewbie, notadesigner.io, fundraising, all the things! with Saron Yitbarek](https://www.twitch.tv/videos/2007579197)
 - [Yet Another Newsletter LOL: Supabranch](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-supabranch/)
 - [Migrating from Jest to Vitest for your React Application](https://www.nickyt.co/blog/migrating-from-jest-to-vitest-for-your-react-application-1b75/)
 - [Highlight: Low Code &amp; AI Equals Opportunity with Ray Deck](https://www.twitch.tv/videos/2001502846)
 - [Low Code &amp; AI Equals Opportunity with Ray Deck](https://www.twitch.tv/videos/2001422987)
-- [nickyt.live](https://www.twitch.tv/videos/2001344958)
-- [Yet Another Newsletter LOL: Broccoli](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-broccoli/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
