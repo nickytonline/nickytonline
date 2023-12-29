@@ -5,6 +5,8 @@
 I'm not a big fan of spiders, but I know they're doing good work eating bugs. Aside from programming, I enjoy contributing to open source, hitting the gym, snowboarding, and rugby a long time ago. More about me at [nickyt.co](https://www.nickyt.co). I also [stream on Twitch](https://nickyt.live).
 
 ---
+[![Contact me on Codementor](https://www.codementor.io/m-badges/nickytonline/im-a-cm-b.svg)](https://www.codementor.io/@nickytonline?refer=badge)
+---
 
 media: [Newsletter](https://www.iamdeveloper.com/pages/newsletter/) | [nickyt.live](https://nickyt.live) | [YouTube](https://www.youtube.com/channel/UCBLlEq0co24VFJIMEHNcPOQ) | [Podcast](https://pod.iamdeveloper.com)
 
