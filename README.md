@@ -12,7 +12,7 @@ media: [Newsletter](https://www.iamdeveloper.com/pages/newsletter/) | [nickyt.li
 
 [my profile on OpenSauced 🍕](https://insights.opensauced.pizza/user/nickytonline?tab=highlights)
 
-socials: [X/Twitter](https://twitter.com/nickytonline) | [Threads](https://www.threads.net/@nickytonline) | [LinkedIn](https://www.linkedin.com/in/nickytonline) | [Mastodon](https://toot.cafe/@nickytonline) | [Bluesky](https://staging.bsky.app/profile/nickyt.online) | [Polywork](https://polywork.com/nickytonline)
+socials: [X/Twitter](https://twitter.com/nickytonline) | [Threads](https://www.threads.net/@nickytonline) | [LinkedIn](https://www.linkedin.com/in/nickytonline) | [Mastodon](https://toot.cafe/@nickytonline) | [Polywork](https://polywork.com/nickytonline)
 
 blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline) | [Hashnode](https://hashnode.iamdeveloper.com)
 
