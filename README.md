@@ -22,11 +22,11 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 - [Yet Another Newsletter LOL: Time to Recharge](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-time-to-recharge/)
 - [Highlight: Not A Designer with Saron Yitbarek](https://www.twitch.tv/videos/2010032934)
 - [Highlight: How Saron Yitbarek got into Tech](https://www.twitch.tv/videos/2010031879)
-- [nickyt.live](https://www.twitch.tv/videos/2009270701)
 - [Yet Another Newsletter LOL: Supabranch](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-supabranch/)
 - [Migrating from Jest to Vitest for your React Application](https://www.nickyt.co/blog/migrating-from-jest-to-vitest-for-your-react-application-1b75/)
 - [Highlight: Low Code &amp; AI Equals Opportunity with Ray Deck](https://www.twitch.tv/videos/2001502846)
 - [Yet Another Newsletter LOL: Broccoli](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-broccoli/)
+- [Highlight: Style Dictionary vs Cobalt for Design Tokens with Kaelig &amp; Drew](https://www.twitch.tv/videos/1995441049)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
