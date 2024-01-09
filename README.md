@@ -19,6 +19,7 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
+- [Web accessibility is coming and we need better tooling](https://www.twitch.tv/videos/2026616154)
 - [My 2023 Year in Review](https://www.nickyt.co/blog/my-2023-year-in-review-33ep/)
 - [Yet Another Newsletter LOL: Time to Recharge](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-time-to-recharge/)
 - [Highlight: Not A Designer with Saron Yitbarek](https://www.twitch.tv/videos/2010032934)
@@ -26,7 +27,6 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 - [Yet Another Newsletter LOL: Supabranch](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-supabranch/)
 - [Migrating from Jest to Vitest for your React Application](https://www.nickyt.co/blog/migrating-from-jest-to-vitest-for-your-react-application-1b75/)
 - [Highlight: Low Code &amp; AI Equals Opportunity with Ray Deck](https://www.twitch.tv/videos/2001502846)
-- [Yet Another Newsletter LOL: Broccoli](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-broccoli/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
