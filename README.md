@@ -12,7 +12,7 @@ I am a <em>big</em> fan of TypeScript, JavaScript, Node, and all things frontend
 
 media: [Newsletter](https://www.iamdeveloper.com/pages/newsletter/) | [nickyt.live](https://nickyt.live) | [YouTube](https://www.youtube.com/channel/UCBLlEq0co24VFJIMEHNcPOQ) | [Podcast](https://pod.iamdeveloper.com)
 
-[my profile on OpenSauced 🍕](https://insights.opensauced.pizza/user/nickytonline?tab=highlights)
+[![my profile on OpenSauced 🍕](https://app.opensauced.pizza/user/nickytonline/card)](https://app.opensauced.pizza/user/nickytonline?tab=highlights)
 
 socials: [X/Twitter](https://twitter.com/nickytonline) | [Threads](https://www.threads.net/@nickytonline) | [LinkedIn](https://www.linkedin.com/in/nickytonline) | [Mastodon](https://toot.cafe/@nickytonline) | [Polywork](https://polywork.com/nickytonline)
 
