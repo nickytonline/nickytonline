@@ -21,6 +21,7 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
+- [Yet Another Newsletter LOL: Hello 2024!](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-hello-2024/)
 - [Working on OpenSauced](https://www.twitch.tv/videos/2030577574)
 - [Highlight: Web accessibility is coming and we need better tooling](https://www.twitch.tv/videos/2029525360)
 - [Web accessibility is coming and we need better tooling](https://www.twitch.tv/videos/2026616154)
@@ -28,7 +29,6 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 - [Yet Another Newsletter LOL: Time to Recharge](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-time-to-recharge/)
 - [Highlight: Not A Designer with Saron Yitbarek](https://www.twitch.tv/videos/2010032934)
 - [Highlight: How Saron Yitbarek got into Tech](https://www.twitch.tv/videos/2010031879)
-- [Yet Another Newsletter LOL: Supabranch](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-supabranch/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
