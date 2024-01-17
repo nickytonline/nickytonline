@@ -21,6 +21,7 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
+- [Working on OpenSauced](https://www.twitch.tv/videos/2034515965)
 - [nickyt.live](https://www.twitch.tv/videos/2033457414)
 - [Working on OpenSauced](https://www.twitch.tv/videos/2033337281)
 - [Working on OpenSauced](https://www.twitch.tv/videos/2033322750)
@@ -28,7 +29,6 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 - [Working on OpenSauced](https://www.twitch.tv/videos/2030577574)
 - [Highlight: Web accessibility is coming and we need better tooling](https://www.twitch.tv/videos/2029525360)
 - [Web accessibility is coming and we need better tooling](https://www.twitch.tv/videos/2026616154)
-- [My 2023 Year in Review](https://www.nickyt.co/blog/my-2023-year-in-review-33ep/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
