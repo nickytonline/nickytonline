@@ -21,14 +21,14 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
+- [Highlight: Sentry in Action with Salma Alam-Naylor](https://www.twitch.tv/videos/2037976799)
+- [Highlight: Salma Alam-Naylor](https://www.twitch.tv/videos/2037972623)
 - [Working on OpenSauced](https://www.twitch.tv/videos/2035489950)
 - [Working on OpenSauced](https://www.twitch.tv/videos/2034515965)
-- [nickyt.live](https://www.twitch.tv/videos/2033457414)
+- [Sentry in Action with Salma Alam-Naylor](https://www.twitch.tv/videos/2033457414)
 - [Working on OpenSauced](https://www.twitch.tv/videos/2033337281)
 - [Working on OpenSauced](https://www.twitch.tv/videos/2033322750)
 - [Yet Another Newsletter LOL: Hello 2024!](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-hello-2024/)
-- [Working on OpenSauced](https://www.twitch.tv/videos/2030577574)
-- [Highlight: Web accessibility is coming and we need better tooling](https://www.twitch.tv/videos/2029525360)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
