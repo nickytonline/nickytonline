@@ -21,14 +21,14 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
+- [Redux, Replay.io, All the Things! with Mark Erikson](https://www.twitch.tv/videos/2040450715)
+- [nickyt.live](https://www.twitch.tv/videos/2040264167)
 - [Yet Another Newsletter LOL: Heading to the SPA](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-5082/)
 - [Highlight: Sentry in Action with Salma Alam-Naylor](https://www.twitch.tv/videos/2037976799)
 - [Highlight: Salma Alam-Naylor](https://www.twitch.tv/videos/2037972623)
 - [Working on OpenSauced](https://www.twitch.tv/videos/2035489950)
 - [Working on OpenSauced](https://www.twitch.tv/videos/2034515965)
 - [Sentry in Action with Salma Alam-Naylor](https://www.twitch.tv/videos/2033457414)
-- [Working on OpenSauced](https://www.twitch.tv/videos/2033337281)
-- [Working on OpenSauced](https://www.twitch.tv/videos/2033322750)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
