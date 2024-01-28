@@ -21,6 +21,7 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
+- [Highlight: A history of Redux and Modern Redux with Mark Erikson](https://www.twitch.tv/videos/2044936958)
 - [Highlight: The Future of Identity with Web5 &amp; Verifiable Credentials with Rizel Scarlett](https://www.twitch.tv/videos/2042489335)
 - [The Future of Identity with Web5 &amp; Verifiable Credentials with Rizel Scarlett](https://www.twitch.tv/videos/2042356799)
 - [Unlocking the Power of HTML&#39;s Native Browser Dialog Element](https://www.nickyt.co/blog/the-native-browser-dialog-element-1nhn/)
@@ -28,7 +29,6 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 - [nickyt.live](https://www.twitch.tv/videos/2040264167)
 - [Yet Another Newsletter LOL: Heading to the SPA](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-5082/)
 - [Highlight: Sentry in Action with Salma Alam-Naylor](https://www.twitch.tv/videos/2037976799)
-- [Highlight: Salma Alam-Naylor](https://www.twitch.tv/videos/2037972623)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
