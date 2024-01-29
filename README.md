@@ -21,6 +21,7 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
+- [Yet Another Newsletter LOL: A Solid and Astronomical Week](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-a-solid-and/)
 - [Highlight: A history of Redux and Modern Redux with Mark Erikson](https://www.twitch.tv/videos/2044936958)
 - [Highlight: The Future of Identity with Web5 &amp; Verifiable Credentials with Rizel Scarlett](https://www.twitch.tv/videos/2042489335)
 - [The Future of Identity with Web5 &amp; Verifiable Credentials with Rizel Scarlett](https://www.twitch.tv/videos/2042356799)
@@ -28,7 +29,6 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 - [Redux, Replay.io, All the Things! with Mark Erikson](https://www.twitch.tv/videos/2040450715)
 - [nickyt.live](https://www.twitch.tv/videos/2040264167)
 - [Yet Another Newsletter LOL: Heading to the SPA](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-5082/)
-- [Highlight: Sentry in Action with Salma Alam-Naylor](https://www.twitch.tv/videos/2037976799)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
