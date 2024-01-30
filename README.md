@@ -21,6 +21,7 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
+- [Tauri 🤝 SolidJS](https://www.twitch.tv/videos/2047290996)
 - [Yet Another Newsletter LOL: A Solid and Astronomical Week](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-a-solid-and/)
 - [Highlight: A history of Redux and Modern Redux with Mark Erikson](https://www.twitch.tv/videos/2044936958)
 - [Highlight: The Future of Identity with Web5 &amp; Verifiable Credentials with Rizel Scarlett](https://www.twitch.tv/videos/2042489335)
@@ -28,7 +29,6 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 - [Unlocking the Power of HTML&#39;s Native Browser Dialog Element](https://www.nickyt.co/blog/the-native-browser-dialog-element-1nhn/)
 - [Redux, Replay.io, All the Things! with Mark Erikson](https://www.twitch.tv/videos/2040450715)
 - [nickyt.live](https://www.twitch.tv/videos/2040264167)
-- [Yet Another Newsletter LOL: Heading to the SPA](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-5082/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
