@@ -21,14 +21,14 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
+- [Let&#39;s try that again 😅](https://buttondown.email/nickytonline/archive/lets-try-that-again/)
+- [Yet Another Newsletter LOL: February already?!](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-february-already/)
 - [Highlight: SolidJS &amp; SolidStart Explainer](https://www.twitch.tv/videos/2052286838)
 - [Highlight: What is Tauri?](https://www.twitch.tv/videos/2052267927)
 - [Review: Logitech Litra Glow Premium LED Streaming Light with TrueSoft](https://www.nickyt.co/blog/review-logitech-litra-glow-premium-led-streaming-light-with-truesoft-2p60/)
 - [Tauri 🤝 SolidJS](https://www.twitch.tv/videos/2047290996)
 - [Yet Another Newsletter LOL: A Solid and Astronomical Week](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-a-solid-and/)
 - [Highlight: A history of Redux and Modern Redux with Mark Erikson](https://www.twitch.tv/videos/2044936958)
-- [Highlight: The Future of Identity with Web5 &amp; Verifiable Credentials with Rizel Scarlett](https://www.twitch.tv/videos/2042489335)
-- [The Future of Identity with Web5 &amp; Verifiable Credentials with Rizel Scarlett](https://www.twitch.tv/videos/2042356799)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
