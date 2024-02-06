@@ -21,14 +21,14 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
+- [Free SDK generation for open source software with Jim Bennett](https://www.twitch.tv/videos/2054121164)
 - [Let&#39;s try that again 😅](https://buttondown.email/nickytonline/archive/lets-try-that-again/)
+- [Yet Another Newsletter LOL: February already?!](https://www.nickyt.co/blog/yet-another-newsletter-lol-february-already-23h9/)
 - [Yet Another Newsletter LOL: February already?!](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-february-already/)
 - [Highlight: SolidJS &amp; SolidStart Explainer](https://www.twitch.tv/videos/2052286838)
 - [Highlight: What is Tauri?](https://www.twitch.tv/videos/2052267927)
 - [Review: Logitech Litra Glow Premium LED Streaming Light with TrueSoft](https://www.nickyt.co/blog/review-logitech-litra-glow-premium-led-streaming-light-with-truesoft-2p60/)
 - [Tauri 🤝 SolidJS](https://www.twitch.tv/videos/2047290996)
-- [Yet Another Newsletter LOL: A Solid and Astronomical Week](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-a-solid-and/)
-- [Highlight: A history of Redux and Modern Redux with Mark Erikson](https://www.twitch.tv/videos/2044936958)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
