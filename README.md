@@ -25,10 +25,10 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 - [Challenging the Skeptics: Unveiling the Undeniable Goodness of Tailwind CSS](https://www.nickyt.co/blog/challenging-the-skeptics-unveiling-the-undeniable-goodness-of-tailwind-css-4doc/)
 - [Free SDK generation for open source software with Jim Bennett](https://www.twitch.tv/videos/2054121164)
 - [Let&#39;s try that again 😅](https://buttondown.email/nickytonline/archive/lets-try-that-again/)
-- [Yet Another Newsletter LOL: February already?!](https://www.nickyt.co/blog/yet-another-newsletter-lol-february-already-23h9/)
 - [Yet Another Newsletter LOL: February already?!](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-february-already/)
 - [Highlight: SolidJS &amp; SolidStart Explainer](https://www.twitch.tv/videos/2052286838)
 - [Highlight: What is Tauri?](https://www.twitch.tv/videos/2052267927)
+- [Review: Logitech Litra Glow Premium LED Streaming Light with TrueSoft](https://www.nickyt.co/blog/review-logitech-litra-glow-premium-led-streaming-light-with-truesoft-2p60/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
