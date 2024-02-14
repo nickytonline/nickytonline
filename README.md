@@ -21,6 +21,7 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
+- [Highlight: You Probably Don&#39;t Need eslint-config-prettier or eslint-plugin-prettier](https://www.twitch.tv/videos/2061587993)
 - [Yet Another Newsletter LOL: Madden 2025](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-madden-2025/)
 - [You Probably Don&#39;t Need eslint-config-prettier or eslint-plugin-prettier](https://www.twitch.tv/videos/2057904214)
 - [Challenging the Skeptics: Unveiling the Undeniable Goodness of Tailwind CSS](https://www.nickyt.co/blog/challenging-the-skeptics-unveiling-the-undeniable-goodness-of-tailwind-css-4doc/)
@@ -28,7 +29,6 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 - [Let&#39;s try that again 😅](https://buttondown.email/nickytonline/archive/lets-try-that-again/)
 - [Yet Another Newsletter LOL: February already?!](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-february-already/)
 - [Highlight: SolidJS &amp; SolidStart Explainer](https://www.twitch.tv/videos/2052286838)
-- [Highlight: What is Tauri?](https://www.twitch.tv/videos/2052267927)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
