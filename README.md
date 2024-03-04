@@ -21,6 +21,7 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
+- [Yet Another Newsletter LOL: Init](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-init/)
 - [Supercharge Frontend Development with Polypane](https://www.twitch.tv/videos/2074485415)
 - [Yet Another Newsletter LOL: Slow Roads](https://buttondown.email/nickytonline/archive/slow-roads/)
 - [Yet Another Newsletter LOL: Million](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-million/)
@@ -28,7 +29,6 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 - [Highlight: You Probably Don&#39;t Need eslint-config-prettier or eslint-plugin-prettier](https://www.twitch.tv/videos/2061587993)
 - [Yet Another Newsletter LOL: Madden 2025](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-madden-2025/)
 - [Challenging the Skeptics: Unveiling the Undeniable Goodness of Tailwind CSS](https://www.nickyt.co/blog/challenging-the-skeptics-unveiling-the-undeniable-goodness-of-tailwind-css-4doc/)
-- [Let&#39;s try that again 😅](https://buttondown.email/nickytonline/archive/lets-try-that-again/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
