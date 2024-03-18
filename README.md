@@ -21,6 +21,7 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
+- [Yet Another Newsletter LOL: Pi Day](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-pi-day/)
 - [Applying Compassion to Our Technical Work](https://www.twitch.tv/videos/2091544802)
 - [Creating an OG Image in an Edge Function](https://www.twitch.tv/videos/2090603793)
 - [Highlight: Supercharge Frontend Development with Polypane](https://www.twitch.tv/videos/2083047325)
@@ -28,7 +29,6 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 - [Yet Another Newsletter LOL: Slow Roads](https://buttondown.email/nickytonline/archive/slow-roads/)
 - [Yet Another Newsletter LOL: Million](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-million/)
 - [Highlight: Free SDK generation for open source software with Jim Bennett](https://www.twitch.tv/videos/2065608240)
-- [Highlight: You Probably Don&#39;t Need eslint-config-prettier or eslint-plugin-prettier](https://www.twitch.tv/videos/2061587993)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
