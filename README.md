@@ -21,6 +21,7 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
+- [Highlight: Applying Compassion to Our Technical Work](https://www.twitch.tv/videos/2095924861)
 - [Highlight: React Native’s most popular stack: Ignite &lpar;maybe?&rpar;](https://www.twitch.tv/videos/2094577663)
 - [Highlight: A history of the Expo project](https://www.twitch.tv/videos/2094574032)
 - [React Native’s most popular stack: Ignite &lpar;maybe?&rpar;](https://www.twitch.tv/videos/2094492059)
@@ -28,7 +29,6 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 - [Applying Compassion to Our Technical Work](https://www.twitch.tv/videos/2091544802)
 - [Creating an OG Image in an Edge Function](https://www.twitch.tv/videos/2090603793)
 - [Highlight: Supercharge Frontend Development with Polypane](https://www.twitch.tv/videos/2083047325)
-- [Yet Another Newsletter LOL: Init](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-init/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
