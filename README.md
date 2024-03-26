@@ -21,6 +21,7 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
+- [Building Reliable Systems Using Temporal](https://www.twitch.tv/videos/2101172637)
 - [Working on Some Components for OpenSauced](https://www.twitch.tv/videos/2097118701)
 - [Highlight: Applying Compassion to Our Technical Work](https://www.twitch.tv/videos/2095924861)
 - [Highlight: React Native’s most popular stack: Ignite &lpar;maybe?&rpar;](https://www.twitch.tv/videos/2094577663)
@@ -28,7 +29,6 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 - [React Native’s most popular stack: Ignite &lpar;maybe?&rpar;](https://www.twitch.tv/videos/2094492059)
 - [Yet Another Newsletter LOL: Pi Day](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-pi-day/)
 - [Applying Compassion to Our Technical Work](https://www.twitch.tv/videos/2091544802)
-- [Creating an OG Image in an Edge Function](https://www.twitch.tv/videos/2090603793)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
