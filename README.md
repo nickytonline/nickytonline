@@ -21,6 +21,7 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
+- [Working on Some Components for OpenSauced](https://www.twitch.tv/videos/2102007795)
 - [Building Reliable Systems Using Temporal](https://www.twitch.tv/videos/2101172637)
 - [Working on Some Components for OpenSauced](https://www.twitch.tv/videos/2097118701)
 - [Highlight: Applying Compassion to Our Technical Work](https://www.twitch.tv/videos/2095924861)
@@ -28,7 +29,6 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 - [Highlight: A history of the Expo project](https://www.twitch.tv/videos/2094574032)
 - [React Native’s most popular stack: Ignite &lpar;maybe?&rpar;](https://www.twitch.tv/videos/2094492059)
 - [Yet Another Newsletter LOL: Pi Day](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-pi-day/)
-- [Applying Compassion to Our Technical Work](https://www.twitch.tv/videos/2091544802)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
