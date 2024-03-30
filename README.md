@@ -21,6 +21,7 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
+- [Content creation and networking for developers](https://www.twitch.tv/videos/2104976550)
 - [Working on the repos table prototype for OpenSauced](https://www.twitch.tv/videos/2104110361)
 - [Building out the repos table prototype for OpenSauced](https://www.twitch.tv/videos/2103142057)
 - [Building out the repos table prototype for OpenSauced](https://www.twitch.tv/videos/2103139160)
@@ -28,7 +29,6 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 - [Working on Some Components for OpenSauced](https://www.twitch.tv/videos/2102915362)
 - [Working on Some Components for OpenSauced](https://www.twitch.tv/videos/2102906915)
 - [Working on Some Components for OpenSauced](https://www.twitch.tv/videos/2102007795)
-- [Building Reliable Systems Using Temporal](https://www.twitch.tv/videos/2101172637)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
