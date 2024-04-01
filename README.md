@@ -21,6 +21,7 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
+- [Yet Another Newsletter LOL: Promises](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-promises/)
 - [Content creation and networking for developers](https://www.twitch.tv/videos/2104976550)
 - [Working on the repos table prototype for OpenSauced](https://www.twitch.tv/videos/2104110361)
 - [Building out the repos table prototype for OpenSauced](https://www.twitch.tv/videos/2103142057)
@@ -28,7 +29,6 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 - [Building out the repos table prototype for OpenSauced](https://www.twitch.tv/videos/2103132656)
 - [Working on Some Components for OpenSauced](https://www.twitch.tv/videos/2102915362)
 - [Working on Some Components for OpenSauced](https://www.twitch.tv/videos/2102906915)
-- [Working on Some Components for OpenSauced](https://www.twitch.tv/videos/2102007795)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
