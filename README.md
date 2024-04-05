@@ -21,14 +21,14 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
+- [TanStack Table](https://www.twitch.tv/videos/2110636096)
+- [Working on OpenSauced / Co-Working Stream](https://www.twitch.tv/videos/2110517374)
 - [The Open Source Hour](https://www.twitch.tv/videos/2109710675)
 - [Working on OpenSauced / Co-Working Stream](https://www.twitch.tv/videos/2108680785)
 - [Yet Another Newsletter LOL: Promises](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-promises/)
 - [Content creation and networking for developers](https://www.twitch.tv/videos/2104976550)
 - [Working on the repos table prototype for OpenSauced](https://www.twitch.tv/videos/2104110361)
 - [Building out the repos table prototype for OpenSauced](https://www.twitch.tv/videos/2103142057)
-- [Building out the repos table prototype for OpenSauced](https://www.twitch.tv/videos/2103139160)
-- [Building out the repos table prototype for OpenSauced](https://www.twitch.tv/videos/2103132656)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
