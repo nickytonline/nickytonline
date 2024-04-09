@@ -21,14 +21,14 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Frontends](https://www.twitch.tv/videos/2114418279)
+- [Working on OpenSauced / Co-Working Stream](https://www.twitch.tv/videos/2114292682)
 - [TanStack Table](https://www.twitch.tv/videos/2110636096)
 - [Working on OpenSauced / Co-Working Stream](https://www.twitch.tv/videos/2110517374)
 - [The Open Source Hour](https://www.twitch.tv/videos/2109710675)
 - [Working on OpenSauced / Co-Working Stream](https://www.twitch.tv/videos/2108680785)
 - [Form and Function: How I Lost My Submit Button &amp; Got It Back](https://www.nickyt.co/blog/form-and-function-how-i-lost-my-submit-button-got-it-back-5b91/)
 - [Yet Another Newsletter LOL: Promises](https://buttondown.email/nickytonline/archive/yet-another-newsletter-lol-promises/)
-- [Content creation and networking for developers](https://www.twitch.tv/videos/2104976550)
-- [Working on the repos table prototype for OpenSauced](https://www.twitch.tv/videos/2104110361)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
