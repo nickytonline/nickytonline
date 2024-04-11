@@ -21,6 +21,7 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
+- [Working on Open Sauced/Co-Working Stream](https://www.twitch.tv/videos/2116234560)
 - [Co-Working Stream](https://www.twitch.tv/videos/2115186008)
 - [AI Frontends](https://www.twitch.tv/videos/2114418279)
 - [Working on OpenSauced / Co-Working Stream](https://www.twitch.tv/videos/2114292682)
@@ -28,7 +29,6 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 - [Working on OpenSauced / Co-Working Stream](https://www.twitch.tv/videos/2110517374)
 - [The Open Source Hour](https://www.twitch.tv/videos/2109710675)
 - [Working on OpenSauced / Co-Working Stream](https://www.twitch.tv/videos/2108680785)
-- [Form and Function: How I Lost My Submit Button &amp; Got It Back](https://www.nickyt.co/blog/form-and-function-how-i-lost-my-submit-button-got-it-back-5b91/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
