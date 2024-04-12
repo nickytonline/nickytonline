@@ -21,14 +21,14 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
+- [Highlight: Checking out Million Lint with Tobiloba](https://www.twitch.tv/videos/2117224247)
+- [Highlight: Sharing Online Increases the Surface Are of Your Luck](https://www.twitch.tv/videos/2117199167)
+- [Working on Open Sauced/Co-Working Stream](https://www.twitch.tv/videos/2116920934)
 - [Working on Open Sauced/Co-Working Stream](https://www.twitch.tv/videos/2116234560)
 - [Co-Working Stream](https://www.twitch.tv/videos/2115186008)
 - [AI Frontends](https://www.twitch.tv/videos/2114418279)
 - [Working on OpenSauced / Co-Working Stream](https://www.twitch.tv/videos/2114292682)
 - [TanStack Table](https://www.twitch.tv/videos/2110636096)
-- [Working on OpenSauced / Co-Working Stream](https://www.twitch.tv/videos/2110517374)
-- [The Open Source Hour](https://www.twitch.tv/videos/2109710675)
-- [Working on OpenSauced / Co-Working Stream](https://www.twitch.tv/videos/2108680785)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
