@@ -21,14 +21,14 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
-- [Working on Open Sauced 🍕](https://www.twitch.tv/videos/2117784886)
-- [Highlight: Checking out Million Lint with Tobiloba](https://www.twitch.tv/videos/2117224247)
-- [Highlight: Sharing Online Increases the Surface Are of Your Luck](https://www.twitch.tv/videos/2117199167)
-- [Working on Open Sauced/Co-Working Stream](https://www.twitch.tv/videos/2116920934)
-- [Working on Open Sauced/Co-Working Stream](https://www.twitch.tv/videos/2116234560)
-- [Co-Working Stream](https://www.twitch.tv/videos/2115186008)
-- [AI Frontends](https://www.twitch.tv/videos/2114418279)
-- [Working on OpenSauced / Co-Working Stream](https://www.twitch.tv/videos/2114292682)
+- [Form and Function: How I Lost My Submit Button &amp; Got It Back](https://www.nickyt.co/blog/form-and-function-how-i-lost-my-submit-button-got-it-back-5b91/)
+- [Stuck in the Middle with You: An intro to Middleware](https://www.nickyt.co/blog/stuck-in-the-middle-with-you-an-intro-to-middleware-1gjo/)
+- [Challenging the Skeptics: Unveiling the Undeniable Goodness of Tailwind CSS](https://www.nickyt.co/blog/challenging-the-skeptics-unveiling-the-undeniable-goodness-of-tailwind-css-4doc/)
+- [Review: Logitech Litra Glow Premium LED Streaming Light with TrueSoft](https://www.nickyt.co/blog/review-logitech-litra-glow-premium-led-streaming-light-with-truesoft-2p60/)
+- [Unlocking the Power of HTML&#39;s Native Browser Dialog Element](https://www.nickyt.co/blog/the-native-browser-dialog-element-1nhn/)
+- [My 2023 Year in Review](https://www.nickyt.co/blog/my-2023-year-in-review-33ep/)
+- [Migrating from Jest to Vitest for your React Application](https://www.nickyt.co/blog/migrating-from-jest-to-vitest-for-your-react-application-1b75/)
+- [HTML Data Attributes: One of the Original State Management Libraries](https://www.nickyt.co/blog/html-data-attributes-one-of-the-original-state-management-libraries-8bf/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
