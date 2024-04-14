@@ -16,7 +16,7 @@ media: [Newsletter](https://www.iamdeveloper.com/pages/newsletter/) | [nickyt.li
 
 socials: [X/Twitter](https://twitter.com/nickytonline) | [Threads](https://www.threads.net/@nickytonline) | [LinkedIn](https://www.linkedin.com/in/nickytonline) | [Mastodon](https://toot.cafe/@nickytonline) | [Polywork](https://polywork.com/nickytonline)
 
-blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline) | [Hashnode](https://hashnode.iamdeveloper.com)
+blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline)
 
 ## Latest Content
 
