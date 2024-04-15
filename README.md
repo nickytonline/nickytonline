@@ -14,7 +14,7 @@ media: [Newsletter](https://www.iamdeveloper.com/pages/newsletter/) | [nickyt.li
 
 [my profile on OpenSauced 🍕](https://app.opensauced.pizza/user/nickytonline/card)
 
-socials: [X/Twitter](https://twitter.com/nickytonline) | [Threads](https://www.threads.net/@nickytonline) | [LinkedIn](https://www.linkedin.com/in/nickytonline) | [Mastodon](https://toot.cafe/@nickytonline) | [Polywork](https://polywork.com/nickytonline)
+socials: [X/Twitter](https://twitter.com/nickytonline) | [Threads](https://www.threads.net/@nickytonline) | [LinkedIn](https://www.linkedin.com/in/nickytonline) | [Mastodon](https://toot.cafe/@nickytonline)
 
 blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline)
 
