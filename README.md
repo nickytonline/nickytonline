@@ -10,7 +10,7 @@ I am a <em>big</em> fan of TypeScript, JavaScript, Node, and all things frontend
 [![Contact me on Codementor](https://www.codementor.io/m-badges/nickytonline/im-a-cm-b.svg)](https://www.codementor.io/@nickytonline?refer=badge)
 ---
 
-media: [Newsletter](https://www.iamdeveloper.com/pages/newsletter/) | [nickyt.live](https://nickyt.live) | [YouTube](https://www.youtube.com/channel/UCBLlEq0co24VFJIMEHNcPOQ) | [Podcast](https://pod.iamdeveloper.com)
+media: [OneTipAWeek.com](https://onetipaweek.com) | [nickyt.live](https://nickyt.live) | [YouTube](https://www.youtube.com/channel/UCBLlEq0co24VFJIMEHNcPOQ) | [Podcast](https://pod.iamdeveloper.com)
 
 [my profile on OpenSauced 🍕](https://app.opensauced.pizza/user/nickytonline/card)
 
