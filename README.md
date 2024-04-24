@@ -21,6 +21,7 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
+- [Yet Another Newsletter: Saying goodbye](https://www.nickyt.co/blog/yet-another-newsletter-saying-goodbye-d99/)
 - [Creating an OG image using React and Netlify Edge Functions](https://www.nickyt.co/blog/creating-an-og-image-using-react-and-netlify-edge-functions-563a/)
 - [Form and Function: How I Lost My Submit Button &amp; Got It Back](https://www.nickyt.co/blog/form-and-function-how-i-lost-my-submit-button-got-it-back-5b91/)
 - [Stuck in the Middle with You: An intro to Middleware](https://www.nickyt.co/blog/stuck-in-the-middle-with-you-an-intro-to-middleware-1gjo/)
@@ -28,7 +29,6 @@ blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline
 - [Review: Logitech Litra Glow Premium LED Streaming Light with TrueSoft](https://www.nickyt.co/blog/review-logitech-litra-glow-premium-led-streaming-light-with-truesoft-2p60/)
 - [Unlocking the Power of HTML&#39;s Native Browser Dialog Element](https://www.nickyt.co/blog/the-native-browser-dialog-element-1nhn/)
 - [My 2023 Year in Review](https://www.nickyt.co/blog/my-2023-year-in-review-33ep/)
-- [Migrating from Jest to Vitest for your React Application](https://www.nickyt.co/blog/migrating-from-jest-to-vitest-for-your-react-application-1b75/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
