@@ -13,7 +13,7 @@ const VIDEO_MARKER_FINDER = new RegExp(
 
 async function main() {
   const videos = await getVideos(
-    'https://www.youtube.com/feeds/videos.xml?playlist_id=PLcR4ZgxWXeICy2QVTV-6HuEHfl9DcAuq7',
+    'https://www.youtube.com/feeds/videos.xml?playlist_id=PLcR4ZgxWXeICy2QVTV-6HuEHfl9DcAuq7'
   );
   const videosMarkups = generateVideosMarkup(videos);
 
@@ -32,8 +32,9 @@ function generateVideosMarkup(videos) {
 
   for (const video of videos) {
     const {link, thumbnail, title} = video;
+    const videoId = link.split('v=')[1];
 
-    markup += `<a href="${link}" title="${title}"><img src="${thumbnail}" alt="${title}" width="360" height="270" /></a>&nbsp;&nbsp;`;
+    markup += `<a href="${link}" title="${title}"><img src="https://img.youtube.com/vi/${videoId}/maxresdefault.jpg" alt="${title}" width="360" height="202" /></a>&nbsp;&nbsp;`;
   }
 
   markup += '</div>';
