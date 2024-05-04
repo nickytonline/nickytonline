@@ -34,7 +34,7 @@ function generateVideosMarkup(videos) {
     const {link, thumbnail, title} = video;
     const videoId = link.split('v=')[1];
 
-    markup += `<a href="${link}" title="${title}"><img src="https://img.youtube.com/vi/${videoId}/maxresdefault.jpg" alt="${title}" width="360" height="202" /></a>&nbsp;&nbsp;`;
+    markup += `<kbd><a href="${link}" title="${title}"><img src="https://img.youtube.com/vi/${videoId}/maxresdefault.jpg" alt="${title}" width="360" height="202" /></a></kbd>&nbsp;&nbsp;`;
   }
 
   markup += '</div>';
