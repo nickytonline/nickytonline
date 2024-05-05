@@ -1,4 +1,4 @@
-<a href="https://www.nickyt.co" title="My website"><img src="github-banner.png" alt="An alpaca grinning with the words livecoding.ca beside them" /></a>
+<kbd><a href="https://www.nickyt.co" title="My website"><img src="github-banner.png" alt="An alpaca grinning with the words livecoding.ca beside them" /></a></kbd>
 
 # <em>Hi!</em> I'm Nick. 👋🏻
 
