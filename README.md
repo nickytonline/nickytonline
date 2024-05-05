@@ -7,20 +7,35 @@ Hello! My name is Nick Taylor. I'm a Senior Software Engineer at [OpenSauced](ht
 I am a <em>big</em> fan of TypeScript, JavaScript, Node, and all things frontend. Aside from programming, I enjoy contributing to open source, hitting the gym, snowboarding, and rugby a long time ago.
 
 ---
-[![Contact me on Codementor](https://www.codementor.io/m-badges/nickytonline/im-a-cm-b.svg)](https://www.codementor.io/@nickytonline?refer=badge)
----
 
-media: [OneTipAWeek.com](https://onetipaweek.com) | [nickyt.live](https://nickyt.live) | [YouTube](https://www.youtube.com/channel/UCBLlEq0co24VFJIMEHNcPOQ) | [Podcast](https://pod.iamdeveloper.com)
+## [![Contact me on Codementor](https://www.codementor.io/m-badges/nickytonline/im-a-cm-b.svg)](https://www.codementor.io/@nickytonline?refer=badge)
 
-[my profile on OpenSauced 🍕](https://app.opensauced.pizza/user/nickytonline)
+[🍕 my profile on OpenSauced](https://app.opensauced.pizza/user/nickytonline)
 
-socials: [X/Twitter](https://twitter.com/nickytonline) | [Threads](https://www.threads.net/@nickytonline) | [LinkedIn](https://www.linkedin.com/in/nickytonline) | [Mastodon](https://toot.cafe/@nickytonline)
+media:
 
-blogging: [nickyt.co](https://www.nickyt.co) | [DEV](https://dev.to/nickytonline)
+- [OneTipAWeek.com](https://onetipaweek.com)
+- [nickyt.live](https://nickyt.live)
+- [Twitch](https://twitch.tv/nickytonline)
+- [YouTube](https://nickyt.tube)
+- [Podcast](https://pod.iamdeveloper.com)
+
+socials:
+
+- [X/Twitter](https://twitter.com/nickytonline)
+- [Threads](https://www.threads.net/@nickytonline)
+- [LinkedIn](https://www.linkedin.com/in/nickytonline)
+- [Mastodon](https://toot.cafe/@nickytonline)
+
+blogging:
+
+- [nickyt.co](https://www.nickyt.co)
+- [DEV](https://dev.to/nickytonline)
 
 ## Latest Content
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Yet Another Newsletter: Saying goodbye](https://www.nickyt.co/blog/yet-another-newsletter-saying-goodbye-d99/)
 - [Creating an OG image using React and Netlify Edge Functions](https://www.nickyt.co/blog/creating-an-og-image-using-react-and-netlify-edge-functions-563a/)
 - [Form and Function: How I Lost My Submit Button &amp; Got It Back](https://www.nickyt.co/blog/form-and-function-how-i-lost-my-submit-button-got-it-back-5b91/)
