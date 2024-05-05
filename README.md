@@ -8,7 +8,7 @@ I am a <em>big</em> fan of TypeScript, JavaScript, Node, and all things frontend
 
 ---
 
-## Latest Content
+## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 
