@@ -28,16 +28,16 @@ async function main() {
 }
 
 function generateVideosMarkup(videos) {
-  let markup = '<div>';
+  let markup = '<aside>';
 
   for (const video of videos) {
     const {link, thumbnail, title} = video;
     const videoId = link.split('v=')[1];
 
-    markup += `<kbd><a href="${link}" title="${title}"><img src="https://img.youtube.com/vi/${videoId}/maxresdefault.jpg" alt="${title}" width="360" height="202" /></a></kbd>&nbsp;&nbsp;`;
+    markup += `<kbd><a href="${link}" title="${title}"><img src="https://img.youtube.com/vi/${videoId}/maxresdefault.jpg" alt="${title}" width="360" height="202" /></a></kbd>`;
   }
 
-  markup += '</div>';
+  markup += '</aside>';
 
   return markup;
 }
