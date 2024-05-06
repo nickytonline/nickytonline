@@ -11,6 +11,7 @@ I am a <em>big</em> fan of TypeScript, JavaScript, Node, and all things frontend
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tools that keep me productive](https://www.nickyt.co/blog/tools-that-keep-me-productive-1no5/)
 - [Yet Another Newsletter: Saying goodbye](https://www.nickyt.co/blog/yet-another-newsletter-saying-goodbye-d99/)
 - [Creating an OG image using React and Netlify Edge Functions](https://www.nickyt.co/blog/creating-an-og-image-using-react-and-netlify-edge-functions-563a/)
 - [Form and Function: How I Lost My Submit Button &amp; Got It Back](https://www.nickyt.co/blog/form-and-function-how-i-lost-my-submit-button-got-it-back-5b91/)
@@ -18,7 +19,6 @@ I am a <em>big</em> fan of TypeScript, JavaScript, Node, and all things frontend
 - [Fresh: A Full Stack Web Framework for Deno](https://www.nickyt.co/talks/fresh--a-full-stack-web-framework-for-deno-confoo-2024/)
 - [Fresh: A Full Stack Web Framework for Deno](https://www.nickyt.co/talks/fresh--a-full-stack-web-framework-for-deno-global-summit-for-node-js--24/)
 - [End to End Testing for Browser Extensions](https://www.nickyt.co/talks/end-to-end-testing-for-browser-extensions-confoo-2024/)
-- [Challenging the Skeptics: Unveiling the Undeniable Goodness of Tailwind CSS](https://www.nickyt.co/blog/challenging-the-skeptics-unveiling-the-undeniable-goodness-of-tailwind-css-4doc/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
