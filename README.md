@@ -11,7 +11,6 @@ I am a <em>big</em> fan of TypeScript, JavaScript, Node, and all things frontend
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Yet Another Newsletter: Saying goodbye](https://www.nickyt.co/blog/yet-another-newsletter-saying-goodbye-d99/)
 - [Creating an OG image using React and Netlify Edge Functions](https://www.nickyt.co/blog/creating-an-og-image-using-react-and-netlify-edge-functions-563a/)
 - [Form and Function: How I Lost My Submit Button &amp; Got It Back](https://www.nickyt.co/blog/form-and-function-how-i-lost-my-submit-button-got-it-back-5b91/)
