@@ -11,6 +11,7 @@ I am a <em>big</em> fan of TypeScript, JavaScript, Node, and all things frontend
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The State of .NET Tooling in 2024](https://www.nickyt.co/blog/the-state-of-net-tooling-2024-169g/)
 - [Tools that keep me productive](https://www.nickyt.co/blog/tools-that-keep-me-productive-1no5/)
 - [Yet Another Newsletter: Saying goodbye](https://www.nickyt.co/blog/yet-another-newsletter-saying-goodbye-d99/)
 - [Creating an OG image using React and Netlify Edge Functions](https://www.nickyt.co/blog/creating-an-og-image-using-react-and-netlify-edge-functions-563a/)
@@ -18,7 +19,6 @@ I am a <em>big</em> fan of TypeScript, JavaScript, Node, and all things frontend
 - [Stuck in the Middle with You: An intro to Middleware](https://www.nickyt.co/blog/stuck-in-the-middle-with-you-an-intro-to-middleware-1gjo/)
 - [Fresh: A Full Stack Web Framework for Deno](https://www.nickyt.co/talks/fresh--a-full-stack-web-framework-for-deno-confoo-2024/)
 - [Fresh: A Full Stack Web Framework for Deno](https://www.nickyt.co/talks/fresh--a-full-stack-web-framework-for-deno-global-summit-for-node-js--24/)
-- [End to End Testing for Browser Extensions](https://www.nickyt.co/talks/end-to-end-testing-for-browser-extensions-confoo-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
