@@ -11,6 +11,7 @@ I am a <em>big</em> fan of TypeScript, JavaScript, Node, and all things frontend
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Valibot: A New Approach to Data Validation in JavaScript](https://www.nickyt.co/blog/valibot-a-new-approach-to-data-validation-in-javascript-1mgb/)
 - [The State of .NET Tooling in 2024](https://www.nickyt.co/blog/the-state-of-net-tooling-2024-169g/)
 - [Tools that keep me productive](https://www.nickyt.co/blog/tools-that-keep-me-productive-1no5/)
 - [Yet Another Newsletter: Saying goodbye](https://www.nickyt.co/blog/yet-another-newsletter-saying-goodbye-d99/)
@@ -18,7 +19,6 @@ I am a <em>big</em> fan of TypeScript, JavaScript, Node, and all things frontend
 - [Form and Function: How I Lost My Submit Button &amp; Got It Back](https://www.nickyt.co/blog/form-and-function-how-i-lost-my-submit-button-got-it-back-5b91/)
 - [Stuck in the Middle with You: An intro to Middleware](https://www.nickyt.co/blog/stuck-in-the-middle-with-you-an-intro-to-middleware-1gjo/)
 - [Fresh: A Full Stack Web Framework for Deno](https://www.nickyt.co/talks/fresh--a-full-stack-web-framework-for-deno-confoo-2024/)
-- [Fresh: A Full Stack Web Framework for Deno](https://www.nickyt.co/talks/fresh--a-full-stack-web-framework-for-deno-global-summit-for-node-js--24/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
