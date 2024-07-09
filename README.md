@@ -11,6 +11,7 @@ I am a <em>big</em> fan of TypeScript, JavaScript, Node, and all things frontend
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The React useRef Hook: Not Just for DOM Elements](https://www.nickyt.co/blog/the-react-useref-hook-not-just-for-html-elements-3cf3/)
 - [Valibot: A New Approach to Data Validation in JavaScript](https://www.nickyt.co/blog/valibot-a-new-approach-to-data-validation-in-javascript-1mgb/)
 - [The State of .NET Tooling in 2024](https://www.nickyt.co/blog/the-state-of-net-tooling-2024-169g/)
 - [Tools that keep me productive](https://www.nickyt.co/blog/tools-that-keep-me-productive-1no5/)
@@ -18,7 +19,6 @@ I am a <em>big</em> fan of TypeScript, JavaScript, Node, and all things frontend
 - [Creating an OG image using React and Netlify Edge Functions](https://www.nickyt.co/blog/creating-an-og-image-using-react-and-netlify-edge-functions-563a/)
 - [Form and Function: How I Lost My Submit Button &amp; Got It Back](https://www.nickyt.co/blog/form-and-function-how-i-lost-my-submit-button-got-it-back-5b91/)
 - [Stuck in the Middle with You: An intro to Middleware](https://www.nickyt.co/blog/stuck-in-the-middle-with-you-an-intro-to-middleware-1gjo/)
-- [Fresh: A Full Stack Web Framework for Deno](https://www.nickyt.co/talks/fresh--a-full-stack-web-framework-for-deno-confoo-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
