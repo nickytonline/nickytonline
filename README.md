@@ -11,14 +11,14 @@ I am a <em>big</em> fan of TypeScript, JavaScript, Node, and all things frontend
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [BenQ ScreenBar Halo Monitor Light Review](https://hashnode.iamdeveloper.com/benq-screenbar-halo-monitor-light-review)
-- [Review: Fifine Ampligame AM6 Condenser Mic](https://hashnode.iamdeveloper.com/review-fifine-ampligame-am6-condenser-mic)
-- [The React useRef Hook: Not Just for DOM Elements](https://hashnode.iamdeveloper.com/the-react-useref-hook-not-just-for-dom-elements)
-- [Valibot: A New Approach to Data Validation in JavaScript](https://hashnode.iamdeveloper.com/valibot-a-new-approach-to-data-validation-in-javascript)
-- [The State of .NET Tooling in 2024](https://hashnode.iamdeveloper.com/the-state-of-net-tooling-in-2024)
-- [Tools that keep me productive](https://hashnode.iamdeveloper.com/tools-that-keep-me-productive-1)
-- [Form and Function: How I Lost My Submit Button &amp; Got It Back](https://hashnode.iamdeveloper.com/form-and-function-how-i-lost-my-submit-button-got-it-back)
-- [Challenging the Skeptics: Unveiling the Undeniable Goodness of Tailwind CSS](https://hashnode.iamdeveloper.com/challenging-the-skeptics-unveiling-the-undeniable-goodness-of-tailwind-css)
+- [Review: Fifine Ampligame AM6 Condenser Mic](https://www.nickyt.co/blog/review-fifine-ampligame-am6-condenser-mic-714/)
+- [The React useRef Hook: Not Just for DOM Elements](https://www.nickyt.co/blog/the-react-useref-hook-not-just-for-html-elements-3cf3/)
+- [Valibot: A New Approach to Data Validation in JavaScript](https://www.nickyt.co/blog/valibot-a-new-approach-to-data-validation-in-javascript-1mgb/)
+- [The State of .NET Tooling in 2024](https://www.nickyt.co/blog/the-state-of-net-tooling-2024-169g/)
+- [Tools that keep me productive](https://www.nickyt.co/blog/tools-that-keep-me-productive-1no5/)
+- [Yet Another Newsletter: Saying goodbye](https://www.nickyt.co/blog/yet-another-newsletter-saying-goodbye-d99/)
+- [Creating an OG image using React and Netlify Edge Functions](https://www.nickyt.co/blog/creating-an-og-image-using-react-and-netlify-edge-functions-563a/)
+- [Form and Function: How I Lost My Submit Button &amp; Got It Back](https://www.nickyt.co/blog/form-and-function-how-i-lost-my-submit-button-got-it-back-5b91/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
