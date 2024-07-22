@@ -14,4 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: '8'
-          feed_list: 'https://hashnode.iamdeveloper.com/rss.xml'
+          feed_list: 'https://www.nickyt.co/feed'
