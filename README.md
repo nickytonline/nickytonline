@@ -50,4 +50,4 @@ blogging:
 
 - [nickyt.co](https://www.nickyt.co)
 - [DEV](https://dev.to/nickytonline)
-- [Hashnode](https://hashnode.iamdeveloper.com)
+- [Hashnode](https://nickytonline.hashnode.dev)
