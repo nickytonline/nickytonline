@@ -11,7 +11,7 @@ I am a <em>big</em> fan of TypeScript, JavaScript, Node, and all things frontend
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Multitenant Database Schemas](https://nickyt.online/multitenant-database-schemas)
+- [Multitenant Database Schemas](https://nickyt.online/multitenant-database-schemas-4ofc)
 - [Review: Fifine Ampligame AM6 Condenser Mic](https://nickyt.online/review-fifine-ampligame-am6-condenser-mic)
 - [The React useRef Hook: Not Just for DOM Elements](https://nickyt.online/the-react-useref-hook-not-just-for-dom-elements)
 - [Valibot: A New Approach to Data Validation in JavaScript](https://nickyt.online/valibot-a-new-approach-to-data-validation-in-javascript)
