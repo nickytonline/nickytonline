@@ -6,11 +6,14 @@ Hello! My name is Nick Taylor. I'm a Senior Software Engineer at [OpenSauced](ht
 
 I am a <em>big</em> fan of TypeScript, JavaScript, Node, and all things frontend. Aside from programming, I enjoy contributing to open source, hitting the gym, snowboarding, and rugby a long time ago.
 
+[![My OpenSauced Dev Card](./dev-card.png)](https://oss.fyi/nickytonline)
+
 ---
 
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Multitenant Database Schemas](https://www.nickyt.co/blog/multitenant-database-schemas-4ofc/)
 - [Review: Fifine Ampligame AM6 Condenser Mic](https://www.nickyt.co/blog/review-fifine-ampligame-am6-condenser-mic-714/)
 - [The React useRef Hook: Not Just for DOM Elements](https://www.nickyt.co/blog/the-react-useref-hook-not-just-for-html-elements-3cf3/)
@@ -23,13 +26,11 @@ I am a <em>big</em> fan of TypeScript, JavaScript, Node, and all things frontend
 
 ## Latest Videos
 
-<!-- VIDEO-LIST:START --><aside><kbd><a href="https://www.youtube.com/watch?v=9GA2gbTa--o" title="Freaky Fast Full Stack with Expo Router + API Routes"><img src="https://img.youtube.com/vi/9GA2gbTa--o/maxresdefault.jpg" alt="Freaky Fast Full Stack with Expo Router + API Routes" width="360" height="202" /></a></kbd><kbd><a href="https://www.youtube.com/watch?v=86gJAksa9Qg" title="React Server Components with Go"><img src="https://img.youtube.com/vi/86gJAksa9Qg/maxresdefault.jpg" alt="React Server Components with Go" width="360" height="202" /></a></kbd><kbd><a href="https://www.youtube.com/watch?v=6TQ-uT3fC8Q" title="Musician to Developer"><img src="https://img.youtube.com/vi/6TQ-uT3fC8Q/maxresdefault.jpg" alt="Musician to Developer" width="360" height="202" /></a></kbd><kbd><a href="https://www.youtube.com/watch?v=kZfGCPOc2LA" title="Functional Programming Buffet"><img src="https://img.youtube.com/vi/kZfGCPOc2LA/maxresdefault.jpg" alt="Functional Programming Buffet" width="360" height="202" /></a></kbd><kbd><a href="https://www.youtube.com/watch?v=edHMgP28WL0" title="All Things Rails"><img src="https://img.youtube.com/vi/edHMgP28WL0/maxresdefault.jpg" alt="All Things Rails" width="360" height="202" /></a></kbd><kbd><a href="https://www.youtube.com/watch?v=W9XuBZsh78A" title="A maintainer's story: Managing to code is rare"><img src="https://img.youtube.com/vi/W9XuBZsh78A/maxresdefault.jpg" alt="A maintainer's story: Managing to code is rare" width="360" height="202" /></a></kbd></aside><!-- VIDEO-LIST:END -->
+<!-- VIDEO-LIST:START --><aside><kbd><a href="https://www.youtube.com/watch?v=JOqRNauMaGs" title="Open Graph Images with Cloudinary"><img src="https://img.youtube.com/vi/JOqRNauMaGs/maxresdefault.jpg" alt="Open Graph Images with Cloudinary" width="360" height="202" /></a></kbd><kbd><a href="https://www.youtube.com/watch?v=9GA2gbTa--o" title="Freaky Fast Full Stack with Expo Router + API Routes"><img src="https://img.youtube.com/vi/9GA2gbTa--o/maxresdefault.jpg" alt="Freaky Fast Full Stack with Expo Router + API Routes" width="360" height="202" /></a></kbd><kbd><a href="https://www.youtube.com/watch?v=86gJAksa9Qg" title="React Server Components with Go"><img src="https://img.youtube.com/vi/86gJAksa9Qg/maxresdefault.jpg" alt="React Server Components with Go" width="360" height="202" /></a></kbd><kbd><a href="https://www.youtube.com/watch?v=6TQ-uT3fC8Q" title="Musician to Developer"><img src="https://img.youtube.com/vi/6TQ-uT3fC8Q/maxresdefault.jpg" alt="Musician to Developer" width="360" height="202" /></a></kbd><kbd><a href="https://www.youtube.com/watch?v=kZfGCPOc2LA" title="Functional Programming Buffet"><img src="https://img.youtube.com/vi/kZfGCPOc2LA/maxresdefault.jpg" alt="Functional Programming Buffet" width="360" height="202" /></a></kbd><kbd><a href="https://www.youtube.com/watch?v=edHMgP28WL0" title="All Things Rails"><img src="https://img.youtube.com/vi/edHMgP28WL0/maxresdefault.jpg" alt="All Things Rails" width="360" height="202" /></a></kbd></aside><!-- VIDEO-LIST:END -->
 
 Check out [more videos on my YouTube channel](https://www.youtube.com/channel/UCBLlEq0co24VFJIMEHNcPOQ)
 
 ## [![Contact me on Codementor](https://www.codementor.io/m-badges/nickytonline/im-a-cm-b.svg)](https://www.codementor.io/@nickytonline?refer=badge)
-
-[🍕 my profile on OpenSauced](https://app.opensauced.pizza/user/nickytonline)
 
 media:
 
