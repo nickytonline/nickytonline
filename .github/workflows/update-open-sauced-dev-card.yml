@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Update Dev Card
-        uses: nickytonline/open-sauced-dev-card-action@main
+        uses: nickytonline/open-sauced-dev-card-action@v1.0.2
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           username: 'nickytonline'
