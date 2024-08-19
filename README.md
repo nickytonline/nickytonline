@@ -6,6 +6,8 @@ Hello! My name is Nick Taylor. I'm a Senior Software Engineer at [OpenSauced](ht
 
 I am a <em>big</em> fan of TypeScript, JavaScript, Node, and all things frontend. Aside from programming, I enjoy contributing to open source, hitting the gym, snowboarding, and rugby a long time ago.
 
+Check out my open source contribution snapshot! 👇
+
 [![My OpenSauced Dev Card](./dev-card.png)](https://oss.fyi/nickytonline)
 
 ---
