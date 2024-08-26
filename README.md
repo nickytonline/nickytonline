@@ -15,6 +15,7 @@ Check out my open source contribution snapshot! 👇
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Supercharge Your GitHub Profile: Showcase Your Open Source Contributions](https://www.nickyt.co/blog/showcase-your-open-source-contributions-with-opensauced-dev-cards-2j0k/)
 - [Multitenant Database Schemas](https://www.nickyt.co/blog/multitenant-database-schemas-4ofc/)
 - [Review: Fifine Ampligame AM6 Condenser Mic](https://www.nickyt.co/blog/review-fifine-ampligame-am6-condenser-mic-714/)
 - [The React useRef Hook: Not Just for DOM Elements](https://www.nickyt.co/blog/the-react-useref-hook-not-just-for-html-elements-3cf3/)
@@ -22,7 +23,6 @@ Check out my open source contribution snapshot! 👇
 - [The State of .NET Tooling in 2024](https://www.nickyt.co/blog/the-state-of-net-tooling-2024-169g/)
 - [Tools that keep me productive](https://www.nickyt.co/blog/tools-that-keep-me-productive-1no5/)
 - [Yet Another Newsletter: Saying goodbye](https://www.nickyt.co/blog/yet-another-newsletter-saying-goodbye-d99/)
-- [Creating an OG image using React and Netlify Edge Functions](https://www.nickyt.co/blog/creating-an-og-image-using-react-and-netlify-edge-functions-563a/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
