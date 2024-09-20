@@ -13,6 +13,7 @@ Check out my open source contribution snapshot! 👇
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing the OpenSauced Pizza GitHub Action: Automate Your Repository Management](https://www.nickyt.co/blog/introducing-the-opensauced-pizza-github-action-automate-your-repository-management-44aj/)
 - [Supercharge Your GitHub Profile: Showcase Your Open Source Contributions](https://www.nickyt.co/blog/showcase-your-open-source-contributions-with-opensauced-dev-cards-2j0k/)
 - [Multitenant Database Schemas](https://www.nickyt.co/blog/multitenant-database-schemas-4ofc/)
 - [Review: Fifine Ampligame AM6 Condenser Mic](https://www.nickyt.co/blog/review-fifine-ampligame-am6-condenser-mic-714/)
@@ -20,7 +21,6 @@ Check out my open source contribution snapshot! 👇
 - [Valibot: A New Approach to Data Validation in JavaScript](https://www.nickyt.co/blog/valibot-a-new-approach-to-data-validation-in-javascript-1mgb/)
 - [The State of .NET Tooling in 2024](https://www.nickyt.co/blog/the-state-of-net-tooling-2024-169g/)
 - [Tools that keep me productive](https://www.nickyt.co/blog/tools-that-keep-me-productive-1no5/)
-- [Yet Another Newsletter: Saying goodbye](https://www.nickyt.co/blog/yet-another-newsletter-saying-goodbye-d99/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
