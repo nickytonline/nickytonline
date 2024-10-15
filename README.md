@@ -29,8 +29,6 @@ Check out my open source contribution snapshot! 👇
 
 Check out [more videos on my YouTube channel](https://www.youtube.com/channel/UCBLlEq0co24VFJIMEHNcPOQ)
 
-## [![Contact me on Codementor](https://www.codementor.io/m-badges/nickytonline/im-a-cm-b.svg)](https://www.codementor.io/@nickytonline?refer=badge)
-
 media:
 
 - [OneTipAWeek.com](https://onetipaweek.com)
