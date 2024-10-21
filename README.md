@@ -15,7 +15,6 @@ Check out my open source contribution snapshot! 👇
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Why HTML Forms Still Rule the Web](https://www.nickyt.co/talks/why-html-forms-still-rule-the-web-netlify-compose-2024/)
 - [Creating a GitHub Copilot Extension: A Step-by-Step Guide](https://www.nickyt.co/blog/creating-your-first-github-copilot-extension-a-step-by-step-guide-28g0/)
 - [What is GenAIScript?](https://www.nickyt.co/blog/what-is-genaiscript-1mf2/)
