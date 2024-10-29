@@ -1,6 +1,6 @@
 # <em>Hi!</em> I'm Nick. 👋🏻
 
-Hi! My name is Nick Taylor. I'm a Senior Software Engineer at [OpenSauced](https://opensauced.pizza). I'm a fan of Open Source and have a growing interest in serverless and edge computing. I'm not a big fan of spiders, but I know they're doing good work eating bugs. I also [live stream](https://nickyt.live).
+Hi! My name is Nick Taylor. I'm a fan of Open Source and have a growing interest in serverless and edge computing. I'm not a big fan of spiders, but I know they're doing good work eating bugs. I also [live stream](https://nickyt.live).
 
 I am a <em>big</em> fan of TypeScript, JavaScript, Node, and all things frontend. Aside from programming, I enjoy contributing to open source, hitting the gym, snowboarding, and rugby a long time ago.
 
