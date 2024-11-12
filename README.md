@@ -15,14 +15,14 @@ Check out my open source contribution snapshot! 👇
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [End to End Testing for Browser Extensions](https://www.nickyt.co/talks/end-to-end-testing-for-browser-extensions-xtreme-js-2024/)
+- [Fresh: A Full Stack Web Framework for Deno](https://www.nickyt.co/talks/fresh--a-full-stack-web-framework-for-deno-all-things-open-2024/)
 - [Why HTML Forms Still Rule the Web](https://www.nickyt.co/talks/why-html-forms-still-rule-the-web-netlify-compose-2024/)
 - [Creating a GitHub Copilot Extension: A Step-by-Step Guide](https://www.nickyt.co/blog/creating-your-first-github-copilot-extension-a-step-by-step-guide-28g0/)
 - [What is GenAIScript?](https://www.nickyt.co/blog/what-is-genaiscript-1mf2/)
 - [Introducing the OpenSauced Pizza GitHub Action: Automate Your Repository Management](https://www.nickyt.co/blog/introducing-the-opensauced-pizza-github-action-automate-your-repository-management-44aj/)
 - [Supercharge Your GitHub Profile: Showcase Your Open Source Contributions](https://www.nickyt.co/blog/showcase-your-open-source-contributions-with-opensauced-dev-cards-2j0k/)
 - [Multitenant Database Schemas](https://www.nickyt.co/blog/multitenant-database-schemas-4ofc/)
-- [Review: Fifine Ampligame AM6 Condenser Mic](https://www.nickyt.co/blog/review-fifine-ampligame-am6-condenser-mic-714/)
-- [The React useRef Hook: Not Just for DOM Elements](https://www.nickyt.co/blog/the-react-useref-hook-not-just-for-html-elements-3cf3/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
