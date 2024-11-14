@@ -12,7 +12,7 @@ Check out my open source contribution snapshot! 👇
 
 ---
 
-## Latest Blog Posts
+## Latest Blog Posts and Talks
 
 <!-- BLOG-POST-LIST:START -->
 - [End to End Testing for Browser Extensions](https://www.nickyt.co/talks/end-to-end-testing-for-browser-extensions-xtreme-js-2024/)
