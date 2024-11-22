@@ -8,7 +8,7 @@ I'm happy where I work with my awesome team, but I'm always open to hearing abou
 
 Check out my open source contribution snapshot! 👇
 
-[![My OpenSauced Dev Card](./dev-card.png)](https://app.opensauced.pizza/u/nickytonline)
+[![My OpenSauced Dev Card](./dev-card.png)](https://app.opensauced.pizza/u/nickytonline?range=90)
 
 ---
 
