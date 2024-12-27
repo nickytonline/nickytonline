@@ -13,6 +13,7 @@ I'm happy where I work with my awesome team, but I'm always open to hearing abou
 ## Latest Blog Posts and Talks
 
 <!-- BLOG-POST-LIST:START -->
+- [My 2024 Year in Review](https://www.nickyt.co/blog/2024-year-in-review-1p7p/)
 - [End to End Testing for Browser Extensions](https://www.nickyt.co/talks/end-to-end-testing-for-browser-extensions-xtreme-js-2024/)
 - [Fresh: A Full Stack Web Framework for Deno](https://www.nickyt.co/talks/fresh--a-full-stack-web-framework-for-deno-all-things-open-2024/)
 - [Why HTML Forms Still Rule the Web](https://www.nickyt.co/talks/why-html-forms-still-rule-the-web-netlify-compose-2024/)
@@ -20,7 +21,6 @@ I'm happy where I work with my awesome team, but I'm always open to hearing abou
 - [What is GenAIScript?](https://www.nickyt.co/blog/what-is-genaiscript-1mf2/)
 - [Introducing the OpenSauced Pizza GitHub Action: Automate Your Repository Management](https://www.nickyt.co/blog/introducing-the-opensauced-pizza-github-action-automate-your-repository-management-44aj/)
 - [Supercharge Your GitHub Profile: Showcase Your Open Source Contributions](https://www.nickyt.co/blog/showcase-your-open-source-contributions-with-opensauced-dev-cards-2j0k/)
-- [Multitenant Database Schemas](https://www.nickyt.co/blog/multitenant-database-schemas-4ofc/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
