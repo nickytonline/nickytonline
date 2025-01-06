@@ -13,6 +13,7 @@ I'm happy where I work with my awesome team, but I'm always open to hearing abou
 ## Latest Blog Posts and Talks
 
 <!-- BLOG-POST-LIST:START -->
+- [Building an Ollama-Powered GitHub Copilot Extension](https://www.nickyt.co/blog/building-an-ollama-powered-github-copilot-extension-2l4n/)
 - [My 2024 Year in Review](https://www.nickyt.co/blog/2024-year-in-review-1p7p/)
 - [End to End Testing for Browser Extensions](https://www.nickyt.co/talks/end-to-end-testing-for-browser-extensions-xtreme-js-2024/)
 - [Fresh: A Full Stack Web Framework for Deno](https://www.nickyt.co/talks/fresh--a-full-stack-web-framework-for-deno-all-things-open-2024/)
@@ -20,7 +21,6 @@ I'm happy where I work with my awesome team, but I'm always open to hearing abou
 - [Creating a GitHub Copilot Extension: A Step-by-Step Guide](https://www.nickyt.co/blog/creating-your-first-github-copilot-extension-a-step-by-step-guide-28g0/)
 - [What is GenAIScript?](https://www.nickyt.co/blog/what-is-genaiscript-1mf2/)
 - [Introducing the OpenSauced Pizza GitHub Action: Automate Your Repository Management](https://www.nickyt.co/blog/introducing-the-opensauced-pizza-github-action-automate-your-repository-management-44aj/)
-- [Supercharge Your GitHub Profile: Showcase Your Open Source Contributions](https://www.nickyt.co/blog/showcase-your-open-source-contributions-with-opensauced-dev-cards-2j0k/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
