@@ -15,6 +15,7 @@ Although I'm a huge fan of open source, I'm not a big fan of spiders.
 ## Latest Newsletter Posts
 
 <!-- NEWSLETTER-POST-LIST:START -->
+- [One Tip a Week: Open VS Code in the Same Editor](https://one-tip-a-week.beehiiv.com/p/one-tip-week-open-vs-code-editor)
 <!-- NEWSLETTER-POST-LIST:END -->
 
 ## Latest Blog Posts and Talks
