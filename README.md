@@ -1,6 +1,6 @@
 # <em>Hi!</em> I'm Nick. 👋🏻
 
-Hi! My name is Nick Taylor. 
+Hi! My name is Nick Taylor.
 
 I'm a developer advocate at [Pomerium](https://pomeroum.com), a zero trust, identity-aware proxy platform that enables secure, clientless connections to web applications and services without a corporate VPN.
 
@@ -11,6 +11,11 @@ Although I'm a huge fan of open source, I'm not a big fan of spiders.
 **Find all the places you can follow me online at [nickyt.online](https://nickyt.online)**
 
 ---
+
+## Latest Newsletter Posts
+
+<!-- NEWSLETTER-POST-LIST:START -->
+<!-- NEWSLETTER-POST-LIST:END -->
 
 ## Latest Blog Posts and Talks
 
