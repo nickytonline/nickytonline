@@ -1,8 +1,9 @@
 name: Latest Newsletter Posts
 on:
   schedule:
-    # Runs every day at midnight UTC
-    - cron: '0 0 * * *'
+    # 7:15 AM Eastern, accounting for DST
+    - cron: '15 11 * 3-11 1'  # EDT (March-November)
+    - cron: '15 12 * 1,2,12 1'  # EST (December-February)
   workflow_dispatch:
 
 jobs:
