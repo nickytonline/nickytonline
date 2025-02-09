@@ -23,14 +23,14 @@ Although I'm a huge fan of open source, I'm not a big fan of spiders.
 ## Latest Blog Posts and Talks
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Zero Trust Security?](https://www.nickyt.co/blog/what-is-zero-trust-4ob9/)
+- [The RayCast Port Manager Extension](https://www.nickyt.co/blog/the-raycast-port-manager-extension-lca/)
 - [I’m joining Pomerium!](https://www.nickyt.co/blog/im-joining-pomerium-225j/)
 - [Building an Ollama-Powered GitHub Copilot Extension](https://www.nickyt.co/blog/building-an-ollama-powered-github-copilot-extension-2l4n/)
 - [My 2024 Year in Review](https://www.nickyt.co/blog/2024-year-in-review-1p7p/)
 - [End to End Testing for Browser Extensions](https://www.nickyt.co/talks/end-to-end-testing-for-browser-extensions-xtreme-js-2024/)
 - [Fresh: A Full Stack Web Framework for Deno](https://www.nickyt.co/talks/fresh--a-full-stack-web-framework-for-deno-all-things-open-2024/)
 - [Why HTML Forms Still Rule the Web](https://www.nickyt.co/talks/why-html-forms-still-rule-the-web-netlify-compose-2024/)
-- [Creating a GitHub Copilot Extension: A Step-by-Step Guide](https://www.nickyt.co/blog/creating-your-first-github-copilot-extension-a-step-by-step-guide-28g0/)
-- [What is GenAIScript?](https://www.nickyt.co/blog/what-is-genaiscript-1mf2/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
