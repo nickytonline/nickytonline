@@ -16,7 +16,7 @@ const {YOUTUBE_API_KEY} = process.env;
 const playlists = [
   {
     id: 'PLcR4ZgxWXeICy2QVTV-6HuEHfl9DcAuq7', // nickyt.live
-    maxVideos: 4,
+    maxVideos: 2,
     reversed: false,
   },
   {
