@@ -9,6 +9,7 @@ jobs:
   update_profile_data:
     name: Update readme videos
     runs-on: ubuntu-latest
+    environment: all
     steps:
       - uses: actions/checkout@v2
       - name: Setup Node.js
@@ -16,6 +17,8 @@ jobs:
         with:
           node-version: '22'
       - name: Update README
+        env:
+          YOUTUBE_API_KEY: ${{ vars.YOUTUBE_API_KEY }}
         run: |
           cd scripts
           npm install
