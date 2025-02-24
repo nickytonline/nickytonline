@@ -29,6 +29,11 @@ const playlists = [
     maxVideos: 2,
     reversed: false,
   },
+  {
+    id: 'PLcR4ZgxWXeIAa0VXPJQ7fgXkx73A5TeGU', // Guest Appearances
+    maxVideos: 2,
+    reversed: false,
+  },  
 ] as const;
 
 const THUMBNAIL_QUALITIES = [
