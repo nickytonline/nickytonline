@@ -1,6 +1,4 @@
-# <em>Hi!</em> I'm Nick. 👋🏻
-
-Hi! My name is Nick Taylor.
+# <em>Hi!</em> I'm Nick Taylor. 👋🏻
 
 I'm a developer advocate at [Pomerium](https://pomeroum.com), a zero trust, identity-aware proxy platform that enables secure, clientless connections to web applications and services without a corporate VPN.
 
