@@ -31,7 +31,11 @@ async function main() {
 }
 
 async function getUpcomingStreams() {
-  const parser = new Parser();
+  const parser = new Parser({
+    customFields: {
+      item: [['media:thumbnail', 'thumbnail', {keepArray: false}]],
+    },
+  });
 
   try {
     const feed = await parser.parseURL(FEED_URL);
@@ -49,6 +53,7 @@ async function getUpcomingStreams() {
             .pop()
             ?.replace(/\d{4}.*$/, '') || 'TBD',
         description: item.content || '',
+        thumbnailUrl: item.thumbnail?.$.url || '',
       }))
       .filter((stream) => stream.date > now) // Only future streams
       .sort((a, b) => a.date.getTime() - b.date.getTime()); // Sort by date ascending
@@ -76,30 +81,35 @@ async function generateScheduleMarkup(streams) {
     });
 
     const title = `${stream.title} - ${formattedDate}`;
-    const videoId = stream.link.split('v=')[1];
-    let thumbnailUrl = '';
+    let thumbnailUrl = stream.thumbnailUrl;
 
-    if (videoId) {
-      for (const quality of [
-        'maxresdefault.jpg',
-        'sddefault.jpg',
-        'hqdefault.jpg',
-        'mqdefault.jpg',
-        'default.jpg',
-      ]) {
-        const url = `https://img.youtube.com/vi/${videoId}/${quality}`;
-        try {
-          const response = await fetch(url);
-          if (response.ok) {
-            thumbnailUrl = url;
-            break;
+    // Only try YouTube thumbnails if we don't have one from the RSS feed
+    if (!thumbnailUrl) {
+      const videoId = stream.link?.split('v=')[1];
+      if (videoId) {
+        for (const quality of [
+          'maxresdefault.jpg',
+          'sddefault.jpg',
+          'hqdefault.jpg',
+          'mqdefault.jpg',
+          'default.jpg',
+        ]) {
+          const url = `https://img.youtube.com/vi/${videoId}/${quality}`;
+          try {
+            const response = await fetch(url);
+            if (response.ok) {
+              thumbnailUrl = url;
+              break;
+            }
+          } catch (error) {
+            console.error(`Failed to fetch thumbnail: ${url}`);
+            continue;
           }
-        } catch (error) {
-          console.error(`Failed to fetch thumbnail: ${url}`);
-          continue;
         }
       }
+    }
 
+    if (thumbnailUrl) {
       markup += `<a href="${stream.link}" title="${title}"><img src="${thumbnailUrl}" alt="${title}" width="400" height="225" loading="lazy" /></a>&nbsp;&nbsp;`;
     }
   }
