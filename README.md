@@ -17,6 +17,7 @@ Although I'm a huge fan of open source, I'm not a big fan of spiders.
 - [One Tip a Week: The Exclude Git Ignore VS Code Setting](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-the-exclude-git-ignore-vs-code-setting)
 - [One Tip a Week: An Alias for Flushing DNS](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-an-alias-for-flushing-dns)
 - [One Tip a Week: What&#39;s Up McFly?](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-what-s-up-mcfly)
+- [One Tip a Week: You should install OpenWebUI](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-you-should-install-openwebui)
 <!-- NEWSLETTER-POST-LIST:END -->
 
 ## Latest Blog Posts and Talks
