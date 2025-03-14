@@ -21,7 +21,7 @@ const playlists = [
   },
   {
     id: 'PLZDPKYkCEQk07B0HWWOKH3bqpqOUQuOOk', // 2 Full 2 Stack
-    maxVideos: 3,
+    maxVideos: 2,
     reversed: true,
   },
   {
