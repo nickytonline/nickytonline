@@ -13,11 +13,11 @@ Although I'm a huge fan of open source, I'm not a big fan of spiders.
 ## Latest Newsletter Posts
 
 <!-- NEWSLETTER-POST-LIST:START -->
+- [One Tip a Week: Keyboard Shortcuts for Moving Focus in VS Code](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-keyboard-shortcuts-for-moving-focus-in-vs-code)
 - [One Tip a Week: Orbstack](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-orbstack)
 - [One Tip a Week: grep.app](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-grep-app)
 - [One Tip a Week: VS Code Native Auto Theme Switcher](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-vs-code-native-auto-theme-switcher)
 - [One Tip a Week: Set some defaults for npm init -y](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-set-some-defaults-for-npm-init-y)
-- [One Tip a Week: The Exclude Git Ignore VS Code Setting](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-the-exclude-git-ignore-vs-code-setting)
 <!-- NEWSLETTER-POST-LIST:END -->
 
 ## Latest Blog Posts and Talks
