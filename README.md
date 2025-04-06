@@ -24,10 +24,10 @@ Although I'm a huge fan of open source, I'm not a big fan of spiders.
 
 <!-- BLOG-POST-LIST:START -->
 - [Let&#39;s Create a GitHub Copilot Extension!](https://www.nickyt.co/talks/let-s-create-a-github-copilot-extension--all-things-open-ai/)
+- [Let&#39;s Create a GitHub Copilot Extension](https://www.nickyt.co/talks/let-s-create-a-github-copilot-extension-confoo-2025/)
+- [Back to Basics: Why HTML Forms Still Rule the Web](https://www.nickyt.co/talks/back-to-basics--why-html-forms-still-rule-the-web-confoo-2025/)
 - [What is Zero Trust Security?](https://www.nickyt.co/blog/what-is-zero-trust-4ob9/)
 - [The RayCast Port Manager Extension](https://www.nickyt.co/blog/the-raycast-port-manager-extension-lca/)
-- [I’m joining Pomerium!](https://www.nickyt.co/blog/im-joining-pomerium-225j/)
-- [Building an Ollama-Powered GitHub Copilot Extension](https://www.nickyt.co/blog/building-an-ollama-powered-github-copilot-extension-2l4n/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Upcoming Live Streams
