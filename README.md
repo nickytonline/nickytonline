@@ -23,11 +23,11 @@ Although I'm a huge fan of open source, I'm not a big fan of spiders.
 ## Latest Blog Posts and Talks
 
 <!-- BLOG-POST-LIST:START -->
+- [Rethinking Authorization in the Age of AI Agents](https://www.nickyt.co/blog/rethinking-authorization-in-the-age-of-ai-agents-110c/)
 - [BenQ RD280U Review: A 28&quot; 4K Monitor Built for Developers](https://www.nickyt.co/blog/benq-rd280u-review-a-28-4k-monitor-built-for-developers-20d2/)
 - [London Adventures: KubeCon EU 2025, SREday and More!](https://www.nickyt.co/blog/london-adventures-kubecon-eu-2025-sreday-and-more-3igl/)
 - [Pomerium 0.29.0 is Here!](https://www.nickyt.co/blog/pomerium-0290-is-here-2km4/)
 - [Let&#39;s Create a GitHub Copilot Extension!](https://www.nickyt.co/talks/let-s-create-a-github-copilot-extension--all-things-open-ai/)
-- [Let&#39;s Create a GitHub Copilot Extension](https://www.nickyt.co/talks/let-s-create-a-github-copilot-extension-confoo-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Upcoming Live Streams
