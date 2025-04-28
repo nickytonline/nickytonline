@@ -13,11 +13,11 @@ Although I'm a huge fan of open source, I'm not a big fan of spiders.
 ## Latest Newsletter Posts
 
 <!-- NEWSLETTER-POST-LIST:START -->
+- [One Tip a Week: ripgrep](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-ripgrep)
 - [One Tip a Week: Dato](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-dato)
 - [One Tip a Week: VS Code&#39;s JavaScript Debug Terminal](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-vs-code-s-javascript-debug-terminal)
 - [One Tip a Week: TouchID for sudo commands](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-touchid-for-sudo-commands)
 - [One Tip a Week: Keyboard Shortcuts for Moving Focus in VS Code](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-keyboard-shortcuts-for-moving-focus-in-vs-code)
-- [One Tip a Week: Orbstack](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-orbstack)
 <!-- NEWSLETTER-POST-LIST:END -->
 
 ## Latest Blog Posts and Talks
