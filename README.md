@@ -32,7 +32,7 @@ Although I'm a huge fan of open source, I'm not a big fan of spiders.
 
 ## Upcoming Live Streams
 
-<!-- STREAM-SCHEDULE:START --><aside><a href="https://www.youtube.com/watch?v=uuZcPJHMtGA" title="Just the Hardest 5% - Tue, Apr 29, 02:30 PM UTC"><img src="https://img.youtube.com/vi/uuZcPJHMtGA/maxresdefault.jpg" alt="Just the Hardest 5% - Tue, Apr 29, 02:30 PM UTC" width="400" height="225" loading="lazy" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=cnPKMjnakvs" title="AX + MCP + Netlify - Thu, Jun 19, 05:15 PM UTC"><img src="https://img.youtube.com/vi/cnPKMjnakvs/maxresdefault.jpg" alt="AX + MCP + Netlify - Thu, Jun 19, 05:15 PM UTC" width="400" height="225" loading="lazy" /></a>&nbsp;&nbsp;</aside><!-- STREAM-SCHEDULE:END -->
+<!-- STREAM-SCHEDULE:START --><aside><a href="https://www.youtube.com/watch?v=cnPKMjnakvs" title="AX + MCP + Netlify - Thu, Jun 19, 05:15 PM UTC"><img src="https://img.youtube.com/vi/cnPKMjnakvs/maxresdefault.jpg" alt="AX + MCP + Netlify - Thu, Jun 19, 05:15 PM UTC" width="400" height="225" loading="lazy" /></a>&nbsp;&nbsp;</aside><!-- STREAM-SCHEDULE:END -->
 
 ## Latest Videos
 
