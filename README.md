@@ -23,11 +23,11 @@ Although I'm a huge fan of open source, I'm not a big fan of spiders.
 ## Latest Blog Posts and Talks
 
 <!-- BLOG-POST-LIST:START -->
+- [Go&#39;s singleflight package and why it&#39;s awesome for concurrent requests](https://www.nickyt.co/blog/gos-singleflight-package-and-why-its-awesome-for-concurrent-requests-4122/)
 - [BenQ RD280U Review: A 28&quot; 4K Monitor Built for Developers](https://www.nickyt.co/blog/benq-rd280u-review-a-28-4k-monitor-built-for-developers-20d2/)
 - [London Adventures: KubeCon EU 2025, SREday and More!](https://www.nickyt.co/blog/london-adventures-kubecon-eu-2025-sreday-and-more-3igl/)
 - [Let&#39;s Create a GitHub Copilot Extension!](https://www.nickyt.co/talks/let-s-create-a-github-copilot-extension--all-things-open-ai/)
 - [Let&#39;s Create a GitHub Copilot Extension](https://www.nickyt.co/talks/let-s-create-a-github-copilot-extension-confoo-2025/)
-- [Back to Basics: Why HTML Forms Still Rule the Web](https://www.nickyt.co/talks/back-to-basics--why-html-forms-still-rule-the-web-confoo-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Upcoming Live Streams
