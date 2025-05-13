@@ -28,10 +28,10 @@ Areas of interest: infrastructure, security, open source, developer tooling, fro
 
 <!-- BLOG-POST-LIST:START -->
 - [Go&#39;s singleflight package and why it&#39;s awesome for concurrent requests](https://www.nickyt.co/blog/gos-singleflight-package-and-why-its-awesome-for-concurrent-requests-4122/)
+- [Zero Trust: From Airports to Identity-Aware Proxies](https://www.nickyt.co/talks/zero-trust--from-airports-to-identity-aware-proxies-sreday-redmond-2025-q2/)
 - [BenQ RD280U Review: A 28&quot; 4K Monitor Built for Developers](https://www.nickyt.co/blog/benq-rd280u-review-a-28-4k-monitor-built-for-developers-20d2/)
+- [Zero Trust: From Airports to Identity-Aware Proxies](https://www.nickyt.co/talks/zero-trust--from-airports-to-identity-aware-proxies-sreday-san-francisco-2025-q2/)
 - [London Adventures: KubeCon EU 2025, SREday and More!](https://www.nickyt.co/blog/london-adventures-kubecon-eu-2025-sreday-and-more-3igl/)
-- [Let&#39;s Create a GitHub Copilot Extension!](https://www.nickyt.co/talks/let-s-create-a-github-copilot-extension--all-things-open-ai/)
-- [Let&#39;s Create a GitHub Copilot Extension](https://www.nickyt.co/talks/let-s-create-a-github-copilot-extension-confoo-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Upcoming Live Streams
