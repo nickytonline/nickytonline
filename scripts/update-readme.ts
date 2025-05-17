@@ -151,7 +151,15 @@ async function getVideosFromAPI(playlistId: string, maxVideos) {
 
     console.log(`Retrieved ${items.length} items from playlist ${playlistId} (${secondLastPageResponse.data.items?.length || 0} from second-to-last page, ${lastPageResponse.data.items?.length || 0} from last page)`);
 
-    const lastTwoItems = items.slice(-maxVideos);
+    // Filter out specific video for 2 Full 2 Stack playlist
+    const filteredItems = items.filter(item => {
+      if (playlistId === 'PLZDPKYkCEQk07B0HWWOKH3bqpqOUQuOOk') { // 2 Full 2 Stack playlist
+        return item.snippet.title !== 'Work Hobbies: Turning Idle Time Into Career Growth by Alicia Bendz';
+      }
+      return true;
+    });
+
+    const lastTwoItems = filteredItems.slice(-maxVideos);
     console.log(`Selected ${lastTwoItems.length} items from playlist ${playlistId}`);
 
     return lastTwoItems.map((item) => ({
