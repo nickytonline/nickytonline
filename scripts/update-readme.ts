@@ -16,24 +16,20 @@ const {YOUTUBE_API_KEY} = process.env;
 const playlists = [
   {
     id: 'PLcR4ZgxWXeICy2QVTV-6HuEHfl9DcAuq7', // nickyt.live
-    maxVideos: 2,
     reversed: false,
   },
   {
     id: 'PLZDPKYkCEQk07B0HWWOKH3bqpqOUQuOOk', // 2 Full 2 Stack
-    maxVideos: 2,
     reversed: true,
   },
   {
     id: 'PLZWncRoWaoFxwV4ZoTC-TydJYZ1c_FEGJ', // Pomerium Live
-    maxVideos: 2,
     reversed: false,
   },
   {
     id: 'PLcR4ZgxWXeIAa0VXPJQ7fgXkx73A5TeGU', // Guest Appearances
-    maxVideos: 2,
     reversed: false,
-  },  
+  },
 ] as const;
 
 const THUMBNAIL_QUALITIES = [
@@ -52,7 +48,7 @@ async function main() {
 
       if (playlist.reversed) {
         // Use YouTube API for reversed playlists
-        videos = await getVideosFromAPI(playlist.id, playlist.maxVideos);
+        videos = await getVideosFromAPI(playlist.id, 2);
       } else {
         // Use RSS for non-reversed playlists
         videos = await getVideosFromRSS(
@@ -75,7 +71,7 @@ async function main() {
         return b.timestamp - a.timestamp;
       });
 
-      return sortedVideos.slice(0, playlistConfig.maxVideos);
+      return sortedVideos.slice(0, 2);
     })
     .flat();
 
@@ -106,7 +102,7 @@ async function main() {
   console.log('Total videos:', finalVideos.length);
 }
 
-async function getVideosFromAPI(playlistId: string, maxVideos: number) {
+async function getVideosFromAPI(playlistId: string, maxVideos) {
   const youtube = google.youtube({
     version: 'v3',
     auth: YOUTUBE_API_KEY,
@@ -121,23 +117,42 @@ async function getVideosFromAPI(playlistId: string, maxVideos: number) {
     });
 
     const totalItems = playlistInfo.data.pageInfo.totalResults;
+    console.log(`Playlist ${playlistId} has ${totalItems} total items`);
+
     const pageSize = 20; // Items per page
-
-    // Calculate which page has the last items
-    // We subtract 1 from totalItems since pages are 0-based
     const lastPageIndex = Math.floor((totalItems - 1) / pageSize);
-    const pageToken = await getPageToken(youtube, playlistId, lastPageIndex, pageSize);
+    const secondLastPageIndex = Math.max(0, lastPageIndex - 1);
 
-    // Get the last page
-    const response = await youtube.playlistItems.list({
-      part: 'snippet,contentDetails',
-      playlistId: playlistId,
-      maxResults: pageSize,
-      pageToken: pageToken,
-    });
+    // Get tokens for both last and second-to-last pages
+    const lastPageToken = await getPageToken(youtube, playlistId, lastPageIndex, pageSize);
+    const secondLastPageToken = await getPageToken(youtube, playlistId, secondLastPageIndex, pageSize);
 
-    const items = response.data.items;
+    // Get both pages
+    const [lastPageResponse, secondLastPageResponse] = await Promise.all([
+      youtube.playlistItems.list({
+        part: 'snippet,contentDetails',
+        playlistId: playlistId,
+        maxResults: pageSize,
+        pageToken: lastPageToken,
+      }),
+      youtube.playlistItems.list({
+        part: 'snippet,contentDetails',
+        playlistId: playlistId,
+        maxResults: pageSize,
+        pageToken: secondLastPageToken,
+      })
+    ]);
+
+    // Combine items from both pages
+    const items = [
+      ...(secondLastPageResponse.data.items || []),
+      ...(lastPageResponse.data.items || [])
+    ];
+
+    console.log(`Retrieved ${items.length} items from playlist ${playlistId} (${secondLastPageResponse.data.items?.length || 0} from second-to-last page, ${lastPageResponse.data.items?.length || 0} from last page)`);
+
     const lastTwoItems = items.slice(-maxVideos);
+    console.log(`Selected ${lastTwoItems.length} items from playlist ${playlistId}`);
 
     return lastTwoItems.map((item) => ({
       title: item.snippet.title,
@@ -161,6 +176,7 @@ async function getVideosFromRSS(videoFeedUrl) {
 
   try {
     const feed = await parser.parseURL(videoFeedUrl);
+    console.log(`Retrieved ${feed.items.length} items from RSS feed ${videoFeedUrl}`);
 
     return feed.items.map((m) => ({
       title: m.title,
@@ -171,6 +187,7 @@ async function getVideosFromRSS(videoFeedUrl) {
     }));
   } catch (error) {
     console.error(`Error fetching feed from ${videoFeedUrl}:`, error);
+    return [];
   }
 }
 
@@ -237,7 +254,10 @@ async function getPageToken(youtube, playlistId, targetPage, pageSize) {
     currentToken = response.data.nextPageToken;
     currentPage++;
 
-    if (!currentToken) break;
+    if (!currentToken) {
+      console.log(`No more pages after page ${currentPage} for playlist ${playlistId}`);
+      break;
+    }
   }
 
   return currentToken;
