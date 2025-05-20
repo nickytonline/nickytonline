@@ -24,6 +24,8 @@ Areas of interest: infrastructure, security, open source, developer tooling, fro
 - [One Tip a Week: VS Code&#39;s JavaScript Debug Terminal](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-vs-code-s-javascript-debug-terminal)
 <!-- NEWSLETTER-POST-LIST:END -->
 
+Not subscribed? [Subscribe](https://onetipaweek.com) and join other folks that are getting value from [OneTipAWeek.com](https://onetipaweek.com).
+
 ## Latest Blog Posts and Talks
 
 <!-- BLOG-POST-LIST:START -->
