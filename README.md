@@ -29,11 +29,11 @@ Not subscribed? [Subscribe](https://onetipaweek.com) and join other folks that a
 ## Latest Blog Posts and Talks
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting McFly Working on Ubuntu Server](https://www.nickyt.co/blog/getting-mcfly-working-on-ubuntu-server-without-losing-your-mind-2k5e/)
 - [Astro Server Islands: How They Work and When to Use Them](https://www.nickyt.co/blog/set-sail-for-server-islands-how-they-work-and-when-to-use-them-1p76/)
 - [Funding in Open Source: A Conversation with Chad Whitacre](https://www.nickyt.co/blog/funding-in-open-source-a-conversation-with-chad-whitacre-4264/)
 - [Go&#39;s singleflight package and why it&#39;s awesome for concurrent requests](https://www.nickyt.co/blog/gos-singleflight-package-and-why-its-awesome-for-concurrent-requests-4122/)
 - [BenQ RD280U Review: A 28&quot; 4K Monitor Built for Developers](https://www.nickyt.co/blog/benq-rd280u-review-a-28-4k-monitor-built-for-developers-20d2/)
-- [London Adventures: KubeCon EU 2025, SREday and More!](https://www.nickyt.co/blog/london-adventures-kubecon-eu-2025-sreday-and-more-3igl/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Upcoming Live Streams
