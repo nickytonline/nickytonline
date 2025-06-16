@@ -17,11 +17,11 @@ Areas of interest: infrastructure, security, open source, developer tooling, fro
 ## Latest Newsletter Posts
 
 <!-- NEWSLETTER-POST-LIST:START -->
+- [One Tip a Week: VS Code’s Timeline View](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-vs-code-s-timeline-view)
 - [One Tip a Week: Paste Markdown and Copy to Markdown in Google Docs](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-paste-markdown-and-copy-to-markdown-in-google-docs)
 - [One Tip a Week: Raycast’s Auto-Join for Meetings](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-raycast-s-auto-join-for-meetings)
 - [One Tip a Week: A git alias for showing your git aliases](https://one-tip-a-week.beehiiv.com/p/one-tip-week-git-alias-showing-git-aliases)
 - [One Tip a Week: Change VS Code&#39;s Title Bar](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-change-vs-code-s-title-bar)
-- [One Tip a Week: Git Aliases for Conventional Commits](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-git-aliases-for-conventional-commits)
 <!-- NEWSLETTER-POST-LIST:END -->
 
 Not subscribed? [Subscribe](https://onetipaweek.com) and join other folks that are getting value from [OneTipAWeek.com](https://onetipaweek.com).
