@@ -38,7 +38,7 @@ Not subscribed? [Subscribe](https://onetipaweek.com) and join other folks that a
 
 ## Upcoming Live Streams
 
-<!-- STREAM-SCHEDULE:START --><aside><a href="https://cfe.dev/talkshows/2full2stack-june2025/" title="Astro-fy All the Things! - Wed, Jun 18, 05:00 PM UTC"><img src="https://cfe.dev/img/banners/2full2stack-061825.png" alt="Astro-fy All the Things! - Wed, Jun 18, 05:00 PM UTC" width="400" height="225" loading="lazy" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=cnPKMjnakvs" title="AX + MCP + Netlify - Thu, Jun 19, 05:15 PM UTC"><img src="https://img.youtube.com/vi/cnPKMjnakvs/maxresdefault.jpg" alt="AX + MCP + Netlify - Thu, Jun 19, 05:15 PM UTC" width="400" height="225" loading="lazy" /></a>&nbsp;&nbsp;</aside><!-- STREAM-SCHEDULE:END -->
+<!-- STREAM-SCHEDULE:START --><aside><a href="https://cfe.dev/talkshows/2full2stack-june2025/" title="Astro-fy All the Things! - Wed, Jun 18, 05:00 PM UTC"><img src="https://cfe.dev/img/banners/2full2stack-061825.png" alt="Astro-fy All the Things! - Wed, Jun 18, 05:00 PM UTC" width="400" height="225" loading="lazy" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=sIoc2ZrzNVw" title="Let's Explore Langflow - Thu, Jun 19, 03:00 PM UTC"><img src="https://img.youtube.com/vi/sIoc2ZrzNVw/maxresdefault.jpg" alt="Let's Explore Langflow - Thu, Jun 19, 03:00 PM UTC" width="400" height="225" loading="lazy" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=cnPKMjnakvs" title="AX + MCP + Netlify - Thu, Jun 19, 05:15 PM UTC"><img src="https://img.youtube.com/vi/cnPKMjnakvs/maxresdefault.jpg" alt="AX + MCP + Netlify - Thu, Jun 19, 05:15 PM UTC" width="400" height="225" loading="lazy" /></a>&nbsp;&nbsp;</aside><!-- STREAM-SCHEDULE:END -->
 
 ## Latest Videos
 
