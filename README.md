@@ -38,7 +38,7 @@ Not subscribed? [Subscribe](https://onetipaweek.com) and join other folks that a
 
 ## Upcoming Live Streams
 
-<!-- STREAM-SCHEDULE:START --><aside><a href="https://www.youtube.com/watch?v=Ky_Bpu7d5z8" title="New Things Coming to Astro - Thu, Jun 26, 02:30 PM UTC"><img src="https://img.youtube.com/vi/Ky_Bpu7d5z8/maxresdefault.jpg" alt="New Things Coming to Astro - Thu, Jun 26, 02:30 PM UTC" width="400" height="225" loading="lazy" /></a>&nbsp;&nbsp;<a href="https://cfe.dev/talkshows/2full2stack-july2025/" title="Astro All Day Long! - Thu, Jul 17, 05:00 PM UTC"><img src="https://cfe.dev/img/banners/2full2stack-071725.png" alt="Astro All Day Long! - Thu, Jul 17, 05:00 PM UTC" width="400" height="225" loading="lazy" /></a>&nbsp;&nbsp;</aside><!-- STREAM-SCHEDULE:END -->
+<!-- STREAM-SCHEDULE:START --><aside><a href="https://cfe.dev/talkshows/2full2stack-july2025/" title="Astro All Day Long! - Thu, Jul 17, 05:00 PM UTC"><img src="https://cfe.dev/img/banners/2full2stack-071725.png" alt="Astro All Day Long! - Thu, Jul 17, 05:00 PM UTC" width="400" height="225" loading="lazy" /></a>&nbsp;&nbsp;</aside><!-- STREAM-SCHEDULE:END -->
 
 ## Latest Videos
 
