@@ -38,7 +38,7 @@ Not subscribed? [Subscribe](https://onetipaweek.com) and join other folks that a
 
 ## Upcoming Live Streams
 
-<!-- STREAM-SCHEDULE:START --><aside><a href="https://www.youtube.com/watch?v=b-dztQ-r3-M" title="What Modern PHP Actually Looks Like - Wed, Aug 20, 02:30 PM UTC"><img src="https://img.youtube.com/vi/b-dztQ-r3-M/maxresdefault.jpg" alt="What Modern PHP Actually Looks Like - Wed, Aug 20, 02:30 PM UTC" width="400" height="225" loading="lazy" /></a>&nbsp;&nbsp;</aside><!-- STREAM-SCHEDULE:END -->
+<!-- STREAM-SCHEDULE:START --><aside><a href="https://cfe.dev/talkshows/2full2stack-august2025/" title="Mission: Astro Migration - Mon, Aug 18, 05:00 PM UTC"><img src="https://cfe.dev/img/banners/2full2stack-081825.png" alt="Mission: Astro Migration - Mon, Aug 18, 05:00 PM UTC" width="400" height="225" loading="lazy" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=b-dztQ-r3-M" title="What Modern PHP Actually Looks Like - Wed, Aug 20, 02:30 PM UTC"><img src="https://img.youtube.com/vi/b-dztQ-r3-M/maxresdefault.jpg" alt="What Modern PHP Actually Looks Like - Wed, Aug 20, 02:30 PM UTC" width="400" height="225" loading="lazy" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=4fAckR84sh4" title="Productivity Tips for AI Tools - Tue, Sep 23, 02:30 PM UTC"><img src="https://img.youtube.com/vi/4fAckR84sh4/maxresdefault.jpg" alt="Productivity Tips for AI Tools - Tue, Sep 23, 02:30 PM UTC" width="400" height="225" loading="lazy" /></a>&nbsp;&nbsp;</aside><!-- STREAM-SCHEDULE:END -->
 
 ## Latest Videos
 
