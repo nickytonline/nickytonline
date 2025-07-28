@@ -17,11 +17,11 @@ Areas of interest: infrastructure, security, open source, developer tooling, fro
 ## Latest Newsletter Posts
 
 <!-- NEWSLETTER-POST-LIST:START -->
+- [One Tip a Week: GitHub CLI](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-github-cli)
 - [One Tip a Week: Git Worktrees](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-git-worktrees)
 - [One Tip a Week: Log Points](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-log-points)
 - [One Tip a Week: Raycast 🤝 MCP](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-raycast-mcp)
 - [One Tip a Week: opencode](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-opencode)
-- [One Tip a Week: Slim Your Shell History](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-slim-your-shell-history-c203)
 <!-- NEWSLETTER-POST-LIST:END -->
 
 Not subscribed? [Subscribe](https://onetipaweek.com) and join other folks that are getting value from [OneTipAWeek.com](https://onetipaweek.com).
