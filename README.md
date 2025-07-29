@@ -29,11 +29,11 @@ Not subscribed? [Subscribe](https://onetipaweek.com) and join other folks that a
 ## Latest Blog Posts and Talks
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing the dev.to MCP server](https://www.nickyt.co/blog/introducing-the-devto-mcp-server-42jg/)
 - [Git Worktrees: Git Done Right](https://www.nickyt.co/blog/git-worktrees-git-done-right-2p7f/)
 - [Don&#39;t Get Rate-Limited: Use Let&#39;s Encrypt Staging](https://www.nickyt.co/blog/dont-get-rate-limited-use-lets-encrypt-staging-4kk2/)
 - [Getting McFly Working on Ubuntu Server](https://www.nickyt.co/blog/getting-mcfly-working-on-ubuntu-server-without-losing-your-mind-2k5e/)
 - [Astro Server Islands: How They Work and When to Use Them](https://www.nickyt.co/blog/set-sail-for-server-islands-how-they-work-and-when-to-use-them-1p76/)
-- [Funding in Open Source: A Conversation with Chad Whitacre](https://www.nickyt.co/blog/funding-in-open-source-a-conversation-with-chad-whitacre-4264/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Upcoming Live Streams
