@@ -17,11 +17,11 @@ Areas of interest: infrastructure, security, open source, developer tooling, fro
 ## Latest Newsletter Posts
 
 <!-- NEWSLETTER-POST-LIST:START -->
+- [One Tip a Week: Auto Restart TS &amp; ESLint Servers VS Code extension](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-auto-restart-ts-eslint-servers-vs-code-extension)
 - [One Tip a Week: Zustand Middleware &amp; Storage](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-zustand-middleware-storage)
 - [One Tip a Week: GitHub Code Search](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-github-code-search)
 - [One Tip a Week: Try console.table&lpar;&rpar;](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-try-console-table)
 - [One Tip a Week: ffmpeg + AI = Easy GIFs](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-ffmpeg-ai-easy-gifs-7b7c)
-- [One Tip a Week: Stay Caffeinated?](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-stay-caffeinated)
 <!-- NEWSLETTER-POST-LIST:END -->
 
 Not subscribed? [Subscribe](https://onetipaweek.com) and join other folks that are getting value from [OneTipAWeek.com](https://onetipaweek.com).
