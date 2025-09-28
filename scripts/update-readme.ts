@@ -16,19 +16,12 @@ const {YOUTUBE_API_KEY} = process.env;
 const playlists = [
   {
     id: 'PLcR4ZgxWXeICy2QVTV-6HuEHfl9DcAuq7', // nickyt.live
-    reversed: false,
-  },
-  {
-    id: 'PLZDPKYkCEQk07B0HWWOKH3bqpqOUQuOOk', // 2 Full 2 Stack
-    reversed: true,
   },
   {
     id: 'PLZWncRoWaoFxwV4ZoTC-TydJYZ1c_FEGJ', // Pomerium Live
-    reversed: false,
   },
   {
     id: 'PLcR4ZgxWXeIAa0VXPJQ7fgXkx73A5TeGU', // Guest Appearances
-    reversed: false,
   },
 ] as const;
 
@@ -46,15 +39,10 @@ async function main() {
     playlists.map(async (playlist, index) => {
       let videos;
 
-      if (playlist.reversed) {
-        // Use YouTube API for reversed playlists
-        videos = await getVideosFromAPI(playlist.id, 2);
-      } else {
-        // Use RSS for non-reversed playlists
-        videos = await getVideosFromRSS(
-          `https://www.youtube.com/feeds/videos.xml?playlist_id=${playlist.id}`
-        );
-      }
+      // Use RSS for non-reversed playlists
+      videos = await getVideosFromRSS(
+        `https://www.youtube.com/feeds/videos.xml?playlist_id=${playlist.id}`
+      );
 
       return videos.map((video) => ({...video, playlistIndex: index}));
     })
@@ -71,7 +59,7 @@ async function main() {
         return b.timestamp - a.timestamp;
       });
 
-      return sortedVideos.slice(0, 2);
+      return sortedVideos.slice(0, 4);
     })
     .flat();
 
@@ -100,79 +88,6 @@ async function main() {
   }, {});
   console.log('Videos per playlist:', finalCounts);
   console.log('Total videos:', finalVideos.length);
-}
-
-async function getVideosFromAPI(playlistId: string, maxVideos) {
-  const youtube = google.youtube({
-    version: 'v3',
-    auth: YOUTUBE_API_KEY,
-  });
-
-  try {
-    // First get total items in playlist
-    const playlistInfo = await youtube.playlistItems.list({
-      part: 'id',
-      playlistId: playlistId,
-      maxResults: 1,
-    });
-
-    const totalItems = playlistInfo.data.pageInfo.totalResults;
-    console.log(`Playlist ${playlistId} has ${totalItems} total items`);
-
-    const pageSize = 20; // Items per page
-    const lastPageIndex = Math.floor((totalItems - 1) / pageSize);
-    const secondLastPageIndex = Math.max(0, lastPageIndex - 1);
-
-    // Get tokens for both last and second-to-last pages
-    const lastPageToken = await getPageToken(youtube, playlistId, lastPageIndex, pageSize);
-    const secondLastPageToken = await getPageToken(youtube, playlistId, secondLastPageIndex, pageSize);
-
-    // Get both pages
-    const [lastPageResponse, secondLastPageResponse] = await Promise.all([
-      youtube.playlistItems.list({
-        part: 'snippet,contentDetails',
-        playlistId: playlistId,
-        maxResults: pageSize,
-        pageToken: lastPageToken,
-      }),
-      youtube.playlistItems.list({
-        part: 'snippet,contentDetails',
-        playlistId: playlistId,
-        maxResults: pageSize,
-        pageToken: secondLastPageToken,
-      })
-    ]);
-
-    // Combine items from both pages
-    const items = [
-      ...(secondLastPageResponse.data.items || []),
-      ...(lastPageResponse.data.items || [])
-    ];
-
-    console.log(`Retrieved ${items.length} items from playlist ${playlistId} (${secondLastPageResponse.data.items?.length || 0} from second-to-last page, ${lastPageResponse.data.items?.length || 0} from last page)`);
-
-    // Filter out specific video for 2 Full 2 Stack playlist
-    const filteredItems = items.filter(item => {
-      if (playlistId === 'PLZDPKYkCEQk07B0HWWOKH3bqpqOUQuOOk') { // 2 Full 2 Stack playlist
-        return item.snippet.title !== 'Work Hobbies: Turning Idle Time Into Career Growth by Alicia Bendz';
-      }
-      return true;
-    });
-
-    const lastTwoItems = filteredItems.slice(-maxVideos);
-    console.log(`Selected ${lastTwoItems.length} items from playlist ${playlistId}`);
-
-    return lastTwoItems.map((item) => ({
-      title: item.snippet.title,
-      link: `https://www.youtube.com/watch?v=${item.contentDetails.videoId}`,
-      description: item.snippet.description,
-      thumbnail: item.snippet.thumbnails.medium.url,
-      timestamp: new Date(item.snippet.publishedAt).getTime(),
-    }));
-  } catch (error) {
-    console.error(`Error fetching playlist ${playlistId} from API:`, error);
-    return [];
-  }
 }
 
 async function getVideosFromRSS(videoFeedUrl) {
