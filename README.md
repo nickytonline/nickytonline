@@ -38,9 +38,7 @@ Not subscribed? [Subscribe](https://onetipaweek.com) and join other folks that a
 
 ## Upcoming Live Streams
 
-<!-- STREAM-SCHEDULE:START -->
-<p>No upcoming streams scheduled at the moment.</p>
-<!-- STREAM-SCHEDULE:END -->
+<!-- STREAM-SCHEDULE:START --><aside><a href="https://www.youtube.com/watch?v=t_QHKdS2ThA" title="Really Cool Reliable Agents - Wed, Oct 22, 04:15 PM UTC"><img src="https://img.youtube.com/vi/t_QHKdS2ThA/maxresdefault.jpg" alt="Really Cool Reliable Agents - Wed, Oct 22, 04:15 PM UTC" width="400" height="225" loading="lazy" /></a>&nbsp;&nbsp;</aside><!-- STREAM-SCHEDULE:END -->
 
 ## Latest Videos
 
