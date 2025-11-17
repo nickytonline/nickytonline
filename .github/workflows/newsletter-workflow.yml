@@ -1,9 +1,8 @@
 name: Latest Newsletter Posts
 on:
   schedule:
-    # 7:15 AM Eastern, accounting for DST
-    - cron: '15 11 * 3-11 1' # EDT (March-November)
-    - cron: '15 12 * 1,2,12 1' # EST (December-February)
+    # 2pm DST on Mondays
+    - cron: '0 14 * * MON'
   workflow_dispatch:
 
 jobs:
