@@ -1,8 +1,8 @@
 name: Latest Newsletter Posts
 on:
   schedule:
-    # 2pm DST on Mondays
-    - cron: '0 14 * * MON'
+    # 1pm UTC on Mondays
+    - cron: '0 13 * * MON'
   workflow_dispatch:
 
 jobs:
