@@ -38,9 +38,7 @@ Not subscribed? [Subscribe](https://onetipaweek.com) and join other folks that a
 
 ## Upcoming Live Streams
 
-<!-- STREAM-SCHEDULE:START -->
-<p>No upcoming streams scheduled at the moment.</p>
-<!-- STREAM-SCHEDULE:END -->
+<!-- STREAM-SCHEDULE:START --><aside><a href="https://www.youtube.com/watch?v=4cqR3gMDVP0" title="Real-Time Guardrails for AI Agents - Thu, Dec 11, 05:15 PM UTC"><img src="https://img.youtube.com/vi/4cqR3gMDVP0/maxresdefault.jpg" alt="Real-Time Guardrails for AI Agents - Thu, Dec 11, 05:15 PM UTC" width="400" height="225" loading="lazy" /></a>&nbsp;&nbsp;</aside><!-- STREAM-SCHEDULE:END -->
 
 ## Latest Videos
 
