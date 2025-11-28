@@ -29,11 +29,11 @@ Not subscribed? [Subscribe](https://onetipaweek.com) and join other folks that a
 ## Latest Blog Posts and Talks
 
 <!-- BLOG-POST-LIST:START -->
+- [How I Used Claude Code to Speed Up My Shell Startup by 95%](https://www.nickyt.co/blog/how-i-used-claude-code-to-speed-up-my-shell-startup-by-95-m0f/)
 - [Anyone Can Commit Code as You on GitHub &lpar;Here&#39;s How to Stop Them&rpar;](https://www.nickyt.co/blog/anyone-can-commit-code-as-you-on-github-heres-how-to-stop-them-2in7/)
 - [Build Your First &lpar;or Next&rpar; MCP Server with the TypeScript MCP Template](https://www.nickyt.co/blog/build-your-first-or-next-mcp-server-with-the-typescript-mcp-template-3k3f/)
 - [Quick Fix: My MCP Tools Were Showing as Write Tools in ChatGPT Dev Mode](https://www.nickyt.co/blog/quick-fix-my-mcp-tools-were-showing-as-write-tools-in-chatgpt-dev-mode-3id9/)
 - [Introducing the dev.to MCP server](https://www.nickyt.co/blog/introducing-the-devto-mcp-server-42jg/)
-- [Git Worktrees: Git Done Right](https://www.nickyt.co/blog/git-worktrees-git-done-right-2p7f/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Upcoming Live Streams
