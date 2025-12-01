@@ -17,11 +17,11 @@ Areas of interest: infrastructure, security, open source, developer tooling, fro
 ## Latest Newsletter Posts
 
 <!-- NEWSLETTER-POST-LIST:START -->
+- [One Tip a Week: Speed Up Your Shell Startup by 95%](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-speed-up-your-shell-startup-by-95)
 - [One Tip a Week: JavaScript&#39;s URL and Slash](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-javascript-s-url-and-slash)
 - [One Tip a Week: Review GitHub PRs Faster with Two Shortcuts](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-review-github-prs-faster-with-two-shortcuts)
 - [One Tip a Week: Refined GitHub](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-refined-github)
 - [One Tip a Week: Securely Load Secrets from Your Keychain](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-securely-load-secrets-from-your-keychain)
-- [One Tip a Week: Sign Your Git Commits](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-sign-your-git-commits)
 <!-- NEWSLETTER-POST-LIST:END -->
 
 Not subscribed? [Subscribe](https://onetipaweek.com) and join other folks that are getting value from [OneTipAWeek.com](https://onetipaweek.com).
