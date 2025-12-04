@@ -29,11 +29,11 @@ Not subscribed? [Subscribe](https://onetipaweek.com) and join other folks that a
 ## Latest Blog Posts and Talks
 
 <!-- BLOG-POST-LIST:START -->
+- [I Switched Shell History Tools. Here&#39;s Why](https://www.nickyt.co/blog/i-switched-shell-history-tools-heres-why-m6h/)
+- [Advent of AI 2025 - Day 3: Building Data Visualizations with Goose](https://www.nickyt.co/blog/advent-of-ai-2025-day-1-building-data-visualizations-with-goose-g7f/)
 - [Advent of AI 2025 - Day 2: Building a Winter Festival Game](https://www.nickyt.co/blog/advent-of-ai-2025-day-2-building-a-winter-festival-game-41eg/)
 - [Advent of AI 2025 - Day 1: Getting Goose to Generate Daily Fortunes in CI](https://www.nickyt.co/blog/advent-of-ai-2025-day-1-getting-goose-to-generate-daily-fortunes-in-ci-3alp/)
 - [How I Automated My GitHub Profile &lpar;And You Can Too&rpar;](https://www.nickyt.co/blog/how-i-automated-my-github-profile-and-you-can-too-399e/)
-- [How I Used Claude Code to Speed Up My Shell Startup by 95%](https://www.nickyt.co/blog/how-i-used-claude-code-to-speed-up-my-shell-startup-by-95-m0f/)
-- [Anyone Can Commit Code as You on GitHub &lpar;Here&#39;s How to Stop Them&rpar;](https://www.nickyt.co/blog/anyone-can-commit-code-as-you-on-github-heres-how-to-stop-them-2in7/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Upcoming Live Streams
