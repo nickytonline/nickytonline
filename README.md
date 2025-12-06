@@ -2,7 +2,7 @@
 
 I’m a Microsoft MVP, GitHub Star, Software Developer, and Developer Advocate. With over two decades in technology and a decade of open source contributions, plus six years of professional open source work at companies like OpenSauced, dev.to, Netlify and now Pomerium, I bring deep community knowledge to my work. You’ll often find me live streaming tech content, either solo or with friends from the community.​​​​​​​​​​​​​​​​
 
-**Here's all the places you can follow me online at [nickyt.online](https://nickyt.online)**
+**all the places you can find me online 👉 [nickyt.online](https://nickyt.online)**
 
 ---
 
