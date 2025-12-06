@@ -1,16 +1,8 @@
 # <em>Hi!</em> I'm Nick Taylor. 👋🏻
 
-I'm a Developer Advocate who’s still very much an engineer at heart. I focus on empowering developers by building real solutions, sharing practical insights, and creating spaces where people can grow and succeed.
+I’m a Microsoft MVP, GitHub Star, Software Developer, and Developer Advocate. With over two decades in technology and a decade of open source contributions, plus six years of professional open source work at companies like OpenSauced, dev.to, Netlify and now Pomerium, I bring deep community knowledge to my work. You’ll often find me live streaming tech content, either solo or with friends from the community.​​​​​​​​​​​​​​​​
 
-At [Pomerium](https://pomerium.com), I'm expanding into infrastructure and security, working hands-on with Zero Trust access, authentication, authorization policies, and cloud-native networking. I believe great DevRel starts by staying close to the code and grounded in real-world workflows.
-
-I contribute to open source, build technical demos, write deep-dive posts, and surface developer feedback — all to make developers more effective.
-
-I'm passionate about growing inclusive communities, amplifying developer voices, and making complex technologies more accessible.
-
-Areas of interest: infrastructure, security, open source, developer tooling, frontend ecosystems (especially React/JavaScript), and improving developer workflows.
-
-**Find all the places you can follow me online at [nickyt.online](https://nickyt.online)**
+**Here's all the places you can follow me online at [nickyt.online](https://nickyt.online)**
 
 ---
 
