@@ -21,11 +21,11 @@ Not subscribed? [Subscribe](https://onetipaweek.com) and join other folks that a
 ## Latest Blog Posts and Talks
 
 <!-- BLOG-POST-LIST:START -->
+- [What are AI Evals?](https://www.nickyt.co/blog/what-are-ai-evals-1kk9/)
 - [Advent of AI 2025 - Day 9: Building a Gift Tag Generator with Goose Recipes](https://www.nickyt.co/blog/advent-of-ai-2025-day-9-building-a-gift-tag-generator-with-goose-recipes-3i73/)
 - [Advent of AI 2025 - Day 8: Messy Data to Structured Output](https://www.nickyt.co/blog/advent-of-ai-2025-day-8-messy-data-to-structured-output-25i2/)
 - [Advent of AI 2025 - Day 7: Goose Recipes](https://www.nickyt.co/blog/advent-of-ai-2025-day-7-goose-recipes-5d1c/)
 - [Advent of AI 2025 - Day 6: Automating GitHub Issue Triage with Goose](https://www.nickyt.co/blog/advent-of-ai-2025-day-6-automating-github-issue-triage-with-goose-1pn5/)
-- [Advent of AI 2025 - Day 5: I Built a Touchless Flight Tracker You Control With Hand Gestures](https://www.nickyt.co/blog/advent-of-ai-2025-day-5-i-built-a-touchless-flight-tracker-you-control-with-hand-gestures-1jn8/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Upcoming Live Streams
