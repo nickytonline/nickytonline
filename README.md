@@ -30,7 +30,9 @@ Not subscribed? [Subscribe](https://onetipaweek.com) and join other folks that a
 
 ## Upcoming Live Streams
 
-<!-- STREAM-SCHEDULE:START --><aside><a href="https://www.youtube.com/watch?v=0u8ZHnWi4j0" title="ChatGPT Original Games - Tue, Dec 16, 05:00 PM UTC"><img src="https://img.youtube.com/vi/0u8ZHnWi4j0/maxresdefault.jpg" alt="ChatGPT Original Games - Tue, Dec 16, 05:00 PM UTC" width="400" height="225" loading="lazy" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=ACK84SFCU5c" title="Using Chrome DevTools MCP with Polypane - Tue, Dec 16, 07:00 PM UTC"><img src="https://img.youtube.com/vi/ACK84SFCU5c/maxresdefault.jpg" alt="Using Chrome DevTools MCP with Polypane - Tue, Dec 16, 07:00 PM UTC" width="400" height="225" loading="lazy" /></a>&nbsp;&nbsp;</aside><!-- STREAM-SCHEDULE:END -->
+<!-- STREAM-SCHEDULE:START -->
+<p>No upcoming streams scheduled at the moment.</p>
+<!-- STREAM-SCHEDULE:END -->
 
 ## Latest Videos
 
