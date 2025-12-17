@@ -21,11 +21,11 @@ Not subscribed? [Subscribe](https://onetipaweek.com) and join other folks that a
 ## Latest Blog Posts and Talks
 
 <!-- BLOG-POST-LIST:START -->
+- [Advent of AI - Day 12: MCP Sampling](https://www.nickyt.co/blog/advent-of-ai-day-12-mcp-sampling-29b4/)
+- [Advent of AI - Day 11: Goose Subagents](https://www.nickyt.co/blog/advent-of-ai-day-11-goose-subagents-2n2/)
 - [My Newsletter: Growth, Fun, Slow &amp; Steady](https://www.nickyt.co/blog/my-newsletter-growth-fun-slow-steady-4fpd/)
 - [Advent of AI - Day 10: Understanding Arguments in Goose Recipes](https://www.nickyt.co/blog/advent-of-ai-day-10-understanding-arguments-in-goose-recipes-2obg/)
 - [What are AI Evals?](https://www.nickyt.co/blog/what-are-ai-evals-1kk9/)
-- [Advent of AI 2025 - Day 9: Building a Gift Tag Generator with Goose Recipes](https://www.nickyt.co/blog/advent-of-ai-2025-day-9-building-a-gift-tag-generator-with-goose-recipes-3i73/)
-- [Advent of AI 2025 - Day 8: Messy Data to Structured Output](https://www.nickyt.co/blog/advent-of-ai-2025-day-8-messy-data-to-structured-output-25i2/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Upcoming Live Streams
