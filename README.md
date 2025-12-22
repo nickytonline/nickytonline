@@ -21,11 +21,11 @@ Not subscribed? [Subscribe](https://onetipaweek.com) and join other folks that a
 ## Latest Blog Posts and Talks
 
 <!-- BLOG-POST-LIST:START -->
+- [Advent of AI 2025 - Day 15: Goose Sub-Recipes](https://www.nickyt.co/blog/advent-of-ai-2025-day-15-goose-sub-recipes-3mnd/)
 - [Advent of AI 2025 - Day 14: Agent Skills](https://www.nickyt.co/blog/advent-of-ai-2025-day-14-agent-skills-4d48/)
 - [Advent of AI - Day 13: Goose Terminal Integration](https://www.nickyt.co/blog/advent-of-ai-day-13-goose-terminal-integration-145p/)
 - [Advent of AI - Day 12: MCP Sampling](https://www.nickyt.co/blog/advent-of-ai-day-12-mcp-sampling-29b4/)
 - [Advent of AI - Day 11: Goose Subagents](https://www.nickyt.co/blog/advent-of-ai-day-11-goose-subagents-2n2/)
-- [My Newsletter: Growth, Fun, Slow &amp; Steady](https://www.nickyt.co/blog/my-newsletter-growth-fun-slow-steady-4fpd/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Upcoming Live Streams
