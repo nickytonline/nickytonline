@@ -21,11 +21,11 @@ Not subscribed? [Subscribe](https://onetipaweek.com) and join other folks that a
 ## Latest Blog Posts and Talks
 
 <!-- BLOG-POST-LIST:START -->
+- [My 2025 Year in Review](https://www.nickyt.co/blog/my-2025-year-in-review-3nom/)
 - [What Makes Goose Different From Other AI Coding Agents](https://www.nickyt.co/blog/what-makes-goose-different-from-other-ai-coding-agents-2edc/)
 - [Advent of AI 2025 - Day 17: Building a Wishlist App with Goose and MCP-UI](https://www.nickyt.co/blog/advent-of-ai-2025-day-17-building-a-wishlist-app-with-goose-and-mcp-ui-330l/)
 - [Advent of AI 2025 - Day 16: Planning With .goosehints](https://www.nickyt.co/blog/advent-of-ai-2025-day-16-planning-with-goosehints-875/)
 - [Advent of AI 2025 - Day 15: Goose Sub-Recipes](https://www.nickyt.co/blog/advent-of-ai-2025-day-15-goose-sub-recipes-3mnd/)
-- [Advent of AI 2025 - Day 14: Agent Skills](https://www.nickyt.co/blog/advent-of-ai-2025-day-14-agent-skills-4d48/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Upcoming Live Streams
