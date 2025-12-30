@@ -30,9 +30,7 @@ Not subscribed? [Subscribe](https://onetipaweek.com) and join other folks that a
 
 ## Upcoming Live Streams
 
-<!-- STREAM-SCHEDULE:START -->
-<p>No upcoming streams scheduled at the moment.</p>
-<!-- STREAM-SCHEDULE:END -->
+<!-- STREAM-SCHEDULE:START --><aside><a href="https://www.youtube.com/watch?v=3gcUSwYbKXI" title="Creating Music with AI - Tue, Jan 27, 03:30 PM UTC"><img src="https://img.youtube.com/vi/3gcUSwYbKXI/maxresdefault.jpg" alt="Creating Music with AI - Tue, Jan 27, 03:30 PM UTC" width="400" height="225" loading="lazy" /></a>&nbsp;&nbsp;</aside><!-- STREAM-SCHEDULE:END -->
 
 ## Latest Videos
 
