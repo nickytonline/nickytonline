@@ -10,7 +10,7 @@ const SCHEDULE_MARKER_FINDER = new RegExp(
   START_SCHEDULE_MARKER + '(.|[\r\n])*?' + END_SCHEDULE_MARKER
 );
 
-const FEED_URL = 'https://nickyt.live/feed';
+const FEED_URL = 'https://www.nickyt.co/stream-schedule-feed.xml';
 
 async function main() {
   try {
