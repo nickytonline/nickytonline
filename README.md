@@ -30,7 +30,9 @@ Not subscribed? [Subscribe](https://onetipaweek.com) and join other folks that a
 
 ## Upcoming Live Streams
 
-<!-- STREAM-SCHEDULE:START --><aside><a href="https://www.youtube.com/watch?v=GCjtGLvNvZo" title="ChatGPT apps & MCP apps with Skybridge - Frédéric Barthelet - Wed, Jan 28, 05:30 PM UTC"><img src="https://img.youtube.com/vi/GCjtGLvNvZo/maxresdefault.jpg" alt="ChatGPT apps & MCP apps with Skybridge - Frédéric Barthelet - Wed, Jan 28, 05:30 PM UTC" width="400" height="225" loading="lazy" /></a>&nbsp;&nbsp;</aside><!-- STREAM-SCHEDULE:END -->
+<!-- STREAM-SCHEDULE:START -->
+<p>No upcoming streams scheduled at the moment.</p>
+<!-- STREAM-SCHEDULE:END -->
 
 ## Latest Videos
 
