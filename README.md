@@ -9,11 +9,11 @@ I’m a Microsoft MVP, GitHub Star, Software Developer, and Developer Advocate. 
 ## Latest Newsletter Posts
 
 <!-- NEWSLETTER-POST-LIST:START -->
+- [One Tip a Week: Git Settings You&#39;re Probably Missing](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-git-settings-you-re-probably-missing)
 - [One Tip a Week: Clipboard Time Machine](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-clipboard-time-machine)
 - [One Tip a Week: Say Goodbye to Plain ls](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-say-goodbye-to-plain-ls)
 - [One Tip a Week: Valibot](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-valibot)
 - [One Tip a Week: Zod TypeScript Hack](https://one-tip-a-week.beehiiv.com/p/one-tip-week-zod-string-type-hack)
-- [One Tip a Week: Free Up 95GB on Your Mac](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-free-up-95gb-on-your-mac)
 <!-- NEWSLETTER-POST-LIST:END -->
 
 Not subscribed? [Subscribe](https://onetipaweek.com) and join other folks that are getting value from [OneTipAWeek.com](https://onetipaweek.com).
