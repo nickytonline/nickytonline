@@ -30,9 +30,7 @@ Not subscribed? [Subscribe](https://onetipaweek.com) and join other folks that a
 
 ## Upcoming Live Streams
 
-<!-- STREAM-SCHEDULE:START -->
-<p>No upcoming streams scheduled at the moment.</p>
-<!-- STREAM-SCHEDULE:END -->
+<!-- STREAM-SCHEDULE:START --><aside><a href="https://www.youtube.com/watch?v=unjkMKU_vmc" title="Pomerium MCP Support Updates - Denis Mishin - Thu, Feb 19, 06:00 PM UTC"><img src="https://img.youtube.com/vi/unjkMKU_vmc/maxresdefault.jpg" alt="Pomerium MCP Support Updates - Denis Mishin - Thu, Feb 19, 06:00 PM UTC" width="400" height="225" loading="lazy" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=D7KfnGdHayA" title="All Things MCP - Rachel Lee Nabors - Mon, Feb 23, 03:00 PM UTC"><img src="https://img.youtube.com/vi/D7KfnGdHayA/maxresdefault.jpg" alt="All Things MCP - Rachel Lee Nabors - Mon, Feb 23, 03:00 PM UTC" width="400" height="225" loading="lazy" /></a>&nbsp;&nbsp;</aside><!-- STREAM-SCHEDULE:END -->
 
 ## Latest Videos
 
