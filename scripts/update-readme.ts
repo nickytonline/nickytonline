@@ -2,13 +2,12 @@ require('dotenv').config();
 const {google} = require('googleapis');
 const fs = require('fs/promises');
 const path = require('path');
-const Parser = require('rss-parser');
 const readmeFilePath = path.resolve(__dirname, '../README.md');
 
 const START_VIDEO_LIST_MARKER = '<!-- VIDEO-LIST:START -->';
 const END_VIDEO_LIST_MARKER = '<!-- VIDEO-LIST:END -->';
 const VIDEO_MARKER_FINDER = new RegExp(
-  START_VIDEO_LIST_MARKER + '(.|[\r\n])*?' + END_VIDEO_LIST_MARKER
+  START_VIDEO_LIST_MARKER + '(.|[\\r\\n])*?' + END_VIDEO_LIST_MARKER
 );
 
 const {YOUTUBE_API_KEY} = process.env;
@@ -25,25 +24,15 @@ const playlists = [
   },
 ] as const;
 
-const THUMBNAIL_QUALITIES = [
-  'maxresdefault.jpg',
-  'sddefault.jpg',
-  'hqdefault.jpg',
-  'mqdefault.jpg',
-  'default.jpg',
-];
+const THUMBNAIL_QUALITIES = ['maxres', 'standard', 'high', 'medium', 'default'] as const;
 
 async function main() {
+  const youtube = google.youtube({version: 'v3', auth: YOUTUBE_API_KEY});
+
   // Get videos from all playlists with their source index
   const playlistVideos = await Promise.all(
     playlists.map(async (playlist, index) => {
-      let videos;
-
-      // Use RSS for non-reversed playlists
-      videos = await getVideosFromRSS(
-        `https://www.youtube.com/feeds/videos.xml?playlist_id=${playlist.id}`
-      );
-
+      const videos = await getVideosFromAPI(youtube, playlist.id);
       return videos.map((video) => ({...video, playlistIndex: index}));
     })
   );
@@ -71,7 +60,7 @@ async function main() {
     return b.timestamp - a.timestamp;
   });
 
-  const videosMarkup = await generateVideosMarkup(finalVideos);
+  const videosMarkup = generateVideosMarkup(finalVideos);
   const template = await getTemplate();
 
   const newReadMe = template.replace(
@@ -90,61 +79,54 @@ async function main() {
   console.log('Total videos:', finalVideos.length);
 }
 
-async function getVideosFromRSS(videoFeedUrl) {
-  const parser = new Parser({
-    customFields: {
-      item: ['media:group', 'media:thumbnail', 'published'],
-    },
-  });
+async function getVideosFromAPI(youtube, playlistId: string) {
+  const videos = [];
+  let nextPageToken: string | undefined;
 
-  try {
-    const feed = await parser.parseURL(videoFeedUrl);
-    console.log(`Retrieved ${feed.items.length} items from RSS feed ${videoFeedUrl}`);
+  do {
+    const response = await youtube.playlistItems.list({
+      part: ['snippet'],
+      playlistId,
+      maxResults: 50,
+      pageToken: nextPageToken,
+    });
 
-    return feed.items.map((m) => ({
-      title: m.title,
-      link: m.link,
-      description: m['media:group']['media:description'][0],
-      thumbnail: m['media:group']['media:thumbnail'][0].$.url,
-      timestamp: new Date(m.published).getTime(),
-    }));
-  } catch (error) {
-    console.error(`Error fetching feed from ${videoFeedUrl}:`, error);
-    return [];
-  }
-}
-
-async function checkThumbnail(videoId, quality) {
-  try {
-    const response = await fetch(`https://img.youtube.com/vi/${videoId}/${quality}`);
-    if (response.ok && Number(response.headers.get('content-length')) > 1000) {
-      return true;
+    for (const item of response.data.items) {
+      const {snippet} = item;
+      if (snippet.title === 'Deleted video' || snippet.title === 'Private video') {
+        continue;
+      }
+      videos.push({
+        title: snippet.title,
+        link: `https://www.youtube.com/watch?v=${snippet.resourceId.videoId}`,
+        description: snippet.description,
+        thumbnail: getBestThumbnail(snippet.thumbnails),
+        timestamp: new Date(snippet.publishedAt).getTime(),
+      });
     }
 
-    return false;
-  } catch (error) {
-    return false;
-  }
+    nextPageToken = response.data.nextPageToken;
+  } while (nextPageToken);
+
+  console.log(`Retrieved ${videos.length} videos from playlist ${playlistId}`);
+  return videos;
 }
 
-async function getBestThumbnail(videoId) {
+function getBestThumbnail(thumbnails) {
   for (const quality of THUMBNAIL_QUALITIES) {
-    if (await checkThumbnail(videoId, quality)) {
-      return `https://img.youtube.com/vi/${videoId}/${quality}`;
+    if (thumbnails[quality]?.url) {
+      return thumbnails[quality].url;
     }
   }
-  return `https://img.youtube.com/vi/${videoId}/default.jpg`;
+  return null;
 }
 
-async function generateVideosMarkup(videos) {
+function generateVideosMarkup(videos) {
   let markup = '<aside>';
 
   for (const video of videos) {
-    const {link, title} = video;
-    const videoId = link.split('v=')[1];
-    const thumbnailUrl = await getBestThumbnail(videoId);
-
-    markup += `<a href="${link}" title="${title}"><img src="${thumbnailUrl}" alt="${title}" width="400" height="225" loading="lazy" /></a>&nbsp;&nbsp;`;
+    const {link, title, thumbnail} = video;
+    markup += `<a href="${link}" title="${title}"><img src="${thumbnail}" alt="${title}" width="400" height="225" loading="lazy" /></a>&nbsp;&nbsp;`;
   }
 
   markup += '</aside>';
@@ -158,32 +140,6 @@ async function getTemplate(): Promise<string> {
 
 async function saveReadMe(newReadMe) {
   await fs.writeFile(readmeFilePath, newReadMe);
-}
-
-async function getPageToken(youtube, playlistId, targetPage, pageSize) {
-  if (targetPage === 0) return undefined;
-
-  let currentPage = 0;
-  let currentToken;
-
-  while (currentPage < targetPage) {
-    const response = await youtube.playlistItems.list({
-      part: 'id',
-      playlistId: playlistId,
-      maxResults: pageSize,
-      pageToken: currentToken,
-    });
-
-    currentToken = response.data.nextPageToken;
-    currentPage++;
-
-    if (!currentToken) {
-      console.log(`No more pages after page ${currentPage} for playlist ${playlistId}`);
-      break;
-    }
-  }
-
-  return currentToken;
 }
 
 main();

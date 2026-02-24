@@ -20,8 +20,8 @@ jobs:
         env:
           YOUTUBE_API_KEY: ${{ vars.YOUTUBE_API_KEY }}
         run: |
-          cd scripts
           npm install
+          cd scripts
           node --experimental-transform-types update-readme.ts
       - name: Commit changes
         id: commit
