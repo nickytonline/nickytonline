@@ -21,11 +21,11 @@ Not subscribed? [Subscribe](https://onetipaweek.com) and join other folks that a
 ## Latest Blog Posts and Talks
 
 <!-- BLOG-POST-LIST:START -->
+- [Stop using cat](https://www.nickyt.co/blog/stop-using-cat-35gd/)
 - [Five Git Config Settings Every Dev Needs](https://www.nickyt.co/blog/five-git-config-settings-every-dev-needs-3e55/)
 - [BenQ RD280UG Review: 28-Inch 4K Programming Monitor for Developers](https://www.nickyt.co/blog/benq-rd280ug-review-28-inch-4k-programming-monitor-for-developers-2iko/)
 - [From Fresh Mac to Productive in 30 Minutes](https://www.nickyt.co/blog/from-fresh-mac-to-productive-in-30-minutes-21db/)
 - [My 2025 Year in Review](https://www.nickyt.co/blog/my-2025-year-in-review-3nom/)
-- [What Makes Goose Different From Other AI Coding Agents](https://www.nickyt.co/blog/what-makes-goose-different-from-other-ai-coding-agents-2edc/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Upcoming Live Streams
