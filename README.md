@@ -9,11 +9,11 @@ I’m a Microsoft MVP, GitHub Star, Software Developer, and Developer Advocate. 
 ## Latest Newsletter Posts
 
 <!-- NEWSLETTER-POST-LIST:START -->
+- [One Tip a Week: Stop Typing Full Directory Paths Like It&#39;s 1995](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-stop-typing-full-directory-paths-like-it-s-1995)
 - [One Tip a Week: Stop Shipping Broken Env Config](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-stop-shipping-broken-env-config)
 - [One Tip a Week: Say Hello to Bruno](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-say-hello-to-bruno)
 - [One Tip a Week: Stop Using cat](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-stop-using-cat)
 - [One Tip a Week: Stop Writing .gitignore Files by Hand](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-stop-writing-gitignore-files-by-hand)
-- [One Tip a Week: Git Settings You&#39;re Probably Missing](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-git-settings-you-re-probably-missing)
 <!-- NEWSLETTER-POST-LIST:END -->
 
 Not subscribed? [Subscribe](https://onetipaweek.com) and join other folks that are getting value from [OneTipAWeek.com](https://onetipaweek.com).
