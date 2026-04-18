@@ -96,7 +96,7 @@ async function generateScheduleMarkup(streams) {
         ]) {
           const url = `https://img.youtube.com/vi/${videoId}/${quality}`;
           try {
-            const response = await fetch(url);
+            const response = await fetch(url, { signal: AbortSignal.timeout(5000) });
             if (response.ok) {
               thumbnailUrl = url;
               break;
