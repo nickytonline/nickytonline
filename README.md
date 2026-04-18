@@ -30,9 +30,7 @@ Not subscribed? [Subscribe](https://onetipaweek.com) and join other folks that a
 
 ## Upcoming Live Streams
 
-<!-- STREAM-SCHEDULE:START -->
-<p>No upcoming streams scheduled at the moment.</p>
-<!-- STREAM-SCHEDULE:END -->
+<!-- STREAM-SCHEDULE:START --><aside><a href="https://www.youtube.com/watch?v=nt8KvxQiGmM" title="Building Securely with AI - Brian Clark - Tue, Apr 28, 05:00 PM UTC"><img src="https://img.youtube.com/vi/nt8KvxQiGmM/maxresdefault.jpg" alt="Building Securely with AI - Brian Clark - Tue, Apr 28, 05:00 PM UTC" width="360" height="203" loading="lazy" /></a>&nbsp;&nbsp;</aside><!-- STREAM-SCHEDULE:END -->
 
 ## Latest Videos
 
