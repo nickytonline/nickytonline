@@ -1,7 +1,8 @@
 {
   "dependencies": {
     "dotenv": "^16.4.7",
-    "googleapis": "^144.0.0"
+    "googleapis": "^144.0.0",
+    "rss-parser": "^3.13.0"
   },
   "devDependencies": {
     "@types/node": "^22.13.4"
