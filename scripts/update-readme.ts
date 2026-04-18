@@ -122,14 +122,22 @@ function getBestThumbnail(thumbnails) {
 }
 
 function generateVideosMarkup(videos) {
-  let markup = '<aside>';
+  let markup = '<table border="0">';
 
-  for (const video of videos) {
-    const {link, title, thumbnail} = video;
-    markup += `<a href="${link}" title="${title}"><img src="${thumbnail}" alt="${title}" width="360" height="203" loading="lazy" /></a>&nbsp;&nbsp;`;
+  for (let i = 0; i < videos.length; i += 2) {
+    markup += '<tr>';
+    const {link, title, thumbnail} = videos[i];
+    markup += `<td><a href="${link}" title="${title}"><img src="${thumbnail}" alt="${title}" width="360" height="203" loading="lazy" /></a></td>`;
+    if (videos[i + 1]) {
+      const {link: link2, title: title2, thumbnail: thumbnail2} = videos[i + 1];
+      markup += `<td><a href="${link2}" title="${title2}"><img src="${thumbnail2}" alt="${title2}" width="360" height="203" loading="lazy" /></a></td>`;
+    } else {
+      markup += '<td></td>';
+    }
+    markup += '</tr>';
   }
 
-  markup += '</aside>';
+  markup += '</table>';
 
   return markup;
 }

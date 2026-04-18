@@ -68,7 +68,7 @@ async function generateScheduleMarkup(streams) {
     return '\n<p>No upcoming streams scheduled at the moment.</p>\n';
   }
 
-  let markup = '<aside>';
+  const streamItems: {link: string; title: string; thumbnailUrl: string}[] = [];
 
   for (const stream of streams) {
     const formattedDate = stream.date.toLocaleDateString('en-US', {
@@ -111,11 +111,26 @@ async function generateScheduleMarkup(streams) {
     }
 
     if (thumbnailUrl) {
-      markup += `<a href="${stream.link}" title="${title}"><img src="${thumbnailUrl}" alt="${title}" width="360" height="203" loading="lazy" /></a>&nbsp;&nbsp;`;
+      streamItems.push({link: stream.link, title, thumbnailUrl});
     }
   }
 
-  markup += '</aside>';
+  let markup = '<table border="0">';
+
+  for (let i = 0; i < streamItems.length; i += 2) {
+    markup += '<tr>';
+    const {link, title, thumbnailUrl} = streamItems[i];
+    markup += `<td><a href="${link}" title="${title}"><img src="${thumbnailUrl}" alt="${title}" width="360" height="203" loading="lazy" /></a></td>`;
+    if (streamItems[i + 1]) {
+      const {link: link2, title: title2, thumbnailUrl: thumbnailUrl2} = streamItems[i + 1];
+      markup += `<td><a href="${link2}" title="${title2}"><img src="${thumbnailUrl2}" alt="${title2}" width="360" height="203" loading="lazy" /></a></td>`;
+    } else {
+      markup += '<td></td>';
+    }
+    markup += '</tr>';
+  }
+
+  markup += '</table>';
   return markup;
 }
 
