@@ -22,7 +22,7 @@ jobs:
         run: |
           npm install
           cd scripts
-          node --experimental-transform-types update-readme.ts
+          node update-readme.ts
       - name: Commit changes
         id: commit
         env:
