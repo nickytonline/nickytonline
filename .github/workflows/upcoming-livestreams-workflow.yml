@@ -19,7 +19,7 @@ jobs:
         run: |
           cd scripts
           npm install
-          node --experimental-transform-types update-stream-schedule.ts
+          node update-stream-schedule.ts
       - name: Commit changes
         id: commit
         env:
