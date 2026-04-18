@@ -126,7 +126,7 @@ function generateVideosMarkup(videos) {
 
   for (const video of videos) {
     const {link, title, thumbnail} = video;
-    markup += `<a href="${link}" title="${title}"><img src="${thumbnail}" alt="${title}" width="400" height="225" loading="lazy" /></a>&nbsp;&nbsp;`;
+    markup += `<a href="${link}" title="${title}"><img src="${thumbnail}" alt="${title}" width="360" height="203" loading="lazy" /></a>&nbsp;&nbsp;`;
   }
 
   markup += '</aside>';

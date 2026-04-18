@@ -110,7 +110,7 @@ async function generateScheduleMarkup(streams) {
     }
 
     if (thumbnailUrl) {
-      markup += `<a href="${stream.link}" title="${title}"><img src="${thumbnailUrl}" alt="${title}" width="400" height="225" loading="lazy" /></a>&nbsp;&nbsp;`;
+      markup += `<a href="${stream.link}" title="${title}"><img src="${thumbnailUrl}" alt="${title}" width="360" height="203" loading="lazy" /></a>&nbsp;&nbsp;`;
     }
   }
 
