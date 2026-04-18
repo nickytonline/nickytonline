@@ -7,7 +7,7 @@ const readmeFilePath = path.resolve(__dirname, '../README.md');
 const START_SCHEDULE_MARKER = '<!-- STREAM-SCHEDULE:START -->';
 const END_SCHEDULE_MARKER = '<!-- STREAM-SCHEDULE:END -->';
 const SCHEDULE_MARKER_FINDER = new RegExp(
-  START_SCHEDULE_MARKER + '(.|[\r\n])*?' + END_SCHEDULE_MARKER
+  START_SCHEDULE_MARKER + '(.|[\r\n])*?' + END_SCHEDULE_MARKER,
 );
 
 const FEED_URL = 'https://www.nickyt.co/stream-schedule-feed.xml';
@@ -20,7 +20,7 @@ async function main() {
 
     const newReadMe = template.replace(
       SCHEDULE_MARKER_FINDER,
-      START_SCHEDULE_MARKER + scheduleMarkup + END_SCHEDULE_MARKER
+      START_SCHEDULE_MARKER + scheduleMarkup + END_SCHEDULE_MARKER,
     );
 
     await saveReadMe(newReadMe);
@@ -85,7 +85,8 @@ async function generateScheduleMarkup(streams) {
 
     // Only try YouTube thumbnails if we don't have one from the RSS feed
     if (!thumbnailUrl) {
-      const videoId = stream.link?.split('v=')[1];
+      const url = new URL(stream.link);
+      const videoId = url.searchParams.get('v') ?? url.pathname.split('/live/')[1];
       if (videoId) {
         for (const quality of [
           'maxresdefault.jpg',
@@ -96,7 +97,7 @@ async function generateScheduleMarkup(streams) {
         ]) {
           const url = `https://img.youtube.com/vi/${videoId}/${quality}`;
           try {
-            const response = await fetch(url, { signal: AbortSignal.timeout(5000) });
+            const response = await fetch(url, {signal: AbortSignal.timeout(5000)});
             if (response.ok) {
               thumbnailUrl = url;
               break;
