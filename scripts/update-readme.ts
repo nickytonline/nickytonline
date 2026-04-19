@@ -7,7 +7,7 @@ const readmeFilePath = path.resolve(__dirname, '../README.md');
 const START_VIDEO_LIST_MARKER = '<!-- VIDEO-LIST:START -->';
 const END_VIDEO_LIST_MARKER = '<!-- VIDEO-LIST:END -->';
 const VIDEO_MARKER_FINDER = new RegExp(
-  START_VIDEO_LIST_MARKER + '(.|[\\r\\n])*?' + END_VIDEO_LIST_MARKER
+  START_VIDEO_LIST_MARKER + '(.|[\\r\\n])*?' + END_VIDEO_LIST_MARKER,
 );
 
 const {YOUTUBE_API_KEY} = process.env;
@@ -34,7 +34,7 @@ async function main() {
     playlists.map(async (playlist, index) => {
       const videos = await getVideosFromAPI(youtube, playlist.id);
       return videos.map((video) => ({...video, playlistIndex: index}));
-    })
+    }),
   );
 
   // Sort and limit videos according to playlist settings
@@ -48,7 +48,7 @@ async function main() {
         return b.timestamp - a.timestamp;
       });
 
-      return sortedVideos.slice(0, 4);
+      return sortedVideos.slice(0, 2);
     })
     .flat();
 
@@ -65,7 +65,7 @@ async function main() {
 
   const newReadMe = template.replace(
     VIDEO_MARKER_FINDER,
-    START_VIDEO_LIST_MARKER + videosMarkup + END_VIDEO_LIST_MARKER
+    START_VIDEO_LIST_MARKER + videosMarkup + END_VIDEO_LIST_MARKER,
   );
 
   await saveReadMe(newReadMe);
