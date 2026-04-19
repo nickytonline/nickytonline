@@ -30,7 +30,7 @@ Not subscribed? [Subscribe](https://onetipaweek.com) and join other folks that a
 
 ## Upcoming Live Streams
 
-<!-- STREAM-SCHEDULE:START --><table border="0"></table><!-- STREAM-SCHEDULE:END -->
+<!-- STREAM-SCHEDULE:START --><table border="0"><tr><td><a href="https://www.nickyt.co/videos/agents-need-a-runbook-for-hill-climbing-jon-lebensold" title="Agents need a runbook for hill-climbing - Jon Lebensold - Thu, Apr 23, 05:00 PM UTC"><img src="https://img.youtube.com/vi/QlwYGfYkPc8/maxresdefault.jpg" alt="Agents need a runbook for hill-climbing - Jon Lebensold - Thu, Apr 23, 05:00 PM UTC" width="360" height="203" loading="lazy" /></a></td><td><a href="https://www.nickyt.co/videos/building-securely-with-ai-brian-clark" title="Building Securely with AI - Brian Clark - Tue, Apr 28, 05:00 PM UTC"><img src="https://img.youtube.com/vi/nt8KvxQiGmM/maxresdefault.jpg" alt="Building Securely with AI - Brian Clark - Tue, Apr 28, 05:00 PM UTC" width="360" height="203" loading="lazy" /></a></td></tr></table><!-- STREAM-SCHEDULE:END -->
 
 ## Latest Videos
 
