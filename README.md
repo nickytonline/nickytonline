@@ -21,11 +21,11 @@ Not subscribed? [Subscribe](https://onetipaweek.com) and join other folks that a
 ## Latest Blog Posts and Talks
 
 <!-- BLOG-POST-LIST:START -->
+- [Agents need a runbook for hill-climbing](https://www.nickyt.co/videos/agents-need-a-runbook-for-hill-climbing-jon-lebensold/)
 - [Stop Shipping Broken Env Config](https://www.nickyt.co/blog/stop-shipping-broken-env-config-25m/)
 - [Clawspace: A Browser-Based File Explorer for OpenClaw](https://www.nickyt.co/blog/clawspace-a-browser-based-file-explorer-for-openclaw-2ef/)
 - [Let Dependabot Merge Its Own PRs](https://www.nickyt.co/blog/let-dependabot-merge-its-own-prs-27pc/)
 - [Stop using cat](https://www.nickyt.co/blog/stop-using-cat-35gd/)
-- [All Things MCP](https://www.nickyt.co/videos/all-things-mcp-rachel-lee-nabors/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Upcoming Live Streams
