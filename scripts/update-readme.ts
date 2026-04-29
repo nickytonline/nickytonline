@@ -48,7 +48,7 @@ async function main() {
         return b.timestamp - a.timestamp;
       });
 
-      return sortedVideos.slice(0, 2);
+      return sortedVideos.slice(0, 4);
     })
     .flat();
 
