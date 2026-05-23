@@ -30,9 +30,7 @@ Not subscribed? [Subscribe](https://onetipaweek.com) and join other folks that a
 
 ## Upcoming Live Streams
 
-<!-- STREAM-SCHEDULE:START -->
-<p>No upcoming streams scheduled at the moment.</p>
-<!-- STREAM-SCHEDULE:END -->
+<!-- STREAM-SCHEDULE:START --><table border="0"><tr><td><a href="https://www.nickyt.co/videos/is-ai-killing-open-source-rizel-scarlett" title="Is AI Killing Open Source? - Rizel Scarlett - Wed, Jun 3, 08:00 PM UTC"><img src="https://img.youtube.com/vi/_zEWiJNNzDI/maxresdefault.jpg" alt="Is AI Killing Open Source? - Rizel Scarlett - Wed, Jun 3, 08:00 PM UTC" width="360" height="203" loading="lazy" /></a></td><td><a href="https://www.nickyt.co/videos/diving-into-canada-community-and-networking-for-ai-and-k8s-marino-wijay" title="Diving into Canada, Community, and Networking for AI and K8s - Marino Wijay - Tue, Jun 9, 05:00 PM UTC"><img src="https://img.youtube.com/vi/CXfBJyJ1e3s/maxresdefault.jpg" alt="Diving into Canada, Community, and Networking for AI and K8s - Marino Wijay - Tue, Jun 9, 05:00 PM UTC" width="360" height="203" loading="lazy" /></a></td></tr></table><!-- STREAM-SCHEDULE:END -->
 
 ## Latest Videos
 
