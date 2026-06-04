@@ -30,7 +30,7 @@ Not subscribed? [Subscribe](https://onetipaweek.com) and join other folks that a
 
 ## Upcoming Live Streams
 
-<!-- STREAM-SCHEDULE:START --><table border="0"><tr><td><a href="https://www.nickyt.co/videos/diving-into-canada-community-and-networking-for-ai-and-k8s-marino-wijay" title="Diving into Canada, Community, and Networking for AI and K8s - Marino Wijay - Tue, Jun 9, 05:00 PM UTC"><img src="https://img.youtube.com/vi/CXfBJyJ1e3s/maxresdefault.jpg" alt="Diving into Canada, Community, and Networking for AI and K8s - Marino Wijay - Tue, Jun 9, 05:00 PM UTC" width="360" height="203" loading="lazy" /></a></td><td></td></tr></table><!-- STREAM-SCHEDULE:END -->
+<!-- STREAM-SCHEDULE:START --><table border="0"><tr><td><a href="https://www.nickyt.co/videos/diving-into-canada-community-and-networking-for-ai-and-k8s-marino-wijay" title="Diving into Canada, Community, and Networking for AI and K8s - Marino Wijay - Tue, Jun 9, 05:00 PM UTC"><img src="https://img.youtube.com/vi/CXfBJyJ1e3s/maxresdefault.jpg" alt="Diving into Canada, Community, and Networking for AI and K8s - Marino Wijay - Tue, Jun 9, 05:00 PM UTC" width="360" height="203" loading="lazy" /></a></td><td><a href="https://www.nickyt.co/videos/ai-agents-for-devs-who-ship-nnenna-ndukwe" title="AI Agents for Devs Who Ship - Nnenna Ndukwe - Tue, Jun 23, 06:00 PM UTC"><img src="https://img.youtube.com/vi/hZD80oad7JU/maxresdefault.jpg" alt="AI Agents for Devs Who Ship - Nnenna Ndukwe - Tue, Jun 23, 06:00 PM UTC" width="360" height="203" loading="lazy" /></a></td></tr></table><!-- STREAM-SCHEDULE:END -->
 
 ## Latest Videos
 
