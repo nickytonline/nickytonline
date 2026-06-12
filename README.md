@@ -21,11 +21,11 @@ Not subscribed? [Subscribe](https://onetipaweek.com) and join other folks that a
 ## Latest Blog Posts and Talks
 
 <!-- BLOG-POST-LIST:START -->
+- [Diving into Canada, Community, and Networking for AI and K8s](https://www.nickyt.co/videos/diving-into-canada-community-and-networking-for-ai-and-k8s-marino-wijay/)
 - [Is AI Killing Open Source?](https://www.nickyt.co/videos/is-ai-killing-open-source-rizel-scarlett/)
 - [Building Securely with AI](https://www.nickyt.co/videos/building-securely-with-ai-brian-clark/)
 - [Introducing Excaliclaw: A Skill for OpenClaw to Generate Excalidraw Diagrams](https://www.nickyt.co/blog/introducing-excaliclaw-a-skill-for-openclaw-to-generate-excalidraw-diagrams-48k6/)
 - [Agents need a runbook for hill-climbing](https://www.nickyt.co/videos/agents-need-a-runbook-for-hill-climbing-jon-lebensold/)
-- [Stop Shipping Broken Env Config](https://www.nickyt.co/blog/stop-shipping-broken-env-config-25m/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Upcoming Live Streams
