@@ -1,6 +1,6 @@
-# <em>Hi!</em> I'm Nick Taylor. 👋🏻
+<img width="3168" height="792" alt="linkedin-banner" src="https://github.com/user-attachments/assets/a8e82df4-29de-4e05-a138-7c88ef31c146" alt="Developer. Advocate. Builder. GitHub Star AAIF Ambassador Microsoft MVP AWS Community Builder Zero Trust  ·  Agentic AI  ·  MCP  ·  Open Source @nickytonline nickyt.co" />
 
-I’m a Microsoft MVP, GitHub Star, Software Developer, and Developer Advocate. With over two decades in technology and a decade of open source contributions, plus six years of professional open source work at companies like OpenSauced, dev.to, Netlify and now Pomerium, I bring deep community knowledge to my work. You’ll often find me live streaming tech content, either solo or with friends from the community.​​​​​​​​​​​​​​​​
+<em>Hi!</em> I'm Nick Taylor — I'm a Developer Advocate at Pomerium, where I help developers understand the security layer for AI agents. GitHub Star, Agentic AI Foundation (AAIF) Ambassador, AWS Community Builder, and Microsoft MVP, I write, stream, and speak about Zero Trust security, agentic AI, MCP (Model Context Protocol), and open source.​​​​​​​​​​​​
 
 **find me everywhere online @ [nickyt.online](https://nickyt.online)**
 
