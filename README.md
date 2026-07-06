@@ -1,5 +1,7 @@
 <img width="3168" height="792" alt="linkedin-banner" src="https://github.com/user-attachments/assets/a8e82df4-29de-4e05-a138-7c88ef31c146" alt="Developer. Advocate. Builder. GitHub Star AAIF Ambassador Microsoft MVP AWS Community Builder Zero Trust  ·  Agentic AI  ·  MCP  ·  Open Source @nickytonline nickyt.co" />
 
+<br />
+
 <em>Hi!</em> I'm Nick Taylor — a software engineer and developer advocate with 20+ years in the industry and a decade of open source. I write, stream, speak, and build things, currently in developer relations at Pomerium, where the focus is Zero Trust security, MCP (Model Context Protocol), and agentic AI. GitHub Star, AAIF Ambassador, AWS Community Builder, Microsoft MVP.​​​​​​​​​​​​
 
 **find me everywhere online @ [nickyt.online](https://nickyt.online)**
