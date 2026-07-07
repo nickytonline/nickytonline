@@ -32,7 +32,7 @@ Not subscribed? [Subscribe](https://onetipaweek.com) and join other folks that a
 
 ## Upcoming Live Streams
 
-<!-- STREAM-SCHEDULE:START --><table border="0"><tr><td><a href="https://www.nickyt.co/videos/developer-advocate-coderabbit-santosh-yadav" title="Developer Advocate CodeRabbit - Santosh Yadav - Thu, Jul 9, 07:30 PM UTC"><img src="https://img.youtube.com/vi/5uf4MTlZGUE/maxresdefault.jpg" alt="Developer Advocate CodeRabbit - Santosh Yadav - Thu, Jul 9, 07:30 PM UTC" width="360" height="203" loading="lazy" /></a></td><td></td></tr></table><!-- STREAM-SCHEDULE:END -->
+<!-- STREAM-SCHEDULE:START --><table border="0"><tr><td><a href="https://www.nickyt.co/videos/community-code-review-and-ai-changing-tech-santosh-yadav" title="Community, Code Review & AI Changing Tech - Santosh Yadav - Thu, Jul 9, 07:30 PM UTC"><img src="https://img.youtube.com/vi/5uf4MTlZGUE/maxresdefault.jpg" alt="Community, Code Review & AI Changing Tech - Santosh Yadav - Thu, Jul 9, 07:30 PM UTC" width="360" height="203" loading="lazy" /></a></td><td></td></tr></table><!-- STREAM-SCHEDULE:END -->
 
 ## Latest Videos
 
