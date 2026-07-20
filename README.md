@@ -11,11 +11,11 @@
 ## Latest Newsletter Posts
 
 <!-- NEWSLETTER-POST-LIST:START -->
+- [One Tip a Week: Stop Fighting Your Git Hooks](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-stop-fighting-your-git-hooks)
 - [One Tip a Week: Paste Images Into Remote AI Coding Agents](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-paste-images-into-remote-ai-coding-agents)
 - [One Tip a Week: Stop Typing So Much](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-stop-typing-so-much)
 - [Search Code by Structure, Not Text](https://one-tip-a-week.beehiiv.com/p/search-code-by-structure-not-text)
 - [One Tip a Week: Find Broken Links Before Your Readers Do](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-find-broken-links-before-your-readers-do)
-- [One Tip a Week: Stop Installing a Version Manager for Every Language](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-stop-installing-a-version-manager-for-every-language)
 <!-- NEWSLETTER-POST-LIST:END -->
 
 Not subscribed? [Subscribe](https://onetipaweek.com) and join other folks that are getting value from [OneTipAWeek.com](https://onetipaweek.com).
