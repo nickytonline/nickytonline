@@ -32,9 +32,7 @@ Not subscribed? [Subscribe](https://onetipaweek.com) and join other folks that a
 
 ## Upcoming Live Streams
 
-<!-- STREAM-SCHEDULE:START -->
-<p>No upcoming streams scheduled at the moment.</p>
-<!-- STREAM-SCHEDULE:END -->
+<!-- STREAM-SCHEDULE:START --><table border="0"><tr><td><a href="https://www.nickyt.co/videos/turso-glauber-costa" title="Turso - Glauber Costa - Tue, Aug 25, 05:00 PM UTC"><img src="https://img.youtube.com/vi/IflXqYrEuTw/maxresdefault.jpg" alt="Turso - Glauber Costa - Tue, Aug 25, 05:00 PM UTC" width="360" height="203" loading="lazy" /></a></td><td></td></tr></table><!-- STREAM-SCHEDULE:END -->
 
 ## Latest Videos
 
