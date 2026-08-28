@@ -23,11 +23,11 @@ Not subscribed? [Subscribe](https://onetipaweek.com) and join other folks that a
 ## Latest Blog Posts and Talks
 
 <!-- BLOG-POST-LIST:START -->
+- [How People AI Vol. 1](https://www.nickyt.co/videos/how-people-ai-vol-1-multiple-guests/)
 - [Turso](https://www.nickyt.co/videos/turso-glauber-costa/)
 - [Community, Code Review &amp; AI Changing Tech](https://www.nickyt.co/videos/community-code-review-and-ai-changing-tech-santosh-yadav/)
 - [How I Travel for Work](https://www.nickyt.co/blog/how-i-travel-for-work/)
 - [AI Agents for Devs Who Ship](https://www.nickyt.co/videos/ai-agents-for-devs-who-ship-nnenna-ndukwe/)
-- [Diving into Canada, Community, and Networking for AI and K8s](https://www.nickyt.co/videos/diving-into-canada-community-and-networking-for-ai-and-k8s-marino-wijay/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Upcoming Live Streams
