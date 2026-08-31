@@ -11,11 +11,11 @@
 ## Latest Newsletter Posts
 
 <!-- NEWSLETTER-POST-LIST:START -->
+- [One Tip a Week: A Pretty Nifty Open-Source Meeting Assistant](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-a-pretty-nifty-open-source-meeting-assistant)
 - [One Tip a Week: Debug Network Problems Without Being a Network Expert](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-debug-network-problems-without-being-a-network-expert)
 - [One Tip a Week: Stop Shipping Generic AI-Generated UI](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-stop-shipping-generic-ai-generated-ui)
 - [One Tip a Week: Your Screen Share Needs This](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-your-screen-share-needs-this)
 - [One Tip a Week: Stop Babysitting Long-Running Terminal Commands](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-stop-babysitting-long-running-terminal-commands)
-- [One Tip a Week: Stop Writing Scripts to Inspect Data](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-stop-writing-scripts-to-inspect-data)
 <!-- NEWSLETTER-POST-LIST:END -->
 
 Not subscribed? [Subscribe](https://onetipaweek.com) and join other folks that are getting value from [OneTipAWeek.com](https://onetipaweek.com).
