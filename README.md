@@ -4,7 +4,7 @@
 
 <em>Hi!</em> I'm Nick Taylor — a software engineer and developer advocate with 20+ years in the industry and a decade of open source. I write, stream, speak, and build things, currently in developer relations at Pomerium, where the focus is Zero Trust security, MCP (Model Context Protocol), and agentic AI. GitHub Star, AAIF Ambassador, AWS Community Builder, Microsoft MVP.​​​​​​​​​​​​
 
-**find me everywhere online @ [nickyt.online](https://nickyt.online)**
+**find me everywhere online @ [nickyt.co/socials](https://www.nickyt.co/socials)**
 
 ---
 
