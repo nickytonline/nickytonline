@@ -26,6 +26,10 @@ const playlists = [
 
 const THUMBNAIL_QUALITIES = ['maxres', 'standard', 'high', 'medium', 'default'] as const;
 
+function byPublishedAtDescending(a, b) {
+  return b.timestamp - a.timestamp;
+}
+
 async function main() {
   const youtube = google.youtube({version: 'v3', auth: YOUTUBE_API_KEY});
 
@@ -37,28 +41,23 @@ async function main() {
     }),
   );
 
-  // Sort and limit videos according to playlist settings
+  // Take the most recently published videos from each playlist
   const selectedVideos = playlistVideos
     .map((playlist, index) => {
       const playlistConfig = playlists[index];
-      const sortedVideos = playlist.sort((a, b) => {
+      const sortedVideos = [...playlist].sort((a, b) => {
         if (playlistConfig.reversed) {
           return a.timestamp - b.timestamp;
         }
-        return b.timestamp - a.timestamp;
+        return byPublishedAtDescending(a, b);
       });
 
       return sortedVideos.slice(0, 4);
     })
     .flat();
 
-  // Sort final selection by playlist order
-  const finalVideos = selectedVideos.sort((a, b) => {
-    if (a.playlistIndex !== b.playlistIndex) {
-      return a.playlistIndex - b.playlistIndex;
-    }
-    return b.timestamp - a.timestamp;
-  });
+  // Newest published videos first across all playlists
+  const finalVideos = selectedVideos.sort(byPublishedAtDescending);
 
   const videosMarkup = generateVideosMarkup(finalVideos);
   const template = await getTemplate();
@@ -85,15 +84,23 @@ async function getVideosFromAPI(youtube, playlistId: string) {
 
   do {
     const response = await youtube.playlistItems.list({
-      part: ['snippet'],
+      part: ['snippet', 'contentDetails'],
       playlistId,
       maxResults: 50,
       pageToken: nextPageToken,
     });
 
     for (const item of response.data.items) {
-      const {snippet} = item;
+      const {snippet, contentDetails} = item;
       if (snippet.title === 'Deleted video' || snippet.title === 'Private video') {
+        continue;
+      }
+      // videoPublishedAt is when the video went live. snippet.publishedAt is
+      // when it was added to the playlist, so recently (re)added old videos
+      // would otherwise rank as "latest".
+      const publishedAt = contentDetails?.videoPublishedAt ?? snippet.publishedAt;
+      const timestamp = new Date(publishedAt).getTime();
+      if (Number.isNaN(timestamp)) {
         continue;
       }
       videos.push({
@@ -101,7 +108,7 @@ async function getVideosFromAPI(youtube, playlistId: string) {
         link: `https://www.youtube.com/watch?v=${snippet.resourceId.videoId}`,
         description: snippet.description,
         thumbnail: getBestThumbnail(snippet.thumbnails),
-        timestamp: new Date(snippet.publishedAt).getTime(),
+        timestamp,
       });
     }
 
