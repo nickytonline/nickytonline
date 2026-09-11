@@ -52,7 +52,7 @@ async function main() {
         return byPublishedAtDescending(a, b);
       });
 
-      return sortedVideos.slice(0, 4);
+      return sortedVideos.slice(0, 2);
     })
     .flat();
 
