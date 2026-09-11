@@ -20,14 +20,14 @@
 
 Not subscribed? [Subscribe](https://onetipaweek.com) and join other folks that are getting value from [OneTipAWeek.com](https://onetipaweek.com).
 
-## Latest Blog Posts and Talks
+## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How People AI Vol. 2](https://www.nickyt.co/videos/how-people-ai-vol-2-multiple-guests/)
-- [How People AI Vol. 1](https://www.nickyt.co/videos/how-people-ai-vol-1-multiple-guests/)
-- [Turso](https://www.nickyt.co/videos/turso-glauber-costa/)
-- [Community, Code Review &amp; AI Changing Tech](https://www.nickyt.co/videos/community-code-review-and-ai-changing-tech-santosh-yadav/)
 - [How I Travel for Work](https://www.nickyt.co/blog/how-i-travel-for-work/)
+- [Introducing Excaliclaw: A Skill for OpenClaw to Generate Excalidraw Diagrams](https://www.nickyt.co/blog/introducing-excaliclaw-a-skill-for-openclaw-to-generate-excalidraw-diagrams/)
+- [Stop Shipping Broken Env Config](https://www.nickyt.co/blog/stop-shipping-broken-env-config/)
+- [Clawspace: A Browser-Based File Explorer for OpenClaw](https://www.nickyt.co/blog/clawspace-a-browser-based-file-explorer-for-openclaw/)
+- [Let Dependabot Merge Its Own PRs](https://www.nickyt.co/blog/let-dependabot-merge-its-own-prs/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Upcoming Live Streams

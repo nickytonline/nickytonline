@@ -14,3 +14,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: 'https://www.nickyt.co/feed.xml'
+          # Site RSS mixes /blog/ posts and /videos/ pages; keep posts only.
+          item_exec: "if (!post.url.includes('/blog/')) post = null;"
