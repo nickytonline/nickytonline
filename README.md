@@ -11,9 +11,9 @@
 ## Latest Newsletter Posts
 
 <!-- NEWSLETTER-POST-LIST:START -->
+- [One Tip a Week: Stop Fighting With Slide Editors](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-stop-fighting-with-slide-editors)
 - [One Tip a Week: Stop Feeding Your Coding Agent Entire Web Pages](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-stop-feeding-your-coding-agent-entire-web-pages)
 - [One Tip a Week: A Pretty Nifty Open-Source Meeting Assistant](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-a-pretty-nifty-open-source-meeting-assistant)
-- [One Tip a Week: Debug Network Problems Without Being a Network Expert](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-debug-network-problems-without-being-a-network-expert)
 <!-- NEWSLETTER-POST-LIST:END -->
 
 Not subscribed? [Subscribe](https://onetipaweek.com) and join other folks that are getting value from [OneTipAWeek.com](https://onetipaweek.com).
