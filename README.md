@@ -28,7 +28,7 @@ Not subscribed? [Subscribe](https://onetipaweek.com) and join other folks that a
 
 ## Upcoming Live Streams
 
-<!-- STREAM-SCHEDULE:START --><table border="0"><tr><td><a href="https://www.nickyt.co/videos/oss-and-ai-brandon-roberts" title="OSS & AI - Brandon Roberts - Thu, Sep 17, 07:30 PM UTC"><img src="https://img.youtube.com/vi/lHETwdGN-aU/maxresdefault.jpg" alt="OSS & AI - Brandon Roberts - Thu, Sep 17, 07:30 PM UTC" width="360" height="203" loading="lazy" /></a></td><td><a href="https://www.nickyt.co/videos/voice-driven-development-trillium-smith" title="Voice driven development? - Trillium Smith - Thu, Oct 8, 07:00 PM UTC"><img src="https://img.youtube.com/vi/Xg1b1NbOicI/maxresdefault.jpg" alt="Voice driven development? - Trillium Smith - Thu, Oct 8, 07:00 PM UTC" width="360" height="203" loading="lazy" /></a></td></tr></table><!-- STREAM-SCHEDULE:END -->
+<!-- STREAM-SCHEDULE:START --><table border="0"><tr><td><a href="https://www.nickyt.co/videos/voice-driven-development-trillium-smith" title="Voice driven development? - Trillium Smith - Thu, Oct 8, 07:00 PM UTC"><img src="https://img.youtube.com/vi/Xg1b1NbOicI/maxresdefault.jpg" alt="Voice driven development? - Trillium Smith - Thu, Oct 8, 07:00 PM UTC" width="360" height="203" loading="lazy" /></a></td><td></td></tr></table><!-- STREAM-SCHEDULE:END -->
 
 ## Latest Videos
 
