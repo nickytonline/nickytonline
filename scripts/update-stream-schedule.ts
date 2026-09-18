@@ -1,4 +1,5 @@
 require('dotenv').config();
+const {google} = require('googleapis');
 const fs = require('fs/promises');
 const path = require('path');
 const Parser = require('rss-parser');
@@ -11,10 +12,15 @@ const SCHEDULE_MARKER_FINDER = new RegExp(
 );
 
 const FEED_URL = 'https://www.nickyt.co/stream-schedule-feed.xml';
+const YOUTUBE_CHANNEL_HANDLES = ['@pomerium_io'];
+const YOUTUBE_API_KEY = process.env.YOUTUBE_API_KEY;
 
 async function main() {
   try {
-    const streams = await getUpcomingStreams();
+    const youtube = YOUTUBE_API_KEY
+      ? google.youtube({version: 'v3', auth: YOUTUBE_API_KEY})
+      : undefined;
+    const streams = await getAllUpcomingStreams(youtube);
     const scheduleMarkup = await generateScheduleMarkup(streams);
     const template = await getTemplate();
 
@@ -28,6 +34,18 @@ async function main() {
   } catch (error) {
     console.error('Error updating stream schedule:', error);
   }
+}
+
+async function getAllUpcomingStreams(youtube) {
+  const feedStreams = await getUpcomingStreams();
+  const youtubeStreams = youtube ? await getUpcomingYouTubeStreams(youtube) : [];
+
+  return [...feedStreams, ...youtubeStreams]
+    .filter(
+      (stream, index, streams) =>
+        streams.findIndex((candidate) => candidate.link === stream.link) === index,
+    )
+    .sort((a, b) => a.date.getTime() - b.date.getTime());
 }
 
 async function getUpcomingStreams() {
@@ -61,6 +79,71 @@ async function getUpcomingStreams() {
     console.error('Error fetching stream schedule:', error);
     return [];
   }
+}
+
+async function getUpcomingYouTubeStreams(youtube) {
+  const now = new Date();
+  const streams = [];
+
+  for (const handle of YOUTUBE_CHANNEL_HANDLES) {
+    try {
+      const channelResponse = await youtube.channels.list({
+        part: ['id'],
+        forHandle: handle,
+      });
+      const channelId = channelResponse.data.items?.[0]?.id;
+
+      if (!channelId) {
+        console.warn(`Could not find YouTube channel for ${handle}`);
+        continue;
+      }
+
+      const searchResponse = await youtube.search.list({
+        part: ['snippet'],
+        channelId,
+        eventType: 'upcoming',
+        maxResults: 50,
+        order: 'date',
+        type: ['video'],
+      });
+      const videoIds = searchResponse.data.items
+        ?.map((item) => item.id?.videoId)
+        .filter(Boolean);
+
+      if (!videoIds?.length) {
+        continue;
+      }
+
+      const videosResponse = await youtube.videos.list({
+        part: ['liveStreamingDetails', 'snippet'],
+        id: videoIds,
+      });
+
+      for (const video of videosResponse.data.items ?? []) {
+        const scheduledStartTime = video.liveStreamingDetails?.scheduledStartTime;
+        const videoId = video.id;
+        const date = scheduledStartTime
+          ? new Date(scheduledStartTime)
+          : undefined;
+
+        if (!videoId || !date || Number.isNaN(date.getTime()) || date <= now) {
+          continue;
+        }
+
+        streams.push({
+          title: video.snippet?.title,
+          date,
+          link: `https://www.youtube.com/watch?v=${videoId}`,
+          description: video.snippet?.description || '',
+          thumbnailUrl: getBestThumbnail(video.snippet?.thumbnails),
+        });
+      }
+    } catch (error) {
+      console.error(`Error fetching upcoming YouTube streams for ${handle}:`, error);
+    }
+  }
+
+  return streams;
 }
 
 async function generateScheduleMarkup(streams) {
@@ -132,6 +215,22 @@ async function generateScheduleMarkup(streams) {
 
   markup += '</table>';
   return markup;
+}
+
+function getBestThumbnail(thumbnails) {
+  for (const quality of [
+    'maxres',
+    'standard',
+    'high',
+    'medium',
+    'default',
+  ]) {
+    if (thumbnails?.[quality]?.url) {
+      return thumbnails[quality].url;
+    }
+  }
+
+  return '';
 }
 
 async function getTemplate(): Promise<string> {
