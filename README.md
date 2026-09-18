@@ -28,7 +28,7 @@ Not subscribed? [Subscribe](https://onetipaweek.com) and join other folks that a
 
 ## Upcoming Live Streams
 
-<!-- STREAM-SCHEDULE:START --><table border="0"><tr><td><a href="https://www.nickyt.co/videos/voice-driven-development-trillium-smith" title="Voice driven development? - Trillium Smith - Thu, Oct 8, 07:00 PM UTC"><img src="https://img.youtube.com/vi/Xg1b1NbOicI/maxresdefault.jpg" alt="Voice driven development? - Trillium Smith - Thu, Oct 8, 07:00 PM UTC" width="360" height="203" loading="lazy" /></a></td><td></td></tr></table><!-- STREAM-SCHEDULE:END -->
+<!-- STREAM-SCHEDULE:START --><table border="0"><tr><td><a href="https://www.nickyt.co/videos/voice-driven-development-trillium-smith" title="Voice driven development? - Trillium Smith - Thu, Oct 8, 07:00 PM UTC"><img src="https://img.youtube.com/vi/Xg1b1NbOicI/maxresdefault.jpg" alt="Voice driven development? - Trillium Smith - Thu, Oct 8, 07:00 PM UTC" width="360" height="203" loading="lazy" /></a></td><td><a href="https://www.youtube.com/watch?v=FjU67oAbpUA" title="How People AI Vol. 4 - Thu, Oct 15, 05:00 PM UTC"><img src="https://i.ytimg.com/vi/FjU67oAbpUA/maxresdefault_live.jpg" alt="How People AI Vol. 4 - Thu, Oct 15, 05:00 PM UTC" width="360" height="203" loading="lazy" /></a></td></tr></table><!-- STREAM-SCHEDULE:END -->
 
 ## Latest Videos
 
