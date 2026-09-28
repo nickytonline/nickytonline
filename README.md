@@ -11,9 +11,9 @@
 ## Latest Newsletter Posts
 
 <!-- NEWSLETTER-POST-LIST:START -->
+- [One Tip a Week: A Launcher Worth Knowing About](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-a-launcher-worth-knowing-about)
 - [One Tip a Week: Stop Wasting AI Tokens on Merge Conflicts](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-stop-wasting-ai-tokens-on-merge-conflicts)
 - [One Tip a Week: Stop Fighting With Slide Editors](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-stop-fighting-with-slide-editors)
-- [One Tip a Week: Stop Feeding Your Coding Agent Entire Web Pages](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-stop-feeding-your-coding-agent-entire-web-pages)
 <!-- NEWSLETTER-POST-LIST:END -->
 
 Not subscribed? [Subscribe](https://onetipaweek.com) and join other folks that are getting value from [OneTipAWeek.com](https://onetipaweek.com).
