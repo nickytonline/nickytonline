@@ -11,9 +11,9 @@
 ## Latest Newsletter Posts
 
 <!-- NEWSLETTER-POST-LIST:START -->
+- [One Tip a Week: Cut the Terminal Noise Your Coding Agent Reads](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-cut-the-terminal-noise-your-coding-agent-reads)
 - [One Tip a Week: A Launcher Worth Knowing About](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-a-launcher-worth-knowing-about)
 - [One Tip a Week: Stop Wasting AI Tokens on Merge Conflicts](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-stop-wasting-ai-tokens-on-merge-conflicts)
-- [One Tip a Week: Stop Fighting With Slide Editors](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-stop-fighting-with-slide-editors)
 <!-- NEWSLETTER-POST-LIST:END -->
 
 Not subscribed? [Subscribe](https://onetipaweek.com) and join other folks that are getting value from [OneTipAWeek.com](https://onetipaweek.com).
