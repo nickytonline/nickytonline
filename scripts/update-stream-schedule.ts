@@ -38,7 +38,7 @@ async function main() {
 
 async function getAllUpcomingStreams(youtube) {
   const feedStreams = await getUpcomingStreams();
-  const youtubeStreams = youtube ? await getUpcomingYouTubeStreams(youtube) : [];
+  const youtubeStreams = []; // youtube ? await getUpcomingYouTubeStreams(youtube) : [];
 
   return [...feedStreams, ...youtubeStreams]
     .filter(
