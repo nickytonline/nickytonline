@@ -28,7 +28,7 @@ Not subscribed? [Subscribe](https://onetipaweek.com) and join other folks that a
 
 ## Upcoming Live Streams
 
-<!-- STREAM-SCHEDULE:START --><table border="0"><tr><td><a href="https://www.nickyt.co/videos/the-mcp-tool-your-agent-vetted-isnt-the-one-it-calls-gautam-bharti" title="The MCP Tool Your Agent Vetted Isn’t the One It Calls - Gautam Bharti - Tue, Oct 13, 06:00 PM UTC"><img src="https://img.youtube.com/vi/sc8ZfAbPoGM/maxresdefault.jpg" alt="The MCP Tool Your Agent Vetted Isn’t the One It Calls - Gautam Bharti - Tue, Oct 13, 06:00 PM UTC" width="360" height="203" loading="lazy" /></a></td><td><a href="https://www.nickyt.co/videos/how-people-ai-vol-4-multiple-guests" title="How People AI Vol. 4 - Multiple Guests - Thu, Oct 15, 05:00 PM UTC"><img src="https://img.youtube.com/vi/FjU67oAbpUA/maxresdefault.jpg" alt="How People AI Vol. 4 - Multiple Guests - Thu, Oct 15, 05:00 PM UTC" width="360" height="203" loading="lazy" /></a></td></tr></table><!-- STREAM-SCHEDULE:END -->
+<!-- STREAM-SCHEDULE:START --><table border="0"><tr><td><a href="https://www.nickyt.co/videos/how-people-ai-vol-4-multiple-guests" title="How People AI Vol. 4 - Multiple Guests - Thu, Oct 15, 05:00 PM UTC"><img src="https://img.youtube.com/vi/FjU67oAbpUA/maxresdefault.jpg" alt="How People AI Vol. 4 - Multiple Guests - Thu, Oct 15, 05:00 PM UTC" width="360" height="203" loading="lazy" /></a></td><td></td></tr></table><!-- STREAM-SCHEDULE:END -->
 
 ## Latest Videos
 
