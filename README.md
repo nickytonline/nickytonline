@@ -28,7 +28,9 @@ Not subscribed? [Subscribe](https://onetipaweek.com) and join other folks that a
 
 ## Upcoming Live Streams
 
-<!-- STREAM-SCHEDULE:START --><table border="0"><tr><td><a href="https://www.nickyt.co/videos/how-people-ai-vol-4-multiple-guests" title="How People AI Vol. 4 - Multiple Guests - Thu, Oct 15, 05:00 PM UTC"><img src="https://img.youtube.com/vi/FjU67oAbpUA/maxresdefault.jpg" alt="How People AI Vol. 4 - Multiple Guests - Thu, Oct 15, 05:00 PM UTC" width="360" height="203" loading="lazy" /></a></td><td></td></tr></table><!-- STREAM-SCHEDULE:END -->
+<!-- STREAM-SCHEDULE:START -->
+<p>No upcoming streams scheduled at the moment.</p>
+<!-- STREAM-SCHEDULE:END -->
 
 ## Latest Videos
 
