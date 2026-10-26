@@ -11,9 +11,9 @@
 ## Latest Newsletter Posts
 
 <!-- NEWSLETTER-POST-LIST:START -->
+- [One Tip a Week: Spin Up a Clean Mac in Seconds](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-spin-up-a-clean-mac-in-seconds)
 - [One Tip a Week: Record Your Screen Without the Black Bars](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-record-your-screen-without-the-black-bars)
 - [One Tip a Week: Catch Secrets Before They Leave Your Laptop](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-catch-secrets-before-they-leave-your-laptop)
-- [One Tip a Week: Cut the Terminal Noise Your Coding Agent Reads](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-cut-the-terminal-noise-your-coding-agent-reads)
 <!-- NEWSLETTER-POST-LIST:END -->
 
 Not subscribed? [Subscribe](https://onetipaweek.com) and join other folks that are getting value from [OneTipAWeek.com](https://onetipaweek.com).
