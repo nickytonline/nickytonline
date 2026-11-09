@@ -11,9 +11,9 @@
 ## Latest Newsletter Posts
 
 <!-- NEWSLETTER-POST-LIST:START -->
+- [One Tip a Week: You&#39;re Not Writing the Code. You&#39;re Reading It.](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-you-re-not-writing-the-code-you-re-reading-it)
 - [One Tip a Week: Make SSH Feel Less Remote](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-make-ssh-feel-less-remote)
 - [One Tip a Week: Spin Up a Clean Mac in Seconds](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-spin-up-a-clean-mac-in-seconds)
-- [One Tip a Week: Record Your Screen Without the Black Bars](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-record-your-screen-without-the-black-bars)
 <!-- NEWSLETTER-POST-LIST:END -->
 
 Not subscribed? [Subscribe](https://onetipaweek.com) and join other folks that are getting value from [OneTipAWeek.com](https://onetipaweek.com).
