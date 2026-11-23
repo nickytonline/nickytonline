@@ -11,9 +11,9 @@
 ## Latest Newsletter Posts
 
 <!-- NEWSLETTER-POST-LIST:START -->
+- [One Tip a Week: Find the One Line That Actually Changed](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-find-the-one-line-that-actually-changed)
 - [One Tip a Week: Make Your Coding Agent&#39;s Context Last Longer](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-make-your-coding-agent-s-context-last-longer)
 - [One Tip a Week: You&#39;re Not Writing the Code. You&#39;re Reading It.](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-you-re-not-writing-the-code-you-re-reading-it)
-- [One Tip a Week: Make SSH Feel Less Remote](https://one-tip-a-week.beehiiv.com/p/one-tip-a-week-make-ssh-feel-less-remote)
 <!-- NEWSLETTER-POST-LIST:END -->
 
 Not subscribed? [Subscribe](https://onetipaweek.com) and join other folks that are getting value from [OneTipAWeek.com](https://onetipaweek.com).
